@@ -23,7 +23,7 @@ Some mAdhva texts (राघवेन्द्र-विजय) say the prativAd
 Medieval shrIvaiShNava sources say that the person was an advaitin.  
 
 - 3k guruparamparA prabhAva by tRtIya-brahmatantra-parakAla (1394 - 1406), though heavily interpolated 
-- vedAnta-deshika-vaibhava-prakAshikA, 
+- doDDayAchArya's vedAnta-deshika-vaibhava-prakAshikA, 
 - vedAnta-deshika-champU
 
 'moovaayirappaDi guruparamapara prabhava' has many interpolations; but is more accurate compared to other such works regarding dates of rAmAnuja's melukote stint.  
@@ -55,6 +55,8 @@ However, mAdhva sources supposedly agree with vedAnta deshika's role in the deba
 "विष्णुघण्टावताररै नान् जयिक्क वल्लनोव्" ऎऩ्ऱु ईडु पट्टु  
 प्रवणनाय् इरुक्क  
 राजावुं वेदान्त-देशिकर् इडत्तिल् अत्यन्तम् भक्तन् आय् इरुन्दान्॥   
+
+doDDayAchArya -
 
 > कदाचिद् अक्ष्योभ्य-मुनेश् च विद्या-  
 रण्यस्य जातं बहुलं विवादम्।  
