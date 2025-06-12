@@ -9,10 +9,14 @@ Source: [TW](https://archive.org/details/madhvamRta-mahArNava)
 
 Considering the author, this is authoritative for mAdhva-s.  
 _Some_ mAdhva contacts say that it should not be taken literally (not being actual shAstra-vidhi),  
-but the sentiment should be valued. 
+but the sentiment should be valued.  
+This is made clear in the initial shlokas.
 </details>
 
 
+## मङ्गलम्
+
+<details><summary>सुब्रायः</summary>
 
 ॥ श्रीः ॥ 
 श्री लक्ष्मीनरसिंह प्रसीद  
@@ -20,79 +24,685 @@ but the sentiment should be valued.
 श्री गुरुभो नमः  
 हरिः ॐ 
 
-अथ श्री मध्वामृत-महार्णवः 
+अथ श्री-मध्वामृत-महार्णवः 
+</details>
 
-इन्दीवरदलश्याममिन्दिरानन्दवर्धनम् । 
-वन्देनन्दसुतं सान्द्रानन्द सुन्दर विग्रहम् ॥  
-तापत्रयेण सन्तस्तं यदेतदखिलं जगत् ।  
-वक्ष्यामिशान्तये तस्य मध्वामृत-महार्णवम् ॥  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्दीवरदलश्यामम्  
+इन्दिरानन्दवर्धनम् । 
+वन्दे नन्दसुतं सान्द्रा-  
+नन्द-सुन्दर-विग्रहम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+[1] I bow to Lord Krishna,one who is blue in color like neelothphala, that Lord Krishna who gives increased
+happiness to Lakshmi Devi, that Lord Krishna son of Nanda, that Lord Krishna who is complete with happiness and has the most perfect body
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्दीवरदलश्यामम्  
+इन्दिरानन्दवर्धनम् । 
+वन्दे नन्दसुतं सान्द्रा-  
+नन्द-सुन्दर-विग्रहम् ॥  
+</details>
+
+<details><summary>प्रभञ्जनः</summary>
+
+कन्नैदिलॆयन्तॆ कप्पागिरुव इन्दिरादेविगॆ आनन्दवन्नु उक्किसुव आनन्दपूर्ण सुन्दरवर्तियागिरुव नन्दसुत श्रीकृष्णनन्नु वन्दिसुवॆनु, 
+</details>
+
+
+<details><summary>सुब्रायः</summary>
 
 नीलोत्पल दलदन्तॆ नीलवर्ण विशिष्टनू, लक्ष्मिगॆ आनन्द वृद्धि पडिसुववनू, पूर्णानन्ददिन्द सुन्दरवाद देहवुळ्ळवनू कुमारनू आद श्रीकृष्णनन्नु वन्दिसुत्तेनॆ. 
+</details>
 
-नन्द 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तापत्रयेण सन्त्रस्तं  
+यदेतद् अखिलं जगत् ।  
+वक्ष्यामि शान्तये तस्य  
+मध्वामृत-महार्णवम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+[2] The whole world is suffering from 3 miseries. Adhyathmika, Adhibhouthika, AadhiDaivika. To get rid of these 3 miseries, I
+Narayana Pandithacharya will tell this grantha Madhwamrutha Maharnava.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तापत्रयेण सन्त्रस्तं  
+यदेतद् अखिलं जगत् ।  
+वक्ष्यामि शान्तये तस्य  
+मध्वामृत-महार्णवम् ॥  
+</details>
+
+<details><summary>प्रभञ्जनः</summary>
+
+तापत्रयदिन्द बन्दिरुव जगत्तिगॆ अदर उपशमनक्कॆन्दु मध्वा मृतमहार्णव'वन्नु तिळिसुत्तिरुवॆनु, 
+</details>
+
+
+<details><summary>सुब्रायः</summary>
+
 याव ऎल्ला जगत्तु आध्यात्मिक, आदिदॆ विक, आदिभौतिक ऎम्ब तापत्रयदिन्द सन्तप्तवागिदॆयो आ तापत्रयद परिहारक्कागि श्री मध्वामृत महार्णवॆम्ब ग्रन्थवन्नु हेळुत्तेनॆ. (मङ्गलाचरण) 
-चण्डालोपि न चण्डाल घातकोपि न घातकः । अचक्रधारि यो विप्र- स चण्डाल उदाहृतः ॥ १ ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चण्डालोपि न चण्डालो  
+घातकोपि न घातकः ।  
+अचक्रधारि यो विप्रस्  
+स चण्डाल उदाहृतः ॥ १ ॥  
+</details>
+
+<details><summary>English</summary>
+
+[3] A Chandala is not a Chandala, A Ghatuka is not a Ghatuka, That Brahmana who does not wear the sudarshana chakra mark, that person is a real chandala
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चण्डालोपि न चण्डालो  
+घातकोपि न घातकः ।  
+अचक्रधारि यो विप्रस्  
+स चण्डाल उदाहृतः ॥ १ ॥  
+</details>
+
+
 चण्डालनू चण्डालनल्ल, घातुकनू घातुकनल्ल, चक्रवन्नु धरिसद याव ब्राह्मणनिरुवनो अवने चण्डालनॆन्दु हेळल्पडुवनु. 
-गुरुद्रोही नचद्रोही पितृद्रोहीनचैव च । 
-अतन्न देहवन् विप्र- गुरुद्रोहीति चॊ च्यतॆ ॥ २ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरुद्रोही न च द्रोही  
+पितृद्रोही न चैव च । 
+अतप्त-देहवन् विप्रो  
+गुरुद्रोहीति चोच्यते ॥ २ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[4] A Gurudrohi is not a drohi, A pitrudrohi is not a Drohi, but that person who does not get tapthamudhradharane that person is
+a real drohi [this shows the importance and necessity of getting taptha mudhradharana]
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुद्रोही न च द्रोही  
+पितृद्रोही न चैव च । 
+अतप्त-देहवन् विप्रो  
+गुरुद्रोहीति चोच्यते ॥ २ ॥ 
+</details>
+
+<details><summary>प्रभञ्जनः</summary>
+
+गुरुद्रोहियु गुरुद्रोहियल्ल ; पितृद्रोहियुपितृद्रोहिय अल्ल ; विहितरीतियल्लि वैष्णव गुरुगळिन्द तप्तचक्रधरि सद विप्रनु मात गुरुद्रोहिये सरि ; (अवनु पितृद्रोहियू हौदु). 
+</details>
+
+
 गुरुद्रोहियु गुरुद्रोहियल्ल, पितृद्रोहि पितृद्रोहियल्ल तप्त मुद्राधारणॆयिल्लद देहवुळ्ळवनु गुरुद्रोहि ऎम्बुदागि हेळ ल्पडुवनु. 
-सुरापानी नपानीस्यात्‌ स्वर्णक्कॆ तथॆ वच । 
-अचक्रधारि यो विप्र- सुरापानीति चोच्यतॆ । ३ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुरापानी न पानी स्यात्‌  
+स्वर्णस्तेयी तथैव च । 
+अचक्रधारि यो विप्रस्  
+सुरापानीति चोच्यते । ३ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[5] A person who is alchohalic does not get that much surapaana paapa, a gold thief does not get as much paap of stealing gold, as a brahmana who does not wear the sudarshana chakra mark gets paapa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुरापानी न पानी स्यात्‌  
+स्वर्णस्तेयी तथैव च । 
+अचक्रधारि यो विप्रस्  
+सुरापानीति चोच्यते । ३ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सुरापानियु सुरापानियल्ल ; चिन्न कद्दवनू कळ्ळनल्ल ; (तप्प) चक्रधरिसद विप्रनु मात्र सुरापानिये सरि; (अवनु स्वर्णस्तेयि हौदु), (तप्त मुद्रॆ धरिसदिरुवुदु पितृद्रोह, गुरुद्रोह, सुरापानादिगळिगिन्त हॆच्चिन दोष ऎन्दु भाव). 
+</details>
+
+
+
 सुरापान माडिदवनु सुरापानियल्ल, बङ्गार कद्दवनु 
 2. 
 स्वर्णस्तेयियल्ल. चक्र धारणॆ माडद ब्राह्मणनु सुरापानि ऎन्दु हेळल्पडुत्तानॆ. 
-मातृगावि न गामीस्यात् स्वच्छगामी नदोषभाक् । अचक्रधारियो विप्र- मातृगामीस उच्यते ॥ ४ ॥ 
-मातृगमन माडिदवनु मातृगामियल्ल. तङ्गियन्नु हॆण्डति यागिट्टु कॊण्डवनू स्वच्छगामियल्ल. चक्रधारणॆ माडद ब्राह्मणनु मातृगामीयॆम्बुदागि हेळल्पडुवनु. 
-नित्यं चक्राङ्कितं नैव शरीरं यस्य देहिनः । 
-विष्णा कृमिसमं यं शरीरं तस्य वैधृवम् ॥ ५ !! 
-အာ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मातृगामी न गामी स्यात्  
+स्वसृ गामी न दोषभाक् ।  
+अचक्रधारी यो विप्रो  
+मातृगामी स उच्यते ॥ ४ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[6] A person who has relations with his mother does not get as much paapa, a person who has relations with his daughter in law does not get as much sin as a brahmand would get if he does not wear the sudarshana chakra mark.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मातृगामी न गामी स्यात्  
+स्वसृ गामी न दोषभाक् ।  
+अचक्रधारी यो विप्रो  
+मातृगामी स उच्यते ॥ ४ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मातृगामि मातृगावियल्ल ; स्वस्टु गामियु स्वस्टु गामियू दोषियल्ल; (हिन्दॆ हेळिदन्तॆ योग्य गुरुगळिन्द तप्प) चक्रधरिसदवनु मात्र मातृगामियू हागु, स्वसृगामियू हौदु, 
+</details>
+
+
+मातृगमन माडिदवनु मातृगामियल्ल. तङ्गियन्नु हॆण्डति यागिट्टु कॊण्डवनू स्वसृगामियल्ल. चक्रधारणॆ माडद ब्राह्मणनु मातृगामीयॆम्बुदागि हेळल्पडुवनु. 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यं चक्राङ्कितं नैव  
+शरीरं यस्य देहिनः ।  
+विष्टा-कृमिसमं ज्ञेयं  
+शरीरं तस्य वै धृवम् ॥ ५ ॥
+</details>
+
+<details><summary>English</summary>
+
+[7] That persons body which does not carry the mark of sudarshana chakra, that body is as good as a reservoir of germs.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यं चक्राङ्कितं नैव  
+शरीरं यस्य देहिनः ।  
+विष्टा कृमिसमं ज्ञेयं  
+शरीरं तस्य वै धृवम् ॥ ५ ॥
+</details>
+ 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सुदर्शनदिन्द नित्यवू अङ्कितवागद देहवन्नु मलद मद्यद क्रिमि ऎन्दे तिळियबेकु, 
+</details>
+
+
 याव मनुष्यन शरीरवु यावागलू 
 चक्राङ्कितवागिरुवु दिल्लवो अवन शरीरवु निश्चयवागियू मलद क्रिमिगॆ सदृशवादद्दु 
 ऎन्दु तिळियबेकु 
-विना यज्ञपवीतेन विना चक्रस्य धारणात् । वरं हत्या सुरापानं भस्मनस्तुविधारणात् ॥ ६ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विना यज्ञपवीतेन  
+विना चक्रस्य धारणात् ।  
+वरं हत्या, सुरापानं  
+भस्मनस् तु विधारणात् ॥ ६ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[8] If a person does not wear a yagnopavitha, does not wear the sudarshana chakra mark, but instead wears ash [ bhasma ], then he might as well do sins like Brahmahatya, suraapaana, ie if one wears bhasma then he gets more sins than a killer/alchohalic.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विना यज्ञपवीतेन  
+विना चक्रस्य धारणात् ।  
+वरं हत्या, सुरापानं  
+भस्मनस् तु विधारणात् ॥ ६ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यज्योपवितवन्नु धरिसदिरुवुदु, (त) चक्रवन्नु हॊन्ददि रुवुदु मत्तु भस्म धरिसुवुदु इवुगळिगिन्त हत्यॆ मत्तु मद्यपानगळु 
+मेलु, 
+</details>
+
+
+
 यज्योपवीतविल्लदॆ चक्रमुद्रॆयन्नु धारणॆ माडदॆ भस्मवन्नु धारणॆ माडुवुदक्किन्त ब्रह्महत्या, सुरापान माडुवुदु ऒळ्ळॆयदु. (ब्रह्महत्या सुराधान माडबहुदॆन्दु अर्थवल्ल. अदक्किन्तलू भस्म धारण माडुवुदु पापवॆन्दर्थ. 
-अचक्रधारि यो विप्र मध्वशास्त्रं नविन्दति । अवलोक्यमुखं तस्य सतैल स्नानमाचरेत् ॥ ७ ॥ 
+
+## माध्व-शास्त्र-वृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचक्रधारि यो विप्रो  
+मध्वशास्त्रं न विन्दति ।  
+अवलोक्य मुखं तस्य  
+सचैलं स्नानमाचरेत् ॥ ७ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[9] If one sees a learned brahman who does not wear the sudarshana chakra mark and does not study madhwashaastra, the one has to take bath in the clothes that he is on.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचक्रधारि यो विप्रो  
+मध्वशास्त्रं न विन्दति ।  
+अवलोक्य मुखं तस्य  
+सचैलं स्नानमाचरेत् ॥ ७ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+हॆसरिगॆ ब्राह्मण ; तप्तचक्रद धारणॆय इल्ल; वायुदेवर बग्गॆ अरिवू इल्ल : अन्तहवन मुख कण्डल्लि उट्ट वस्त्रदॊन्दिगॆ मिन्दु शुद्द नागबेकु 
+</details>
+
+
+
 याव ब्राह्मणनु चक्र मुद्रॆयन्नु धारणॆ माडदॆ मध शास्त्रवन्नु तिळियदिरुत्तानो अवन मुखवन्नु नोडिदरॆ सलस्थान माडबेकु. (याव वस्त्रगळन्नु धरिसिकॊण्डु नोडुत्तेवो आ वस्त्र सहितवागिये स्नान माडुवुदक्कॆ सचैलस्थानवॆन्दु हॆसरु. 
-तस्यकण्ठे शिलाम्बध्वा सिन्धुमध्यॆ विनिक्षिपेत् । 
-कदास्यतन्न देहस्तु मध्वशास्त्रं विदूष्यति ॥ ८ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचक्रधारि यो विप्रो  
+मध्वशास्त्रं न विन्दति ।  
+तस्य कण्ठे शिलाम् बद्ध्वा  
+सिन्धुमध्ये विनिक्षिपेत् ।  
+</details>
+
+<details><summary>English</summary>
+
+[10] The person who does not get taptha mudhradharana even once in his life and who makes fun of madhwashaastra, that person must be tied to a huge boulder and thrown into deep ocean.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचक्रधारि यो विप्रो  
+मध्वशास्त्रं न विन्दति ।  
+तस्य कण्ठे शिलाम् बद्ध्वा  
+सिन्धुमध्ये विनिक्षिपेत् ।  
+</details>
+
 ऒन्दु सलवू तप्त मुद्राधारणॆ माडदॆ मध्वशास्त्रवन्नु 
 3 
 दूषिसुववन कण्ठदल्लि शिलॆयन्नु कट्टि अवनन्नु समुद्र मध्यदल्लि हाक 
 बेकु. 
-संसारे किश्यमानस्तुतमो विशति स धृवम् । 
-मध्वस्य लाञ्छनं हित्वामायिशास्तम्भजेद्यधि ॥ ९ ॥ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कदाप्य् अतप्त-देहस्तु  
+मध्वशास्त्रं विदूष्यति ॥ ८ ॥  
+संसारे क्लिश्यमानस् तु  
+तमो विशति स धृवम् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कदाप्य् अतप्त-देहस्तु  
+मध्वशास्त्रं विदूष्यति ॥ ८ ॥  
+संसारे क्लिश्यमानस् तु  
+तमो विशति स धृवम् । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तप्त मुद्राधारणॆ आगिद्दरू मध्वशास्त्रवन्नु निन्दिसुववनु; संसारदल्लि केशपडुवनु ; अनन्तर निश्चयवागि तमस्सिगू तॆरळुवनु. 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्वस्य लाञ्छनं हित्वा  
+मायिशास्त्रम् भजेद् यदि ॥ ९ ॥  
+दुःखात्मकं तस्य तमो  
+भवत्येव न संशयः ॥ 09 ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[11] If one leaves the MadhwaShaastra and instead goes and studies Adhvaitha, then that person is willingly entering the deepest and goriest of all hells, ie the andhatamas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मध्व लाञ्छनं हित्वा मायिशास्त्रं भजेद्यदि ।  
+दुःखात्मकं तस्य तमो भवत्येव न संशयः ॥ 09 ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मध्वलाञ्छनवन्नु तॊरॆदु मायवादवन्नु आश्रयिसिदल्लि दुःख 
+रूपवाद तमस्सु तप्पुवुदे इल्ल. 
+</details>
+
+
 श्री मध्वाचार्यर लाञ्छनवन्नु बिट्टु मायावाद शास्त्र वन्नु सेविसिदरॆ संसारदल्लि कष्ट पट्टु निश्चयवागियू प्रवेशिसुत्तानॆ. 
-दुःखात्मकं तमो घोरं भवव न संशयः । दूषयित्वा मयिशास्त्र, मध्वशास्त्रं भजेद्यदि ! मुक्ति- करतले तस्य नात्रकारा विचारणा । १० ॥ 
+दुःखात्मकं तमो घोरं भवव न संशयः ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दूषयित्वा मायिशास्त्रं,  
+मध्वशास्त्रं भजेद्यदि !  
+मुक्तिः करतले तस्य  
+नात्र कार्या विचारणा । १० ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[12] If one follows maayavaada ie advaitha, then andhatamas is guaranteed for him, and if the person rejects advaitha and
+crictisises it, then for that person moksha is assured.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दूषयित्वा मायिशास्त्रं,  
+मध्वशास्त्रं भजेद्यदि !  
+मुक्तिः करतले तस्य  
+नात्र कार्या विचारणा । १० ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मायावादवन्नु त्यजिसि, मध्वशास्त्रवन्नु तिळिदवनिगॆ मुक्ति अङ्गैयल्ले नॆलॆसुवुदु ; ई बग्गॆ संशय बेड, 
+</details>
+
+
 अन्धतमस्सिनल्लि 
 मायावादि शास्त्रवन्नु सेविसिदरॆ दुःखात्मकवाद अंर्ध तमस्सु आगिये आगुत्तदॆ. सन्देहवे इल्ल. अन्ध तमस्तु भयङ्कर वादुदु. मायावादि शास्त्रवन्नु दूषिसि श्री मध्वशास्त्रवन्नु भजिसि दरॆ अवन अङ्गै यल्लिये मोक्ष, विचारवे माडबेकाद्दिल्ल. 
-यो मधशास्त्रं समुपेक्ष दुष्टो जीवस्य चॆशस्य च साम्य मेव । मुक्तवदेत् शास्त्रमधर्मजुष्यं ज्ञात्वातु भावं प्रविशेत्त- 
-मॊन्धम् ॥ ११ । 
+
+## श्रीवैष्णवादि-दूषणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो मध्वशास्त्रं समुपेक्ष्य दुष्टो  
+जीवस्य चेशस्य च साम्यम् एव ।  
+मुक्तौ वदेत् शास्त्रम् अधर्मजुष्यं  
+ज्ञात्वातु भावं प्रविशेत् तमोऽन्धम् ॥ ११ । 
+</details>
+
+<details><summary>English</summary>
+
+[13] That evil person who preaches the equality of jeeva and Shri Krishna in moksha [ ie vishisthadvaithis ] that person also will reach andhatamas
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यो मध्वशास्त्रं समुपेक्ष्य दुष्टो  
+जीवस्य चेशस्य च साम्यम् एव ।  
+मुक्तौ वदेत् शास्त्रम् अधर्मजुष्यं  
+ज्ञात्वातु भावं प्रविशेत् तमोऽन्धम् ॥ ११ । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मध्वशास्त्रवन्नु कडॆगणिसि मुक्तियल्लि जीव मत्तु ईशरिगॆ साम्य हेळुववनिगॆ अन्धन्तमस्सिगॆ प्रवेशवु तप्पिद्दल्ल. 
+</details>
+
+
 याव दुष्टनु श्री मध्वशास्त्रवन्नु उपेक्षिसि जीवनिगू ईश्वर निगू मोक्षदल्लि साम्यवन्नु हेळुत्तानो अधर्मदिन्द युक्तवाद शास्त्रद भाववन्नु, यारु तिळिदुकॊळ्ळुत्तानो अवनू अन्धः तपस्सिगॆ प्रवेशिसुत्तानॆ. 
-वासुदेवस्य जीवस्य साम्य मित्य क्षरद यम् । 
-मुक्तवदत् सुचण्डालो ब्रह्महा सभवेद्रुवम् ॥ १२ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वासुदेवस्य जीवस्य  
+साम्यम् इत्यक्षर-द्वयम् ।  
+मुक्तौ वदेत् सुचण्डालो  
+ब्रह्महा सम्भवेद् ध्रुवम् ॥ १२ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[14] That evil person who preaches the equality of jeeva and Shri Hari in moksha [ ie vishisthadvaithis ] that person is a chandala and is as much a sinner as one who does brahma hatya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वासुदेवस्य जीवस्य  
+साम्यम् इत्यक्षर-द्वयम् ।  
+मुक्तौ वदेत् सुचण्डालो  
+ब्रह्महा सम्भवेद् ध्रुवम् ॥ १२ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जीव मत्तु वासुदेवरिगॆ मुक्तियल्लि साम्य' ऎम्ब ऎरडक्षरवन्नु नुडियुववनु चण्डालनु, ब्रह्महत्यॆ माडिदवनु ; इदु निश्चय. 
+</details>
+
+
+
 श्री भगवन्तनिगू जीवनिगू “साम्य” ऎम्ब ऎरडु अक्षरवन्नु मोक्षदल्लि हेळुववनु अवने निश्चयवागियू सरियाद अन्त्यज अवने ब्रह्महत्या माडिदवनु. 
-मोहात् कामात् अशास्त्राच्च मुक्ता साम्यम्ब्रुवन् जन । वासुदेवस्य जीवस्य मृतो निरयमाप्रयात् ॥ १३ । 
-4 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोहात् कामात् अशास्त्राच् च  
+मुक्तौ साम्यम् ब्रुवन् जनः ।  
+वासुदेवस्य जीवस्य  
+मृतो निरयम् आप्नुयात् ॥ १३ । 
+</details>
+
+<details><summary>English</summary>
+
+[15] That evil person who preaches the equality of jeeva and Shri Hari in moksha [ ie vishisthadvaithis ] out of moha
+or kaama, that person will go to hell for sure.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मोहात् कामात् अशास्त्राच् च  
+मुक्तौ साम्यम् ब्रुवन् जनः ।  
+वासुदेवस्य जीवस्य  
+मृतो निरयम् आप्नुयात् ॥ १३ । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मोहदिन्दागलि, कावदिन्दागलि, शास्त्रविरुद्दवाद शिव मत्तु विष्णुगळ साम्यवन्नु नुडियुववनु मरणानन्तर नरकक्कॆ तॆरळुवनु. 
+</details>
+
+
+
 मोहदिन्दलो कामदिन्दलो शास्त्रविरुद्धवागियो मोक्ष 
 दल्लि ईश्वरनिगू जीवनिगू साम्यवन्नु हेळुव जनरु मरणानन्तर नर वन्नु हॊन्दुवरु. 
-ब्रह्मकारं जगदिदं ब्रुवन् अज्ज ससंशय- । 
-मरणं प्राप्य मूढात्मा तमो विशति शाश्वतम् ॥ १४ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-कार्यं जगद् इदं  
+ब्रुवन् अज्ञः ससंशयः ।  
+मरणं प्राप्य मूढात्मा  
+तमो विशति शाश्वतम् ॥ १४ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[16] That person who claims that Brahma is upAdAna-kAraNa for this world, that person will die in confused state and will
+reach andhatamas
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म-कार्यं जगद् इदं  
+ब्रुवन् अज्ञः ससंशयः ।  
+मरणं प्राप्य मूढात्मा  
+तमो विशति शाश्वतम् ॥ १४ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ई जगत्तु ब्रह्मन विकार ऎन्दु नुडियुववनु तिळुवळिकॆये इल्ल दवनु ; संशयविल्ल; अन्तह मूर्खनु सत्त नन्तर नित्यवाद तमस्सन्ने हॊन्दुवनु, 
+</details>
+
+
+
 ई जगत्तु ब्रह्मन परिणामवॆन्दु हेळुव मूढनु संशय ग्रस्तनागिद्दु मरणवन्नु हॊन्दिद मेलॆ आ मूढात्मनु शाश्वतवाद अन्धतमस्सुवॆम्ब नरकवन्नु प्रवेशिसुत्तानॆ. 
-श्री वान् रामानुजि' यांश्च तार्किकानन्त्य चांस्कतः । स्मृतास्नानम्प्रकुर्वित गायकृष्ट शतं जपेत् ॥ १५ ॥ शैवरुगळन्नू रामानुजीय मतदवरन्नू, तार्किकरन्नू अन्त्यजरन्नू नॆनॆसिकॊण्डरॆ स्नान माडि १०८ गायत्रियन्नु माड 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शैवान् रामानुजीयांश्च  
+तार्किकान् अन्त्यजांस् ततः ।  
+स्मृत्वा स्नानम् प्रकुर्वित  
+गायत्र्य्-अष्टशतं जपेत् ॥ १५ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[17] Even if one thinks of Shaivaites, Ramanujaites, Tarka people, Anthyajass that person should immediately take bath
+and do 108 Gayathri japa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शैवान् रामानुजीयांश्च  
+तार्किकान् अन्त्यजांस् ततः ।  
+स्मृत्वा स्नानम् प्रकुर्वित  
+गायत्र्य्-अष्टशतं जपेत् ॥ १५ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शैवरु, रामानुजमतदवरु, तार्किकरु मॊदलादवन्नु नॆनॆसिदरू साकु ; स्नान माडुबेकु ; नूरॆण्टुबारि गायत्रियन्नु जपिसबेकु, 
+</details>
+
+
+
+शैवरुगळन्नू रामानुजीय मतदवरन्नू, तार्किकरन्नू अन्त्यजरन्नू नॆनॆसिकॊण्डरॆ स्नान माडि १०८ गायत्रियन्नु माड 
 बेकु. 
-सब्रह्महा सगोफ्ट्‌ सेयी स गुरुतल्पगः । 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ब्रह्महा सगोघ्नश् च  
+स्तेयी स गुरुतल्पगः । 
+मुक्तौ साम्यम् ब्रुवाणो हि  
+जीव-सर्वेशयोर् अपि ॥ १६ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[18] That evil person who preaches the equality of jeeva and Shri Hari in moksha , that person does as much sin as
+killing Brahmans, killing cows, Stealing, mating with teachers wife.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स ब्रह्महा सगोघ्नश् च  
+स्तेयी स गुरुतल्पगः । 
+मुक्तौ साम्यम् ब्रुवाणो हि  
+जीव-सर्वेशयोर् अपि ॥ १६ ॥ 
+</details>
+ 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जीव मत्तु ईशरिगॆ मुक्तियल्लि साम्य हेळुववनु ब्रह्महत्यॆ माडिदवनु, गोवन्नु कॊन्दवनु, चिन्न कद्दवनु, गुरुतल्प गमन माडिदवनु आगुवनु. 
+</details>
+
+
 हागि 
-मुक्त साम्यम्ब्रुवाणो हि जीवसर्वॆशयोरपि ॥ १६ ॥ 
 मोक्षदल्लि जीवनिगू श्री भगवन्तनिगू साम्यवन्नु हेळुववन ब्रह्महत्या माडिदवनु, गोहत्या माडिदवनु, तस्करन गुरुभार्या 
 गमन माडिदवनु. 
-वरंस मातृगमनं वरङ्गोमांस भक्षणम् । 
-वरन्त्या सुरापानं मुक्त साम्यं च चोदनात् ॥ १७ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरं स्व-मातृ-गमनं  
+वरङ् गोमांस भक्षणम् । 
+वरं हत्या सुरापानं  
+मुक्तौ साम्यस्य चोदनात् ॥ १७ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[19] That evil person who preaches the equality of jeeva and Shri Hari in moksha, he might as well kill Brahmans,
+kill cows, Steal, mate with his mother and teachers wife, because he has done much much more sin than those.
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+This nArAyaNa-"paNDita" blabbers that shrIvaiShNava-s are MF-s etc..  
+वरं स्वमातृ-गमनं वरङ् गोमांस भक्षणम् । 
+वरं हत्या सुरापानं मुक्तौ साम्यस्य चोदनात् ॥ १७ ॥ 
+
+While shruti - > ‘‘निरञ्जनः परमं साम्यम् उपैति’’ 
+smRti - > ‘‘मम साधर्म्यम् आगताः’’ 
+and brahmasUtras - > ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’ 
+
+A foul-mouthed non-serious "vaiShNava". Good for comedy time though.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वरं स्वमातृ-गमनं वरङ् गोमांस भक्षणम् । 
+वरं हत्या सुरापानं मुक्तौ साम्यस्य चोदनात् ॥ १७ ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुक्तियल्लि (जीवेशरिगॆ) साम्य हेळुवुदक्किन्त मातृगमन, गोमांसभक्षण मत्तु ब्रह्महत्यॆ मत्तु मद्यपानगळु उत्तम. 
+</details>
+
+
 साम्यवन्नु हेळुवुदक्किन्त तायि सङ्ग माडुवुदु ऒळ्ळॆयदु. गोमांस भक्षण माडुवुदु ऒळ्ळॆयदु. हिंसा माडुवुदु, सुट पान माडुवुदु ऒळ्ळॆयदु. (मातृसङ्ग माडबेकॆन्दु अर्थव गोमांस भक्षणादिगळिगिन्तलू मुक्तनिगॆ ब्रह्मसाम्य हेळुवुदु अ 
 पापवॆन्दु अर्थ.) 
-मुक्तावसि च संसारे न साम्यं ब्रह्मजीवयो । सम्पूर्णानन्दवान् विष्णु- परिपूर्णानन्दनान्नरः ॥ १८ ॥ 
-विष्णुवु सम्पूर्णानन्दवुळ्ळवनु, जीवन सम्पूर्णानन्दवुळ्ळवང 
-नॆन्दु परब्रह्मनिगू जीवनिगू मुक्तियल्लियू संसारदल्लियू साम्य हेळुवुदु सरियल्ल. 
-यदा सञ्जायते सङ्गो जायया मायिनां सच । मात्रासमस्तु, विज्ञॆयो भिन्नत्वं यतस्तयोः ॥ १९ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्ताव् अपि च संसारे  
+न साम्यं ब्रह्म-जीवयोः ।  
+सम्पूर्णानन्दवान् विष्णुः  
+परिपूर्णानन्दवान् नरः ॥ १८ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[20] Vishnu is full of happiness, the jeeva is also full of happiness, In mukthi both are same. This is very
+much a wrong statement.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्ताव् अपि च संसारे  
+न साम्यं ब्रह्मजीवयोः ।  
+सम्पूर्णानन्दवान् विष्णुः  
+परिपूर्णानन्दवान् नरः ॥ १८ ॥ 
+</details>
+ 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुक्तियल्ले आगलि, संसारदल्ले आगलि, जीवब्रह्मरिगॆ साम्यवु साध्यविल्ल; विष्णुवु आनन्दपूर्णनु; जीवनु ऎन्दू अवनन्नु सम्पूर्ण तिळियद अज्ञानि; अवरल्लि साम्यवागली, ऐक्यवागलि ऎन्दू इरुवुदिल्ल. 
+</details>
+
+
+विष्णुवु सम्पूर्णानन्दवुळ्ळवनु,  
+जीवन सम्पूर्णानन्दवुळ्ळवन् ऎन्दु  
+परब्रह्मनिगू जीवनिगू मुक्तियल्लियू संसारदल्लियू साम्य हेळुवुदु सरियल्ल. 
+
+## शाङ्कर-दूषणम्
+
+यदा सञ्जायते सङ्गो  
+जायया मायिनां सच ।  
+मात्रासमस्तु, विज्ञॆयो भिन्नत्वं यतस्तयोः ॥ १९ ॥ 
 मायावाद मतदल्लि तायियू हॆण्डतियू अभिन्नरादुदरिन्द यावाग हॆण्डतियिन्द सङ्गवुण्टागुत्तदो अदु तायिय सङ्गक्कॆ सम वॆन्दु तिळिदुकॊळ्ळबेकु. 
 मध्वशास्त्रं दूषयित्वा साम्यशास्त्रं भजेद्यदि । 
 दुःखात्मकं तमस्तस्य भवव न संशयः ॥ २० । 
