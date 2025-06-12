@@ -178,7 +178,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 सुरापानीति चोच्यते । ३ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 सुरापानियु सुरापानियल्ल ; चिन्न कद्दवनू कळ्ळनल्ल ; (तप्प) चक्रधरिसद विप्रनु मात्र सुरापानिये सरि; (अवनु स्वर्णस्तेयि हौदु), (तप्त मुद्रॆ धरिसदिरुवुदु पितृद्रोह, गुरुद्रोह, सुरापानादिगळिगिन्त हॆच्चिन दोष ऎन्दु भाव). 
 </details>
@@ -211,7 +211,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 मातृगामी स उच्यते ॥ ४ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मातृगामि मातृगावियल्ल ; स्वस्टु गामियु स्वस्टु गामियू दोषियल्ल; (हिन्दॆ हेळिदन्तॆ योग्य गुरुगळिन्द तप्प) चक्रधरिसदवनु मात्र मातृगामियू हागु, स्वसृगामियू हौदु, 
 </details>
@@ -241,7 +241,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 शरीरं तस्य वै धृवम् ॥ ५ ॥
 </details>
  
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 सुदर्शनदिन्द नित्यवू अङ्कितवागद देहवन्नु मलद मद्यद क्रिमि ऎन्दे तिळियबेकु, 
 </details>
@@ -273,7 +273,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 भस्मनस् तु विधारणात् ॥ ६ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 यज्योपवितवन्नु धरिसदिरुवुदु, (त) चक्रवन्नु हॊन्ददि रुवुदु मत्तु भस्म धरिसुवुदु इवुगळिगिन्त हत्यॆ मत्तु मद्यपानगळु 
 मेलु, 
@@ -306,7 +306,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 सचैलं स्नानमाचरेत् ॥ ७ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 हॆसरिगॆ ब्राह्मण ; तप्तचक्रद धारणॆय इल्ल; वायुदेवर बग्गॆ अरिवू इल्ल : अन्तहवन मुख कण्डल्लि उट्ट वस्त्रदॊन्दिगॆ मिन्दु शुद्द नागबेकु 
 </details>
@@ -360,7 +360,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 तमो विशति स धृवम् । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 तप्त मुद्राधारणॆ आगिद्दरू मध्वशास्त्रवन्नु निन्दिसुववनु; संसारदल्लि केशपडुवनु ; अनन्तर निश्चयवागि तमस्सिगू तॆरळुवनु. 
 </details>
@@ -388,7 +388,7 @@ a real drohi [this shows the importance and necessity of getting taptha mudhradh
 दुःखात्मकं तस्य तमो भवत्येव न संशयः ॥ 09 ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मध्वलाञ्छनवन्नु तॊरॆदु मायवादवन्नु आश्रयिसिदल्लि दुःख 
 रूपवाद तमस्सु तप्पुवुदे इल्ल. 
@@ -421,7 +421,7 @@ crictisises it, then for that person moksha is assured.
 नात्र कार्या विचारणा । १० ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मायावादवन्नु त्यजिसि, मध्वशास्त्रवन्नु तिळिदवनिगॆ मुक्ति अङ्गैयल्ले नॆलॆसुवुदु ; ई बग्गॆ संशय बेड, 
 </details>
@@ -453,7 +453,7 @@ crictisises it, then for that person moksha is assured.
 ज्ञात्वातु भावं प्रविशेत् तमोऽन्धम् ॥ ११ । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मध्वशास्त्रवन्नु कडॆगणिसि मुक्तियल्लि जीव मत्तु ईशरिगॆ साम्य हेळुववनिगॆ अन्धन्तमस्सिगॆ प्रवेशवु तप्पिद्दल्ल. 
 </details>
@@ -483,7 +483,7 @@ crictisises it, then for that person moksha is assured.
 ब्रह्महा सम्भवेद् ध्रुवम् ॥ १२ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 जीव मत्तु वासुदेवरिगॆ मुक्तियल्लि साम्य' ऎम्ब ऎरडक्षरवन्नु नुडियुववनु चण्डालनु, ब्रह्महत्यॆ माडिदवनु ; इदु निश्चय. 
 </details>
@@ -514,7 +514,7 @@ or kaama, that person will go to hell for sure.
 मृतो निरयम् आप्नुयात् ॥ १३ । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मोहदिन्दागलि, कावदिन्दागलि, शास्त्रविरुद्दवाद शिव मत्तु विष्णुगळ साम्यवन्नु नुडियुववनु मरणानन्तर नरकक्कॆ तॆरळुवनु. 
 </details>
@@ -548,7 +548,7 @@ reach andhatamas
 तमो विशति शाश्वतम् ॥ १४ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 ई जगत्तु ब्रह्मन विकार ऎन्दु नुडियुववनु तिळुवळिकॆये इल्ल दवनु ; संशयविल्ल; अन्तह मूर्खनु सत्त नन्तर नित्यवाद तमस्सन्ने हॊन्दुवनु, 
 </details>
@@ -580,7 +580,7 @@ and do 108 Gayathri japa.
 गायत्र्य्-अष्टशतं जपेत् ॥ १५ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 शैवरु, रामानुजमतदवरु, तार्किकरु मॊदलादवन्नु नॆनॆसिदरू साकु ; स्नान माडुबेकु ; नूरॆण्टुबारि गायत्रियन्नु जपिसबेकु, 
 </details>
@@ -613,7 +613,7 @@ killing Brahmans, killing cows, Stealing, mating with teachers wife.
 जीव-सर्वेशयोर् अपि ॥ १६ ॥ 
 </details>
  
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 जीव मत्तु ईशरिगॆ मुक्तियल्लि साम्य हेळुववनु ब्रह्महत्यॆ माडिदवनु, गोवन्नु कॊन्दवनु, चिन्न कद्दवनु, गुरुतल्प गमन माडिदवनु आगुवनु. 
 </details>
@@ -657,7 +657,7 @@ A foul-mouthed non-serious "vaiShNava". Good for comedy time though.
 वरं हत्या सुरापानं मुक्तौ साम्यस्य चोदनात् ॥ १७ ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मुक्तियल्लि (जीवेशरिगॆ) साम्य हेळुवुदक्किन्त मातृगमन, गोमांसभक्षण मत्तु ब्रह्महत्यॆ मत्तु मद्यपानगळु उत्तम. 
 </details>
@@ -688,7 +688,7 @@ much a wrong statement.
 परिपूर्णानन्दवान् नरः ॥ १८ ॥ 
 </details>
  
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रभञ्जनः</summary>
 
 मुक्तियल्ले आगलि, संसारदल्ले आगलि, जीवब्रह्मरिगॆ साम्यवु साध्यविल्ल; विष्णुवु आनन्दपूर्णनु; जीवनु ऎन्दू अवनन्नु सम्पूर्ण तिळियद अज्ञानि; अवरल्लि साम्यवागली, ऐक्यवागलि ऎन्दू इरुवुदिल्ल. 
 </details>
@@ -700,11 +700,40 @@ much a wrong statement.
 
 ## शाङ्कर-दूषणम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 यदा सञ्जायते सङ्गो  
-जायया मायिनां सच ।  
-मात्रासमस्तु, विज्ञॆयो भिन्नत्वं यतस्तयोः ॥ १९ ॥ 
+जायया मायिनो ऽस्य च ।  
+मातृ-सङ्गस् तु विज्ञेयो  
+ह्य् अभिन्नत्वं यतस् तयोः ॥ १९ ॥ 
+</details>
+
+<details><summary>English</summary>
+
+[21] As per maayavaada there is no difference between wife and mother as all are equal, that person who tells this
+whenever he mates with his wife, its as good as mating with his mother.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदा सञ्जायते सङ्गो  
+जायया मायिनो ऽस्य च ।  
+मातृ-सङ्गस् तु विज्ञेयो  
+ह्यभिन्नत्वं यतस्तयोः ॥ १९ ॥ 
+</details>
+
+<details><summary>प्रभञ्जनः</summary>
+
+मायावादिगळु ऎल्लरिगू अभेद हेळुववरु : ऎन्दरॆ अवरु पत्निसङ्गमाडिदाग मातृसङ्गवन्ने माडिदन्तागुवुदिल्लवे ? 
+</details>
+
+
 मायावाद मतदल्लि तायियू हॆण्डतियू अभिन्नरादुदरिन्द यावाग हॆण्डतियिन्द सङ्गवुण्टागुत्तदो अदु तायिय सङ्गक्कॆ सम वॆन्दु तिळिदुकॊळ्ळबेकु. 
 मध्वशास्त्रं दूषयित्वा साम्यशास्त्रं भजेद्यदि । 
+
+
 दुःखात्मकं तमस्तस्य भवव न संशयः ॥ २० । 
 मध्वशास्त्रवन्नु दूषिसि साम्य शास्त्रवन्नु सेविसिदरॆ अवनिगॆ 
 दुःखस्वरूपवाद अन्धन्तमस्सु उण्टागिये 
