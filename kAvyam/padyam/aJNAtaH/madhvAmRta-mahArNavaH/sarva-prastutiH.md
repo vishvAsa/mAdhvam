@@ -7,7 +7,11 @@ Source: [TW](https://archive.org/details/madhvamRta-mahArNava)
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-Considering the author, this is authoritative for mAdhva-s.  
+Authorship of this work is disputed. Some attribute it to trivikrama, other to his son nArAyaNa, yet others doubt its antiquity.
+
+In the other works of nArAyaNa-paNDita, there is no mention of vishiShTAdvaita, and his verses are of higher metrical quality and are more serious in content. And, given his antiquity and fame, it is doubtful how this work was not widespread until fairly recent times. A reference to a nArAyaNAchArya in a manuscript need not refer to madhva's prashiShya. 
+
+If the author is the famous nArAyaNa paNDita, this is authoritative for mAdhva-s.  
 _Some_ mAdhva contacts say that it should not be taken literally (not being actual shAstra-vidhi),  
 but the sentiment should be valued.  
 This is made clear in the initial shlokas.
@@ -731,15 +735,40 @@ whenever he mates with his wife, its as good as mating with his mother.
 
 
 मायावाद मतदल्लि तायियू हॆण्डतियू अभिन्नरादुदरिन्द यावाग हॆण्डतियिन्द सङ्गवुण्टागुत्तदो अदु तायिय सङ्गक्कॆ सम वॆन्दु तिळिदुकॊळ्ळबेकु. 
-मध्वशास्त्रं दूषयित्वा साम्यशास्त्रं भजेद्यदि । 
 
 
-दुःखात्मकं तमस्तस्य भवव न संशयः ॥ २० । 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्वशास्त्रं दूषयित्वा  
+साम्यशास्त्रं भजेद्यदि ।  
+दुःखात्मकं तमस् तस्य  
+भवत्य् एव न संशयः ॥ 94 ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्वशास्त्रं दूषयित्वा  
+साम्यशास्त्रं भजेद्यदि ।  
+दुःखात्मकं तमस् तस्य  
+भवत्य् एव न संशयः ॥ 94 ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मध्वशास्त्रवन्नु तॊरॆदु साम्यशास्त्रवन्नु आश्रयिसिदवनिगॆ 
+दुःखात्मकवाद तमस्से आगुवुदु ; संशयविल्ल. 
+यि स गुरुतल्पगः । 
+</details>
+
+
 मध्वशास्त्रवन्नु दूषिसि साम्य शास्त्रवन्नु सेविसिदरॆ अवनिगॆ 
 दुःखस्वरूपवाद अन्धन्तमस्सु उण्टागिये 
-यस्मायि कुन्निवृत्यर्थ० अन्नं भुं 
 आगुवुदु सन्देहविल्ल. 
-च श्वानवत् । 
+
+
+
+
 विषाभुक्तिश्य तजेयं हैभिन्नत्वं यतयो ॥ २१ ॥ 
 मायावादि मतदल्लि अन्नक्कू मलक्कू भेदविल्लदिरुवुदरिन्द मायावादी हसिवॆ निवृत्तिगॆ अन्न ऊट माडिदरॆ नायियन्तॆ मल भोजनक्कॆ समवॆन्दु तिळिदुकॊळ्ळबेकु. 
 स्वग्राम गमने मायि ईश्वमारुह्य गच्छति । श्वानारूढस्स विज्ञॆयः भिन्नत्वं यतस्मयोः ॥ २२ ॥ 
