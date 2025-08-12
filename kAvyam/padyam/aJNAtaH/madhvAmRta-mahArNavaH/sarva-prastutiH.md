@@ -42,8 +42,7 @@ This is made clear in the initial shlokas.
 
 <details><summary>English</summary>
 
-[1] I bow to Lord Krishna,one who is blue in color like neelothphala, that Lord Krishna who gives increased
-happiness to Lakshmi Devi, that Lord Krishna son of Nanda, that Lord Krishna who is complete with happiness and has the most perfect body
+[1] I bow to Lord Krishna,one who is blue in color like neelothphala, that Lord Krishna who gives increased happiness to Lakshmi Devi, that Lord Krishna son of Nanda, that Lord Krishna who is complete with happiness and has the most perfect body
 
 </details>
 
