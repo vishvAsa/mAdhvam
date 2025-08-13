@@ -7,12 +7,17 @@ Source: [TW](https://archive.org/details/madhvamRta-mahArNava)
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-Authorship of this work is disputed. Some attribute it to trivikrama, other to his son nArAyaNa, yet others doubt its antiquity.
+Authorship of this work is disputed. Some attribute it to trivikrama, other to his son nArAyaNa, yet other notable scholars doubt its antiquity.
+
+> मध्वामृत-महार्णवस् त्व् असह्या कृतिः ।  
+अवमाननम् इदं लिकुच-कुल-कवेर् यद् अस्याप्रबुद्धस्य ग्रन्थस्य तत्-कृतत्व-कल्पनम् ।
+
+इति बन्नञ्जे-गोविन्दाचार्यः सङ्ग्रह-रामायण-पीठिकायाम्। 
 
 In the other works of nArAyaNa-paNDita, there is no mention of vishiShTAdvaita, and his verses are of higher metrical quality and are more serious in content. And, given his antiquity and fame, it is doubtful how this work was not widespread until fairly recent times. A reference to a nArAyaNAchArya in a manuscript need not refer to madhva's prashiShya. 
 
 If the author is the famous nArAyaNa paNDita, this is authoritative for mAdhva-s.  
-_Some_ mAdhva contacts say that it should not be taken literally (not being actual shAstra-vidhi),  
+MAdhva contacts say that it should not be taken literally (not being actual shAstra-vidhi),  
 but the sentiment should be valued.  
 This is made clear in the initial shlokas.
 </details>
