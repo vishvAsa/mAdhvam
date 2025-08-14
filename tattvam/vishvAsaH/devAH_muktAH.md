@@ -47,25 +47,10 @@ title = "देवाः, मुक्ताः"
 ## अवतारः
 वायोर् अवतारो मध्व इति स्वोक्तं, ऋग्-विशेष-सिद्धं चेति वदन्ति। 
 
-### कारणाक्षेपः
-> समन्वयादयोऽपि दुरुपपादा इति सहृदयैर् आकलनीयम् ।  
-यत्तु चतुर-माठरेत्यादि-सकल-लोकाप्रसिद्ध-वचनानां साक्षितयोपन्यासात्  
-तत्-प्रयुक्तां स्वानाप्तत्व-शङ्कां परिहर्तुं  
-हनूमद्--भीम-सेन--क्रमेण वायोः स्वयं तृतीयावतार इति उद्घुष्य  
-तत्र च साक्षितया -  
-> 
-> > प्रथमो हनूमान्नाम  
+> प्रथमो हनूमान्नाम  
 द्वितीयो भीमसेनकः ।  
 पूर्णप्रज्ञस् तृतीयस्तु  
 भगवत्-कार्य-साधकः ।  
->
-> इति स्मृति-वचनम् अस्तीति  
-स्वयम् एव तद् उदाहरणेन शिष्यान् प्रतार्य  
-किं बहुना "श्रुतिसिद्धो ऽयम् अर्थ" इति दर्शयितुं  
-भाष्यान्ते मध्वेन पद्यं निर्मितम् - …
 
 Brahmasūtra Bhāṣya 4.4.23 and Mahābhāratatātparyanirṇaya 2.118/124-25
-
-> The reason Madhvācārya described himself as the third incarnation of Vāyu, in succession to Hanumān, Bhīma, and so on, is precisely so that people would not doubt the forgeries he committed in the name of the Śruti-s like Catura, Māṭhara, and other Śruti-s.  
-\- Siddhāntakaumudīkāra Bhaṭṭoji Dīkṣita notes in his Tattvakaumudī
 

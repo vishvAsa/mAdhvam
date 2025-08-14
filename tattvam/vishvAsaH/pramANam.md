@@ -157,14 +157,6 @@ title = "+प्रमाणम्"
 
 इति जयतीर्थो विष्णु-तत्त्व-निर्णय-[टीकायाम्](/mAdhvam/tattvam/madhvaH/10-prakaraNAni/08-viShNu-tattva-nirNayaH/02_TIkA_TippaNi/02_prathamaH_parichChedaH_2/20_vedAnAM_pralayakAlInasthitisamarthana) । 
 
-## पूर्वपक्षानुवाद-प्रामुख्ये
-> शिष्योऽपि पूर्वपक्षस्थस्तदेवात्ममतं ब्रूवन् ।  
-नैव दुष्यत्यसत्येन स्थिरत्वार्थं हि तद्वचः ॥
->
-> "When a student presents an opponent's argument (Purvapakṣa) as his own [even challenging his Guru], he is not at fault and commits no sin.  
-In fact, [his words serve a higher purpose, for the stronger the objection raised, the more powerful and comprehensive the refutation must be] thus serving the very purpose of making the Siddhanta exceptionally firm and unshakable"  
-- Bhāgavatatātparyanirṇaya, Śri Madhvacharya
-
 ## अलभ्य-श्रुतयः
 
 भट्टोजी-दीक्षित-तत्त्व-दीपिकायाः -
