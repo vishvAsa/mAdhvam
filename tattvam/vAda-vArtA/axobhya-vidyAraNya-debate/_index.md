@@ -26,7 +26,7 @@ Medieval shrIvaiShNava sources say that the person was an advaitin.
 - doDDayAchArya's vedAnta-deshika-vaibhava-prakAshikA, 
 - vedAnta-deshika-champU
 
-'moovaayirappaDi guruparamapara prabhava' has many interpolations; but is more accurate compared to other such works regarding dates of rAmAnuja's melukote stint.  
+'moovaayirappaDi guruparamapara prabhava' has many interpolations (details [TW](/rAmAnujIyam/kAvyam/drAviDam/aitihyam/3k_guru-paramparA-prabhAvaH)); but is more accurate compared to other such works regarding dates of rAmAnuja's melukote stint.  
 It's not by itself fool-proof evidence.  
 However, mAdhva sources supposedly agree with vedAnta deshika's role in the debate; as do other SV works; which makes that story more likely.
 
