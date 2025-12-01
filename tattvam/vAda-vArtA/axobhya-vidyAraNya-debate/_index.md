@@ -18,6 +18,7 @@ Some advaitin sources argue that there was no debate. That may be ignored. For e
 
 Some mAdhva texts (राघवेन्द्र-विजय) say the prativAdI was avaidika. Some mAdhva texts classify advaita as a vaidika mata; while others like madhva-vijaya calls shAnkara-s avaidikas. Further, it is said explained by commenters as applicable to shAnkaras. A commentator clarifies  - "मायि-भिक्षुम्"। 
 
+shRngeri confusion - see [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/misc-gurus).
 
 ### श्रीवैष्णव-स्रोतांसि
 Medieval shrIvaiShNava sources say that the person was an advaitin.  
