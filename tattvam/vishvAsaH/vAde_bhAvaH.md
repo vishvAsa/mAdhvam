@@ -3,8 +3,10 @@ title = "वादे भावः"
 +++
 
 ## पूर्वपक्षानुवाद-प्रामुख्ये
-> शिष्योऽपि पूर्वपक्षस्थस्तदेवात्ममतं ब्रूवन् ।  
-नैव दुष्यत्यसत्येन स्थिरत्वार्थं हि तद्वचः ॥
+> शिष्योऽपि पूर्व-पक्ष-स्थस्  
+> तद् एवात्म-मतं ब्रुवन् ।  
+> नैव दुष्यत्य् असत्येन  
+> स्थिरत्वार्थं हि तद्-वचः ॥
 >
 > "When a student presents an opponent's argument (Purvapakṣa) as his own [even challenging his Guru], he is not at fault and commits no sin.  
 In fact, [his words serve a higher purpose, for the stronger the objection raised, the more powerful and comprehensive the refutation must be] thus serving the very purpose of making the Siddhanta exceptionally firm and unshakable"  
