@@ -10,7 +10,7 @@ title = "वादे भावः"
 >
 > "When a student presents an opponent's argument (Purvapakṣa) as his own [even challenging his Guru], he is not at fault and commits no sin.  
 In fact, [his words serve a higher purpose, for the stronger the objection raised, the more powerful and comprehensive the refutation must be] thus serving the very purpose of making the Siddhanta exceptionally firm and unshakable"  
-- Bhāgavatatātparyanirṇaya, Śri Madhvacharya
+- Bhāgavatatātparyanirṇaya, Śri Madhvācharya
 
 ## अवतारत्व-पुरस्कारः
 असकृद् माध्वा मध्वस्यावतारत्वं पुरस् कुर्वन्ति, इतरेषां तामसत्वम् आसुरत्वं वाऽपि।  
