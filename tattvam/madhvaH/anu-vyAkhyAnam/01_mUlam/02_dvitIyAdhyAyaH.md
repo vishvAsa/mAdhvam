@@ -1,5 +1,6 @@
 +++
 title = "०२ द्वितीयाध्यायः"
+upstream_url = "https://dvaitavedanta.in/category-details/4836/975/sharam/sathha/anavay/malma/thavat"
 +++
 ## प्रथमः पादः
 

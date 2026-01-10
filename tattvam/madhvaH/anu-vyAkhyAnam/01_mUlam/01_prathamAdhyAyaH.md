@@ -1,5 +1,6 @@
 +++
 title = "०१ प्रथमाध्यायः"
+upstream_url = "https://dvaitavedanta.in/category-details/4835/975/sharam/sathha/anavay/malma/parath"
 +++
 ## प्रथमः पादः
 

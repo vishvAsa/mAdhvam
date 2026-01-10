@@ -1,5 +1,6 @@
 +++
 title = "०२ मङ्गलमाचरणम्"
+upstream_url = "https://dvaitavedanta.in/category-details/977/975/sharam/sathha/managa"
 +++
 ## ब्रह्मसूत्रानुव्याख्यानम्
 

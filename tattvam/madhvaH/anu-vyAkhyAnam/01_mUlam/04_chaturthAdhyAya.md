@@ -1,5 +1,6 @@
 +++
 title = "०४ चतुर्थाध्यायः"
+upstream_url = "https://dvaitavedanta.in/category-details/4838/975/sharam/sathha/anavay/malma/catara"
 +++
 ## प्रथमः पादः
 

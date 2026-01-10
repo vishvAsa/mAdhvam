@@ -1,5 +1,6 @@
 +++
 title = "०३ तृतीयाध्यायः"
+upstream_url = "https://dvaitavedanta.in/category-details/4837/975/sharam/sathha/anavay/malma/tataya"
 +++
 ## प्रथमः पादः
 
