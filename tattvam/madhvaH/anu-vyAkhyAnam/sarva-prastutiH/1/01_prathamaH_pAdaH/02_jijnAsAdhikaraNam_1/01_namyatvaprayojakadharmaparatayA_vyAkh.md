@@ -1,5 +1,6 @@
 +++
 title = "०१ नम्यत्वप्रयोजकधर्मपरतया व्याख्यानम्"
+upstream_url = "https://dvaitavedanta.in/category-details/4879/975/sharam/sathha/parath/parath/jajani/namaya"
 +++
 ## नारायणं निखिलपूर्णगुणैकदेहं..
 

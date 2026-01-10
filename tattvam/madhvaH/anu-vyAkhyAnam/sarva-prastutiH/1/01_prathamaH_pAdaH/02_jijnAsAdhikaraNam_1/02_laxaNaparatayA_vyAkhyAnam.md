@@ -1,5 +1,6 @@
 +++
 title = "०२ लक्षणपरतया व्याख्यानम्"
+upstream_url = "https://dvaitavedanta.in/category-details/4880/975/sharam/sathha/parath/parath/jajani/lkashh"
 +++
 ## नारायणं निखिलपूर्णगुणैकदेहं..
 

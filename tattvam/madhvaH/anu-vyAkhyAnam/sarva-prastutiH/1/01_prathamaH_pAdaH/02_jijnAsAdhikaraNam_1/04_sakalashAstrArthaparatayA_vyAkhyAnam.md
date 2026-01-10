@@ -1,5 +1,6 @@
 +++
 title = "०४ सकलशास्त्रार्थपरतया व्याख्यानम्"
+upstream_url = "https://dvaitavedanta.in/category-details/4882/975/sharam/sathha/parath/parath/jajani/sakals"
 +++
 ## नारायणं निखिलपूर्णगुणैकदेहं..
 

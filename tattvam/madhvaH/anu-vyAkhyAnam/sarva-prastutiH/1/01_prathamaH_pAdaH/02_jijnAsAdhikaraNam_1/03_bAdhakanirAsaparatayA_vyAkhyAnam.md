@@ -1,5 +1,6 @@
 +++
 title = "०३ बाधकनिरासपरतया व्याख्यानम्"
+upstream_url = "https://dvaitavedanta.in/category-details/4881/975/sharam/sathha/parath/parath/jajani/bthhak"
 +++
 ## नारायणं निखिलपूर्णगुणैकदेहं..
 
