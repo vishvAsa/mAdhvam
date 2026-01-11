@@ -1,9 +1,7 @@
 +++
 title = "०५ शब्दः कालादिगुणो वा किं न स्यात्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/7002/975/sharam/sathha/parath/catara/paraka/shabth"
 +++
-
-
 ## सत्यत्वं गगनादेश्च साक्षिप्रत्यक्षसाधितम्
 
 **शब्दः कालादिगुणो वा किं न स्यात्**
@@ -34,3 +32,4 @@ title = "०५ शब्दः कालादिगुणो वा किं 
 
 
 
+[Load More](javaऽcriptःvoid(0))

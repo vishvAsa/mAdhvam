@@ -1,9 +1,7 @@
 +++
 title = "०९ श्रुतहानिर् अश्रुतकल्पना च"
-
+upstream_url = "https://dvaitavedanta.in/category-details/5138/975/sharam/sathha/parath/parath/iikash/sharat"
 +++
-
-
 ## आत्मब्रह्मादयः शब्दाः साक्षात्पूर्णाभिधायिनः
 
 **श्रुतहानिर् अश्रुतकल्पना च**
@@ -90,3 +88,4 @@ title = "०९ श्रुतहानिर् अश्रुतकल्प
 
 
 
+[Load More](javaऽcriptःvoid(0))
