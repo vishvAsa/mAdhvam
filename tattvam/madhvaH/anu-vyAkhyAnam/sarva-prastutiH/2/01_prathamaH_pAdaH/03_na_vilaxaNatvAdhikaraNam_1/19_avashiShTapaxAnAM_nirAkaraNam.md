@@ -1,9 +1,7 @@
 +++
 title = "१९ अवशिष्टपक्षानां निराकरणम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/7555/975/sharam/sathha/thavat/parath/na-val/avasha"
 +++
-
-
 ## याथार्थ्यमेव मानत्वम्
 
 **अवशिष्टपक्षानां निराकरणम्**
@@ -64,3 +62,4 @@ title = "१९ अवशिष्टपक्षानां निराकर
 
 
 
+[Load More](javaऽcriptःvoid(0))

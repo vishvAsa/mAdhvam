@@ -1,9 +1,7 @@
 +++
 title = "१२ उपजीव्यत्वेनैव प्राबल्यम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/7548/975/sharam/sathha/thavat/parath/na-val/upajav"
 +++
-
-
 ## उपजीव्यविरोधे तु वेदस्यान्यार्थकल्पना
 
 **उपजीव्यत्वेनैव प्राबल्यम्**
@@ -56,3 +54,4 @@ title = "१२ उपजीव्यत्वेनैव प्राबल्
 
 
 
+[Load More](javaऽcriptःvoid(0))

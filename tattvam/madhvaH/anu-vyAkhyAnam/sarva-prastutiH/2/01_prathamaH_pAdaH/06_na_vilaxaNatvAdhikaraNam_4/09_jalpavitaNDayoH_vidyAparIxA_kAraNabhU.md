@@ -1,9 +1,7 @@
 +++
 title = "०९ जल्पवितण्डयोर् विद्यापरीक्षा कारणभूता"
-
+upstream_url = "https://dvaitavedanta.in/category-details/7610/975/sharam/sathha/thavat/parath/na-val/jalpav"
 +++
-
-
 ## विद्यापरीक्षापूर्वैव वितण्डा जल्प एव च
 
 **जल्पवितण्डयोर् विद्यापरीक्षा कारणभूता**
@@ -36,3 +34,4 @@ title = "०९ जल्पवितण्डयोर् विद्याप
 
 असुज्ञत्वं सुज्ञत्वाभावः ।
 
+[Load More](javaऽcriptःvoid(0))

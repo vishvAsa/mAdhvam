@@ -1,9 +1,7 @@
 +++
 title = "०८ वितण्डालक्षणम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/7609/975/sharam/sathha/thavat/parath/na-val/vatana"
 +++
-
-
 ## वितण्डा त्वसतां सताम्
 
 **वितण्डालक्षणम्**
@@ -42,3 +40,4 @@ title = "०८ वितण्डालक्षणम्"
 
 
 
+[Load More](javaऽcriptःvoid(0))
