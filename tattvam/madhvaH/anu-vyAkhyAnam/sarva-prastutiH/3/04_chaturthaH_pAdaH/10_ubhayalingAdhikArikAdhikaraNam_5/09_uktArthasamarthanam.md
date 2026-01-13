@@ -1,9 +1,7 @@
 +++
 title = "०९ उक्तार्थसमर्थनम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/9665/975/sharam/sathha/tataya/catara/ubhaya/ukatar"
 +++
-
-
 ## तादृशोऽपि स्वभावश्चेदज्ञस्यापि भवेत्तथा
 
 **उक्तार्थसमर्थनम्**
@@ -28,3 +26,4 @@ title = "०९ उक्तार्थसमर्थनम्"
 
 संवृत्ताः सञ्जाताः ।
 
+[Load More](javaऽcriptःvoid(0))

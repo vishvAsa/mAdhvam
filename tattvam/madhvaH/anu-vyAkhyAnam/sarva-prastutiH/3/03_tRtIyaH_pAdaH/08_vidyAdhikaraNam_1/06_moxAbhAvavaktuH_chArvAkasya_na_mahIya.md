@@ -1,9 +1,7 @@
 +++
 title = "०६ मोक्षाभाववक्तुश् चार्वाकस्य न महीयस्त्वम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/9473/975/sharam/sathha/tataya/tataya/vathay/makash"
 +++
-
-
 ## नेति वक्तुर्महत्त्वं तु कथञ्चन न विद्यते
 
 **मोक्षाभाववक्तुश् चार्वाकस्य न महीयस्त्वम्**
@@ -36,3 +34,4 @@ title = "०६ मोक्षाभाववक्तुश् चार्व
 
 अनेन तुशब्दो निर्देशार्थ इति पाठः ।
 
+[Load More](javaऽcriptःvoid(0))

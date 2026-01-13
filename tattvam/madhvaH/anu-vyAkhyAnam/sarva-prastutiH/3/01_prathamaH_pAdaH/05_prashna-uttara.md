@@ -1,9 +1,7 @@
 +++
 title = "०५ प्रश्न-उत्तर"
-
+upstream_url = "https://dvaitavedanta.in/category-details/5292/975/sharam/sathha/tataya/parath/parash"
 +++
-
-
 ## प्रथमपादपूर्वपक्षसिद्धान्तन्यायाः
 
 **सुधा - तृतीयोऽध्यायः**
@@ -20,3 +18,4 @@ title = "०५ प्रश्न-उत्तर"
 
 4\) साधका इति प्रयोगस्य साधुत्वं कथम्‌ । 4275-76
 
+[Load More](javaऽcriptःvoid(0))

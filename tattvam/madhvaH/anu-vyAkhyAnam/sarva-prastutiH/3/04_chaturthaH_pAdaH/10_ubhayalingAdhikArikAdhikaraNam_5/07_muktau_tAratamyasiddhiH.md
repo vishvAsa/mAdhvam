@@ -1,9 +1,7 @@
 +++
 title = "०७ मुक्तौ तारतम्यसिद्धिः"
-
+upstream_url = "https://dvaitavedanta.in/category-details/9663/975/sharam/sathha/tataya/catara/ubhaya/makata"
 +++
-
-
 ## ज्ञानिनोऽपि यतो नित्यं कुर्वन्ति शुभमेव हि
 
 **मुक्तौ तारतम्यसिद्धिः**
@@ -38,3 +36,4 @@ title = "०७ मुक्तौ तारतम्यसिद्धिः"
 
 कुत इत्याक्षेपलभ्यार्थकथनमकर्त्तव्यतेति ॥
 
+[Load More](javaऽcriptःvoid(0))
