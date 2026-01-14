@@ -1,9 +1,7 @@
 +++
 title = "०६ प्रश्न-उत्तर"
-
+upstream_url = "https://dvaitavedanta.in/category-details/14911/975/sharam/sathha/catara/catara/parash"
 +++
-
-
 ## अनन्याधिपतित्वाधिकरणम्
 
 **चतुर्थाध्यायश् चतुर्थः पादः  
@@ -34,3 +32,4 @@ title = "०६ प्रश्न-उत्तर"
 363. आत्मीयमजा समासते - इत्यस्य अर्थः कः 5666  
 **॥ इति अनन्याधिपतित्वाधिकरणम्** **॥**
 
+[Load More](javaऽcriptःvoid(0))
