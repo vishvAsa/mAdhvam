@@ -1,9 +1,7 @@
 +++
 title = "०४ प्रश्न-उत्तर"
-
+upstream_url = "https://dvaitavedanta.in/category-details/14927/943/thasha/7-math/parash"
 +++
-
-
 ## प्रपश्चमिथ्यात्वानुमानखण्डनम्‌
 
 
@@ -66,3 +64,4 @@ title = "०४ प्रश्न-उत्तर"
 
   
 
+[Load More](javaऽcriptःvoid(0))
