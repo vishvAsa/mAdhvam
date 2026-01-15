@@ -1,9 +1,7 @@
 +++
 title = "०१ सङ्गतिकथनम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11639/4779/sharav/tatapa/parath/parath/anatas/sanaga"
 +++
-
-
 ## ॐ अन्तस्तद्धर्मोपदेशात् ॐ
 
 **सङ्गतिकथनम्**
@@ -40,3 +38,4 @@ title = "०१ सङ्गतिकथनम्"
 
 द्विद्यमानस्याप्यन्यत्र सम्भवान्नेन्द्रादिशब्दानां ब्रह्मपरत्वमित्याह ॥ इन्द्रादिशब्दानां त्विति ॥
 
+[Load More](javaऽcriptःvoid(0))

@@ -1,9 +1,7 @@
 +++
 title = "१० प्रश्न-उत्तर"
-
+upstream_url = "https://dvaitavedanta.in/category-details/14944/4778/sharav/nayaya/parash"
 +++
-
-
 ## न्यायामृतम्‌
 
 **॥ श्रीदिग्विजयरामो विजयते ॥**
@@ -148,3 +146,4 @@ title = "१० प्रश्न-उत्तर"
 
 ६५) सप्रयोजनानुनादत्वं सत्वश्रुतेर् विद्वद्वाक्यदृष्टान्तेन समर्थयत
 
+[Load More](javaऽcriptःvoid(0))

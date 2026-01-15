@@ -1,9 +1,7 @@
 +++
 title = "०८ अद्वैतमते असाधारणदोषनिरूपणम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11646/4779/sharav/tatapa/parath/parath/anatas/athava"
 +++
-
-
 ## नीरूपेऽपि च रूपादि यद्युपास्त्यर्थमुच्यते
 
 **अद्वैतमते असाधारणदोषनिरूपणम्**
