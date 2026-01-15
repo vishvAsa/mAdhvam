@@ -1,9 +1,7 @@
 +++
 title = "१० अधिकरणोपसंहारः"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11773/4779/sharav/tatapa/parath/tataya/akashh/athhak"
 +++
-
-
 ## एतेन यत्केचिज्जडं प्रधानमेवाक्षरमिति पूर्वपक्षयंति तदपि निरस्तम्
 
 **अधिकरणोपसंहारः**
@@ -37,4 +35,3 @@ title = "१० अधिकरणोपसंहारः"
 ****
 
 ****
-

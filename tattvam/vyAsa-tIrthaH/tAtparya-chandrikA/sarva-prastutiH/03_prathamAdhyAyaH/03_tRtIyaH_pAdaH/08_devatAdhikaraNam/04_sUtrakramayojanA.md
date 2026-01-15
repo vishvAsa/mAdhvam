@@ -1,9 +1,7 @@
 +++
 title = "०४ सूत्रक्रमयोजना"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11808/4779/sharav/tatapa/parath/tataya/thavat/satara"
 +++
-
-
 ## अत्र चाद्ये सूत्रे..
 
 **सूत्रक्रमयोजना**
@@ -43,4 +41,3 @@ title = "०४ सूत्रक्रमयोजना"
 ### **पाण्डुरङ्गी**
 
 तदुद्धारः शङ्काद्वयोद्धार इत्यर्थः ।
-

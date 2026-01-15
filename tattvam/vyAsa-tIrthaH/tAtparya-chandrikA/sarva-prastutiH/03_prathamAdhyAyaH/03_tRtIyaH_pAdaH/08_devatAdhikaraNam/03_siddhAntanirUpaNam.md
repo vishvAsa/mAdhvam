@@ -1,9 +1,7 @@
 +++
 title = "०३ सिद्धान्तनिरूपणम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11807/4779/sharav/tatapa/parath/tataya/thavat/sathat"
 +++
-
-
 ## सिद्धान्तस्तु
 
 **सिद्धान्तनिरूपणम्**
@@ -39,4 +37,3 @@ title = "०३ सिद्धान्तनिरूपणम्"
 ### **पाण्डुरङ्गि**
 
 श्रूयतेचाधिकारोऽपीत्युक्तम् । तदुपपादयति ॥ एकशतमिति ॥
-
