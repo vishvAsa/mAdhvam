@@ -1,9 +1,7 @@
 +++
 title = "०३ सिद्धान्तनिरूपणम्"
-
+upstream_url = "https://dvaitavedanta.in/category-details/11837/4779/sharav/tatapa/parath/tataya/braham/sathat"
 +++
-
-
 ## सिद्धान्तस्तु
 
 **सिद्धान्तनिरूपणम्**
@@ -88,4 +86,3 @@ title = "०३ सिद्धान्तनिरूपणम्"
 भावदीपिकायां प्रथमाध्यायस्य तृतीयः पादः ॥ १ ॥ ३ ॥
 
 **इति ब्राह्मणाधिकरणम् ॥ १४ ॥**
-
