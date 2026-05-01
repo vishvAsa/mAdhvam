@@ -12,6 +12,12 @@ title = "वादे भावः"
 In fact, [his words serve a higher purpose, for the stronger the objection raised, the more powerful and comprehensive the refutation must be] thus serving the very purpose of making the Siddhanta exceptionally firm and unshakable"  
 - Bhāgavatatātparyanirṇaya, Śri Madhvācharya
 
+सुधायां
+
+> ‘शिष्योऽपि प्राक् प्रबोधात् प्रतिवादितुल्य एव’ 
+
+इति ।
+
 ## अवतारत्व-पुरस्कारः
 असकृद् माध्वा मध्वस्यावतारत्वं पुरस् कुर्वन्ति, इतरेषां तामसत्वम् आसुरत्वं वाऽपि।  
 
