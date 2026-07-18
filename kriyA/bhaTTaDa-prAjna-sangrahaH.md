@@ -1,5 +1,5 @@
 +++
-title = "कॊडव-हरि-कुमार-सङ्ग्रहः"
+title = "भट्टड-प्राज्ञ-सङ्ग्रहः"
 +++
 Source: [TW](https://repository.bhaktideets.org/Publications/EngSmsk/2024/Vaishnava-Mantra-Shloka-Stuti-Sangraha.txt)
 
