@@ -83,4 +83,4 @@ which are not earned in only this janma.
 Also which are not even felt as robbed after the robbery.
 
 So we can  say proudly and also loudly ,  
-that our lord Narayana is the one of  biggest thiefs in the world
+that our lord Narayana is the one of  biggest thiefs in the world.
