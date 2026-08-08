@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9687/975/sharam/sathha
 
 ॐ स्वामिनः फलश्रुतेः । आत्रेयपदश्रवणादाह पूर्वपक्षयित्वेति । सूत्राक्षरार्थस्तन्त्रदीपिकायां व्यक्तः । विशेषोक्तेः सामान्योक्तिपूर्वकत्वादाह इति इति ।
 
-[Load More](javaऽcriptःvoid(0))

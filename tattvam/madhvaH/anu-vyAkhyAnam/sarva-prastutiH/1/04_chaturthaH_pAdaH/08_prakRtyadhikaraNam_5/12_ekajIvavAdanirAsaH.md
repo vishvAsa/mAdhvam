@@ -84,4 +84,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7009/975/sharam/sathha
 
 तं दर्शयतीत्यत्र तमित्यनेनोद्देश्यविधेयभावस्य बुध्या विवेकेन परामर्शः ।
 
-[Load More](javaऽcriptःvoid(0))

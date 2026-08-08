@@ -44,4 +44,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9683/975/sharam/sathha
 
 भवतीति । ध्येयमिति । अत्रेति शब्दोऽध्याहार्यः । एक इति टीकेति सम्बध्यते । अपरस्त्विति ध्येयमितीति अथवेति शब्दा आवर्तन्ते । ततोप्युक्तार्थलाभ इति द्रष्टव्यम् ।
 
-[Load More](javaऽcriptःvoid(0))

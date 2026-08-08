@@ -48,4 +48,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9334/975/sharam/sathha
 
 केवलं निर्दोषतापरिज्ञानाच्चेति मूलम् । केवलशब्दस्यावधारणार्थतया व्याख्यास्यमानत्वान्निर्दोषतापरिज्ञानादेव चेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

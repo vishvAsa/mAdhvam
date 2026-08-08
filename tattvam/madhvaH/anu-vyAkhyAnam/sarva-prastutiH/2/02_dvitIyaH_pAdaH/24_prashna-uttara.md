@@ -908,4 +908,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14917/975/sharam/sathh
 
 **॥ इति पत्युरधिकरणम् ॥**
 
-[Load More](javaऽcriptःvoid(0))

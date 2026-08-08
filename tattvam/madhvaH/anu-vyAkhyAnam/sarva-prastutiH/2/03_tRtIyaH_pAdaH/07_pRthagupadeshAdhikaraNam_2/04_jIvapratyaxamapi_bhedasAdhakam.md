@@ -186,4 +186,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7985/975/sharam/sathha
 
 नन्वेवमेव दुःखादिसत्तामन्तरेणानुभवस्याप्यर्थान्तरे प्रामाण्यमस्त्वित्यत आह न च दुःखसत्तामिति । एवं तद्विरोधो नास्तीत्याह न चेति ।
 
-[Load More](javaऽcriptःvoid(0))

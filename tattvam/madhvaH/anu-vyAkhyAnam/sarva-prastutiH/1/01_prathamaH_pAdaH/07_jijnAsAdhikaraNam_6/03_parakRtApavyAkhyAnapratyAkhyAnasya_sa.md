@@ -32,4 +32,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5003/975/sharam/sathha
 
 एतावतेति । ‘ज्ञानी प्रियतम इत्यारभ्य कुर्याद्बन्धविमोचनमि’-त्यन्तग्रन्थकलापेनेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

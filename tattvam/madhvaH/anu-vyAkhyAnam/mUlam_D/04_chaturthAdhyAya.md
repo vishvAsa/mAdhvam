@@ -918,4 +918,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/4838/975/sharam/sathha
 
 इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते ब्रह्मसूत्रानुव्याख्याने चतुर्थाध्यायस्य तृतीयः पादः ॥
 
-[Load More](javaऽcriptःvoid(0))

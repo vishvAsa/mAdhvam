@@ -848,4 +848,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14916/975/sharam/sathh
 **इति वैषम्यनैर्घृण्याधिकरणम्**  
   
 
-[Load More](javaऽcriptःvoid(0))

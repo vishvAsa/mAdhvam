@@ -131,4 +131,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14908/975/sharam/sathh
 
 **॥ इति ब्रह्मदृष्ट्यधिकरणान्यथाव्याख्याननिराकरणम्** **॥**
 
-[Load More](javaऽcriptःvoid(0))

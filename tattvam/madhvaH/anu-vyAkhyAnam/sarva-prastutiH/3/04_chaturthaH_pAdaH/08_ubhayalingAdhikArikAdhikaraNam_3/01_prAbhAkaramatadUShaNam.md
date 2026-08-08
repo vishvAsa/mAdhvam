@@ -22,4 +22,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9633/975/sharam/sathha
 
 उक्तविधयेति । अत्र केचिदाहुरित्यादिनोक्तप्रकारत्रयेणेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

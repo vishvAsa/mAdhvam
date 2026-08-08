@@ -91,4 +91,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7910/975/sharam/sathha
 
 कोऽयं रूपविशेषो यो नाशव्याप्य इत्यत आह स एवेति । तुशब्दोक्तो विशेष एवेत्यर्थः ॥ अन्यथेति । यस्येत्यनेनान्वयाकरणे इत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -118,4 +118,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7626/975/sharam/sathha
 
 उच्यते भगवता इति शेषः । यद्वा उक्तानुकूल्येन तदविरोधेनेति यावत् ।
 
-[Load More](javaऽcriptःvoid(0))

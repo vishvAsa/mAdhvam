@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7974/975/sharam/sathha
 
 न प्रमापयेच्चेति भिन्नक्रमत्वमिति । एतद्विना स्वपक्षसाधनपरपक्षनिरसनयोः समुच्चयायोगेन समुच्चय इत्युक्तया तल्लाभादिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

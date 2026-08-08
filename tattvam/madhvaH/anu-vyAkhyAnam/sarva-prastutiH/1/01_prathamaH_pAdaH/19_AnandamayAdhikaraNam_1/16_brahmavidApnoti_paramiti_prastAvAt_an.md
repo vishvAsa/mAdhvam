@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5180/975/sharam/sathha
 
 वक्ष्यमाणेति । अनुपदमेव मुख्यब्रह्मेति मुख्यार्थे बाधकाभावरूपेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

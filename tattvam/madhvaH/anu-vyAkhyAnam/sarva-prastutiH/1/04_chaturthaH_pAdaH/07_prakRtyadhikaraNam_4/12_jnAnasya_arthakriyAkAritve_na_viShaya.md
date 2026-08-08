@@ -28,4 +28,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6989/975/sharam/sathha
 
 परोक्तरीत्येति । अत्र कश्चिदित्यादिवक्ष्यमाणवाद्यंतरोक्तरीत्येत्यर्थः । इन्द्रियसन्निकर्षादौ दर्शनादित्युक्तमेव विशदयन्बाधकमाह । अन्यथेति ।
 
-[Load More](javaऽcriptःvoid(0))

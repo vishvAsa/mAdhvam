@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9473/975/sharam/sathha
 
 अनेन तुशब्दो निर्देशार्थ इति पाठः ।
 
-[Load More](javaऽcriptःvoid(0))

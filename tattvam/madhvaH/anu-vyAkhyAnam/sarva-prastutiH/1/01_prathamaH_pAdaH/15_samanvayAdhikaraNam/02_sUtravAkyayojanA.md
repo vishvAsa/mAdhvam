@@ -186,4 +186,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5129/975/sharam/sathha
 
 यदवधारणमिति । अनेन यतोऽवधारणमित्येतद्व्याख्यातं भवति । इत्यादिनेत्यर्थ इत्यत्र उत्तराधिकरण इति शेषः ।
 
-[Load More](javaऽcriptःvoid(0))

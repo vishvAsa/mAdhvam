@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7656/975/sharam/sathha
 
 अनुमानत्वाद् अनुमितिकाणत्वात् ।
 
-[Load More](javaऽcriptःvoid(0))

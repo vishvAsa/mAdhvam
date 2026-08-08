@@ -44,4 +44,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9228/975/sharam/sathha
 
 तदनुक्तिर्भाष्य इति पाठः । अभेदसाधकानुमान इवेति । अयमेतदभिन्नः। एतदसाधारणधर्मवत्वात् । एतद्वद् इत्यनुमान इवेत्यर्थः । पक्षस्यैव दृष्टान्तत्वमत्र स्पष्टम् ।
 
-[Load More](javaऽcriptःvoid(0))

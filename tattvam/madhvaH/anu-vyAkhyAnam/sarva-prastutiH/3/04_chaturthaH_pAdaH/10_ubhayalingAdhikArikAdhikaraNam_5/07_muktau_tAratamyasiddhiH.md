@@ -36,4 +36,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9663/975/sharam/sathha
 
 कुत इत्याक्षेपलभ्यार्थकथनमकर्त्तव्यतेति ॥
 
-[Load More](javaऽcriptःvoid(0))

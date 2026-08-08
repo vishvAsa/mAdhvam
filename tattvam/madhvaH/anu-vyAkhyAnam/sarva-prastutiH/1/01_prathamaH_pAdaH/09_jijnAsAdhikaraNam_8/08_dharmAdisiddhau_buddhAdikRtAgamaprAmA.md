@@ -24,4 +24,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5060/975/sharam/sathha
 
 अन्यप्रतिषेध इति । तीर्थङ्करान्तरस्य धर्मादिद्रष्टृत्वप्रतिषेध इत्यर्थः । अनुमाने प्रतिपक्षसम्भवेऽपीति पाठः ।
 
-[Load More](javaऽcriptःvoid(0))

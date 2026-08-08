@@ -50,4 +50,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9287/975/sharam/sathha
 
 तदा शब्दात्कालावगतिरिति सर्वैकान्यकिंयत्तदः काले देति सूत्रेण कालेऽभिधेये तच्छब्दाद्दाप्रत्ययविधानादिति भावः । तल्लाभ इति । उत्तरकाललाभ इत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

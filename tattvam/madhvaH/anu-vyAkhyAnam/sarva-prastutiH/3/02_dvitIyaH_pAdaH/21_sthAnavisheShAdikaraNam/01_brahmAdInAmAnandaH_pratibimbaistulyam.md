@@ -42,4 +42,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9361/975/sharam/sathha
 
 ॐ स्थानविशेषात्प्रकाशादिवत् ॐ । अत्रेति । ‘‘अन्यगुणा यथे’’त्यनुव्याख्यान इत्यर्थः । असमास इति । समासे हि यथान्यगुणमिति भवेदिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

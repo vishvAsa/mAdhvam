@@ -46,4 +46,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9385/975/sharam/sathha
 
 बोधकतापातादिति पाठः । तेन न च सेत्युत्तरवाक्ये परामर्शोपपत्तिः । बोधकत्वेति पाठे तु लिङ्गमविवक्षित्वाऽर्थपरामर्श इति ज्ञेयम् । य एनेत्युक्त इति पाठः ।
 
-[Load More](javaऽcriptःvoid(0))

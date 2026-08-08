@@ -256,4 +256,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7840/975/sharam/sathha
 
 प्रत्यक्षादीतीति पाठः ।
 
-[Load More](javaऽcriptःvoid(0))

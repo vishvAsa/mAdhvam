@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9682/975/sharam/sathha
 
 निष्टङ्कितमिति । निर्णीतं ‘ज्ञानी प्रियतमोऽतो मे’ इत्यादिना जिज्ञासासूत्रानुव्याख्यानादावित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

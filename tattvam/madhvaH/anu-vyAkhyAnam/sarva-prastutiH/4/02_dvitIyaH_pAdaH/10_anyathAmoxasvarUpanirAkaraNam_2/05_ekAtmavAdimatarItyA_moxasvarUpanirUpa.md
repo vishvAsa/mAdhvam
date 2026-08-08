@@ -88,4 +88,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9764/975/sharam/sathha
 
 उपमर्दः सम्बन्धविशेषः ।
 
-[Load More](javaऽcriptःvoid(0))

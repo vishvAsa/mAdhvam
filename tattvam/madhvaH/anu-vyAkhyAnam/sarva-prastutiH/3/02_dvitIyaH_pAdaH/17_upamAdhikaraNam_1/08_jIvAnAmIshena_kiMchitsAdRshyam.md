@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9344/975/sharam/sathha
 
 अन्यथा हीति । निरवधिकसुखादिसादृश्यस्याभासत्वहेतुशरीरप्रवेशे तेन जीवब्रह्मभेदसाधनं विरुद्धं स्यादित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

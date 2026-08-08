@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9307/975/sharam/sathha
 
 वस्तुस्वरूपाबहिर्भावादिति । सत्ताद्रव्यत्वपृथिवीत्वादिसामान्यानां घटादिवस्तुस्वरूपाश्रितत्वादित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -98,4 +98,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9608/975/sharam/sathha
 
 पूर्वोस्त्येति । स्वप्नाधिकरणीयोक्तीत्यर्थः ॥ ३४४ ॥
 
-[Load More](javaऽcriptःvoid(0))

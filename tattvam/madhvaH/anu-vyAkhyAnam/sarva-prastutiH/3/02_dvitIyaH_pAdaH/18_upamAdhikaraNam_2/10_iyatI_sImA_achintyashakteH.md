@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9358/975/sharam/sathha
 
 कुतोऽशक्यमिति चेत् । श्रुतिबाधादित्याह ईशताया इति ।
 
-[Load More](javaऽcriptःvoid(0))

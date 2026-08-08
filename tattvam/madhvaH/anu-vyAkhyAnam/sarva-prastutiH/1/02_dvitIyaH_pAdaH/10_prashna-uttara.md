@@ -108,4 +108,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14913/975/sharam/sathh
 
 80\. द्वित्वं चैकस्य युज्यते - इत्यस्य विवरणं कुरुत 1652
 
-[Load More](javaऽcriptःvoid(0))

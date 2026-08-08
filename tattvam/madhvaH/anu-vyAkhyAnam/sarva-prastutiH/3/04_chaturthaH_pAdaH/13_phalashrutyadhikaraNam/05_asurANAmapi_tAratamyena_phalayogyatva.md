@@ -28,4 +28,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9691/975/sharam/sathha
 
 प्रसङ्गादिति । शुभफले तारतम्योक्तिप्रसङ्गादित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

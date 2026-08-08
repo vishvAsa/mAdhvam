@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5139/975/sharam/sathha
 
 इति वचनात् । अतो वसनद्वयमिदं स्यादिति परिहासः । अत्र प्रमाणमाह अनन्दा इति ।
 
-[Load More](javaऽcriptःvoid(0))

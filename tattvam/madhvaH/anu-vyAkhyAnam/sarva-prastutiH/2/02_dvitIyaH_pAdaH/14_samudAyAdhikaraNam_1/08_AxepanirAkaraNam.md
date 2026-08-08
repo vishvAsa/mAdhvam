@@ -192,4 +192,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7865/975/sharam/sathha
 
 यतोनुभवतः सर्वं सिद्धमेवेति तदिति जिज्ञासाधिकरणमूलानुसारेणाह । वक्तृबुद्धौ परिवर्तमानमिति ।
 
-[Load More](javaऽcriptःvoid(0))

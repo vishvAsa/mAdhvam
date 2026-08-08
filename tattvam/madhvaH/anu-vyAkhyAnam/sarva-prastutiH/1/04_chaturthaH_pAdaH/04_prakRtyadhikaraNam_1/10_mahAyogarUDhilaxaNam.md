@@ -48,4 +48,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6925/975/sharam/sathha
 
 तस्यचेति । उक्तरूपमहायोगस्य चेत्यर्थः । रूढिलक्षणायामिति । तद्रूपायां वृत्तावित्यर्थः । उक्तं च रूपवृत्तीति प्राक् ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -108,4 +108,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7088/975/sharam/sathha
 
 निश्चितत्वादृष्टान्तीकरणमित्यर्थ इति । स्पष्टं चेदं वामनाधिकरणे । युष्मच्छब्देनेति । तवेति । युष्मच्छब्दषष्ट्येकवचनस्य ते इत्यादेश इति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -84,4 +84,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5189/975/sharam/sathha
 
 उत्तरवाक्यैरपीति । आनन्दमयप्रकरणादुपरितनैरित्यर्थः ॥ षण्णामपीति । इदं चोत्तरवाक्यानामप्यानन्दमयप्रकरणान्तर्भावमभिप्रेत्येति द्रष्टव्यम् ॥
 
-[Load More](javaऽcriptःvoid(0))

@@ -62,4 +62,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7845/975/sharam/sathha
 
 अयंभाव इत्यादि ।
 
-[Load More](javaऽcriptःvoid(0))

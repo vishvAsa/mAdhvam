@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5133/975/sharam/sathha
 
 भट्टवार्तिकेति । स्थलीयेति शेषः । उत्तरार्धमात्रस्यापेक्षितार्थसमर्पकत्वात् पूर्वार्धमुदाहृत्य योजयति न विमुञ्चतीत्यादिना । एतद्विशेषतो व्याख्येयमस्ति ।
 
-[Load More](javaऽcriptःvoid(0))

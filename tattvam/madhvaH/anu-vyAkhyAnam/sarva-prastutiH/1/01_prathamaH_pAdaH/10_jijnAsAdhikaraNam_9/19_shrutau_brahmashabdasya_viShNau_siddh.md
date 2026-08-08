@@ -172,4 +172,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5094/975/sharam/sathha
 
 विष्णोरितीति । इति यदनुवर्तितं तेन एवकारस्य यः सम्बन्धस्तेनेति योजना ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9640/975/sharam/sathha
 
 परीक्षानपेक्षेणैवेति । सुखादिविषय इत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

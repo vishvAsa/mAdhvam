@@ -42,4 +42,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9547/975/sharam/sathha
 
 इयदामननात् ॥ प्राणावसानमेवेत्यर्थ इति पाठः । त्वोधिकः । मूले उत्तरोत्तरत एवेति । उत्तरशब्दोऽधिकार्थकः । पूर्वपूर्वापेक्षयाधिकमधिकं वर्तत इत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

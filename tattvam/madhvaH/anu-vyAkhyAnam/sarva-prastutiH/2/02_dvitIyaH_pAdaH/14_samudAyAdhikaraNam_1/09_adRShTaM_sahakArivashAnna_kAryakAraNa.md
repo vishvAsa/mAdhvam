@@ -88,4 +88,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7866/975/sharam/sathha
 
 इतिशब्दानन्तरमत्रेति शेषं मत्वाह इत्यत्रेति ।
 
-[Load More](javaऽcriptःvoid(0))

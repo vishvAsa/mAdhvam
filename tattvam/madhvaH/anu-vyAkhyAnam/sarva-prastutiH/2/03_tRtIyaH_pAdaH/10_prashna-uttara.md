@@ -363,4 +363,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14918/975/sharam/sathh
 238. शब्दनिर्णये - इत्यस्य अर्थः कः 4143  
 **॥ इति पृथगुपदेशाधिकरणम् ॥**
 
-[Load More](javaऽcriptःvoid(0))

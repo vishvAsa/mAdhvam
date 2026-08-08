@@ -699,4 +699,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14899/975/sharam/sathh
 12\. अनुग्राहकत्वादिना गुरुत्वम् उक्तम्, तत्र आदिपदेन किं ग्राह्यम् (या) 5050  
 **॥ इति पूर्वविकल्पाधिकरणम् ****॥**
 
-[Load More](javaऽcriptःvoid(0))

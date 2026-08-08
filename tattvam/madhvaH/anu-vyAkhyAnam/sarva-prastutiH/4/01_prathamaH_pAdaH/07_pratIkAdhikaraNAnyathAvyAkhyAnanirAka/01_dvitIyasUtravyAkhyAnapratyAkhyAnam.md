@@ -78,4 +78,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9727/975/sharam/sathha
 
 इत्यादिलक्षणशास्त्ररहस्येति पाठः ।
 
-[Load More](javaऽcriptःvoid(0))

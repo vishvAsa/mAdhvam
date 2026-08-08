@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7610/975/sharam/sathha
 
 असुज्ञत्वं सुज्ञत्वाभावः ।
 
-[Load More](javaऽcriptःvoid(0))

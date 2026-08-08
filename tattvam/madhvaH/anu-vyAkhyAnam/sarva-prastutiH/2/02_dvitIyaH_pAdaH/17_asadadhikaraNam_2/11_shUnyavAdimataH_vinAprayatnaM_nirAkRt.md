@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7900/975/sharam/sathha
 
 सूत्रार्थेति । तथा सत्युत्सूत्रं भाष्यं स्यादिति भावः । ल्यब्लोपेति । ल्यबन्तलोपेत्यर्थः । एतच्चाशेषत इत्येतदाद्यपद्यमूलटीकाप्रपञ्चे प्रपञ्चितमस्माभिः ।
 
-[Load More](javaऽcriptःvoid(0))

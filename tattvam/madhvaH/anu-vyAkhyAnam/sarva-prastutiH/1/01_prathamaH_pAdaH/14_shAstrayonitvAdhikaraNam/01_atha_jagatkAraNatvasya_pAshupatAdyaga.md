@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/19666/975/sharam/sathh
 
 अधिकरणेति । ज्ञातुं शक्यत्वाच्चेत्यन्तं भाष्यकारानुक्तत्वे हेतुः । सङ्गतेर-स्पष्टत्वात्तां दर्शयति उक्तेति ।
 
-[Load More](javaऽcriptःvoid(0))

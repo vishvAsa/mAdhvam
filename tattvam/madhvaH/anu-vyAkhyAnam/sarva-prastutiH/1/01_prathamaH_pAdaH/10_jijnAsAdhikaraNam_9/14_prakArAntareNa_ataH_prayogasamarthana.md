@@ -18,4 +18,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5089/975/sharam/sathha
 
 तल्लिङ्गतयेति ॥ बुद्धिप्रकृतत्वज्ञापकतयेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

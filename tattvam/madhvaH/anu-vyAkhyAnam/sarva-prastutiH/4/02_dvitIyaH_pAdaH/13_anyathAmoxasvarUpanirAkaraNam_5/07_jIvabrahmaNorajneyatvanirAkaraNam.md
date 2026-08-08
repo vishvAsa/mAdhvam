@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9802/975/sharam/sathha
 
 सर्वेवेदा इत्यादेरिति इति । इत्यादेः प्रमाणादित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

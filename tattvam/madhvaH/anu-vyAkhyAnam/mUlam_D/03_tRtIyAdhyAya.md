@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/4837/975/sharam/sathha
 
 इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते ब्रह्मसूत्रानुव्याख्याने तृतीयाध्यायस्य प्रथमः पादः ॥
 
-[Load More](javaऽcriptःvoid(0))

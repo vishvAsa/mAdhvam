@@ -170,4 +170,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7532/975/sharam/sathha
 
 तत्प्रणीताप्रमाणीभूतवाक्य इति इति पाठः । अर्थपदं पदस्थाने लेखकागतम् ।
 
-[Load More](javaऽcriptःvoid(0))

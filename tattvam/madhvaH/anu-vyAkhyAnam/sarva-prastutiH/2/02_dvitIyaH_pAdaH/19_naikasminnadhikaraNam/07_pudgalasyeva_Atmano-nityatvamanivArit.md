@@ -49,4 +49,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7909/975/sharam/sathha
 
 तन्नित्यत्वासिद्धेरिति । परमाण्वादीनामपि रूपादिमत्वेनानित्यत्वस्य सिद्धान्तेऽङ्गीकारादिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -46,4 +46,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6965/975/sharam/sathha
 
 क्षीरदध्नोरिति । तद्दध्यनुपादानक्षीरतद्दध्नोरित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

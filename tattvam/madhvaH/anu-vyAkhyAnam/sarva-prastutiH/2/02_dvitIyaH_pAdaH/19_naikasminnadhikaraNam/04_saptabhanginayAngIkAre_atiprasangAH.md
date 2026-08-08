@@ -74,4 +74,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7906/975/sharam/sathha
 
 केवलं क्षणभङ्ग इत्यादिनेति प्रतीकोपादानम् ।
 
-[Load More](javaऽcriptःvoid(0))

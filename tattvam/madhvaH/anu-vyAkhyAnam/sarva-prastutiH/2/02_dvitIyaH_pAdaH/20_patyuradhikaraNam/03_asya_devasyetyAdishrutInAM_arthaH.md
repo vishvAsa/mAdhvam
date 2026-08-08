@@ -92,4 +92,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7918/975/sharam/sathha
 
 अवष्टब्धधनुष इति पाठः । अन्यत्र प्रमाणलक्षणे ।
 
-[Load More](javaऽcriptःvoid(0))

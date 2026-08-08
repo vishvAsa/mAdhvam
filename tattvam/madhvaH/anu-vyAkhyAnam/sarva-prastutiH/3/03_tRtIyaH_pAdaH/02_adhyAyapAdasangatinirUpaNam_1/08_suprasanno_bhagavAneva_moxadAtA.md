@@ -78,4 +78,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9400/975/sharam/sathha
 
 शास्त्रयोनिसूत्रीयचन्द्रिकानुसारेण शङ्कासमाधाने यद्यपीत्यादिना कृते ॥
 
-[Load More](javaऽcriptःvoid(0))

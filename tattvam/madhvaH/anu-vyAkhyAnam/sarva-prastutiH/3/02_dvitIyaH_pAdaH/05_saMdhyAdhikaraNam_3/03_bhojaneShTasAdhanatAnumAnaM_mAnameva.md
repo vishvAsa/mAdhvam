@@ -32,4 +32,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9220/975/sharam/sathha
 
 विशेषात्प्रतिबन्दीति । विमुद्भाष्येति ल्यब्लोपनिमित्ता पञ्चमी । बाधकसद्भावादिति । व्यभिचारिणो मित्रातनयत्वादेरपि साधकत्वप्रसङ्ग इति बाधकेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9351/975/sharam/sathha
 
 मूले साकारताया नित्यत्वेनेति । ईश्वरशरीरस्य नित्यताया स्वरूपभूतज्ञानानन्दमात्रात्मकत्वेन सिद्धत्वादिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

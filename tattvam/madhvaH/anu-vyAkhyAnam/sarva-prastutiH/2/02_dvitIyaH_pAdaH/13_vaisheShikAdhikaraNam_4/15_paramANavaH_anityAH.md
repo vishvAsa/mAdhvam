@@ -46,4 +46,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7854/975/sharam/sathha
 
 जातिपदार्थमाह । समुदायेति । एतच्च न विलक्षणत्वाधिकरणे व्युत्पादितम् । उपपादयिष्यते च वैराग्यपादे ।
 
-[Load More](javaऽcriptःvoid(0))

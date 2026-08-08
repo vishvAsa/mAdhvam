@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6923/975/sharam/sathha
 
 पूर्वं ज्ञप्तावेवार्थान्तरापेक्षामुपेत्य हरावमुख्यत्वदोषो निरस्तः । अधुना शब्दवृत्तावेवान्यापेक्षामुपेत्य उक्तदोषं निराह इतश्च नायं दोष इत्याहेति ।
 
-[Load More](javaऽcriptःvoid(0))

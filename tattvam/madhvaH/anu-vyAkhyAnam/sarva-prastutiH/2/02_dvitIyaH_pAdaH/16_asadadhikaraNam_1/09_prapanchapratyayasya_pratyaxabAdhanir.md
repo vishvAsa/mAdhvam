@@ -70,4 +70,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7887/975/sharam/sathha
 
 इतीदमितीति । संमतत्वादितीत्यस्येतिशब्दस्य इदमुक्तमित्यत्रत्येदमित्यनेन सम्बन्धः ।
 
-[Load More](javaऽcriptःvoid(0))

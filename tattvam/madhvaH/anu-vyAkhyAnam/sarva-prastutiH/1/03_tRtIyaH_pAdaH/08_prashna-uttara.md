@@ -81,4 +81,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14914/975/sharam/sathh
 
 **इति अक्षराधिकरणम्**
 
-[Load More](javaऽcriptःvoid(0))

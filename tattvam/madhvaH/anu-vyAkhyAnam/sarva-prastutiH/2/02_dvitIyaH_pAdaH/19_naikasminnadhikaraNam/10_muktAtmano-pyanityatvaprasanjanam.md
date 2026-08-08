@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7912/975/sharam/sathha
 
 विकल्पदूषणयोरनुक्तविषयत्वनिरासायाह क्षपणकेन हीति ॥ द्रव्याकारस्येति । विशेष्यस्वरूपस्येत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

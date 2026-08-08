@@ -70,4 +70,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9808/975/sharam/sathha
 
 प्रसक्तस्येति वाक्यप्रतीकोपादानानन्तरमनेन मूले इत्युक्तं भवन्तीत्यन्तं वाक्यम् । तस्यादितः लेखनं लेखकप्रमादात् ।
 
-[Load More](javaऽcriptःvoid(0))

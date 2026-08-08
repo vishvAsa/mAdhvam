@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9668/975/sharam/sathha
 
 न तदितीति ॥ नानार्थकमित्यर्थः । नानेन कथं सिध्यतीति शङ्कापरिहारोनेन सम्भवतीत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

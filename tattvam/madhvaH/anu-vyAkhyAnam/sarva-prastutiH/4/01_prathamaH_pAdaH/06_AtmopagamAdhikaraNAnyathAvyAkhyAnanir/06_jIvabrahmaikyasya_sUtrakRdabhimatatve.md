@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9721/975/sharam/sathha
 
 जीवान्निवारणेति पाठः । जीवेऽवृत्तिमिति । जीवे वृत्यभावमित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

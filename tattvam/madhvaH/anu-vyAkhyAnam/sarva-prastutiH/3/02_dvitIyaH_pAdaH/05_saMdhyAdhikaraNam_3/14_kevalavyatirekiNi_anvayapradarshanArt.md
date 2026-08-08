@@ -28,4 +28,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9231/975/sharam/sathha
 
 विकल्पद्वयमिति । अभिप्रेत्येत्युत्तरेण सम्बन्धः ।
 
-[Load More](javaऽcriptःvoid(0))

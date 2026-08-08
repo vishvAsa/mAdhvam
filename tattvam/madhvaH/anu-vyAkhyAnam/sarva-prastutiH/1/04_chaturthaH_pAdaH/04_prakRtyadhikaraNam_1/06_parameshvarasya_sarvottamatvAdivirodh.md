@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6921/975/sharam/sathha
 
 न्यायविवरणोक्तेरिति । वियत्पादादाविति शेषः ।
 
-[Load More](javaऽcriptःvoid(0))

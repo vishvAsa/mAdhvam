@@ -60,4 +60,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7904/975/sharam/sathha
 
 एकान्तदर्शनस्येति । नियमदर्शनस्येत्यर्थः । असम्भवम् । अनेकान्तवादस्येति शेषः । व्यवस्थितेति । स्वस्वरूपेण भावः, अन्यात्मत्वेन अभाव इत्रत व्यवस्थितेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

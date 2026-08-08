@@ -30,4 +30,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7706/975/sharam/sathha
 
 वदतो वादिन इति द्वितीयाबहुवचनम् ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -36,4 +36,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9784/975/sharam/sathha
 
 साक्षिप्रमाणे कोपेति । कोपलक्षणो यो विरोधादिभिन्नो दोषस्तस्येत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

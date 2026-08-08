@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9835/975/sharam/sathha
 
 दर्शनमितीति प्रतीकोपादानानन्तरमुक्तमितीत्यतः प्राक्संभवतीति । बाधितत्वादिति भाव इत्ययं ग्रन्थः ।
 
-[Load More](javaऽcriptःvoid(0))

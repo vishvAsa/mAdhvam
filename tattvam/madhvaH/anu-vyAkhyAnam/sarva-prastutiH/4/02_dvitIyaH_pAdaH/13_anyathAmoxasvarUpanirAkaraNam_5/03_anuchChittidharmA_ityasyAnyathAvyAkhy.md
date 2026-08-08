@@ -127,4 +127,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9798/975/sharam/sathha
 
 धर्मानुच्छित्तिसिद्धाविति । ज्ञानवदानन्दादिधर्माणामन्यात्मस्वरूपत्वेन तत्स्वरूपाविनाशसिद्धौ तत्स्वरूपभूतानां तेषामप्यविनाशः सिद्ध एवेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

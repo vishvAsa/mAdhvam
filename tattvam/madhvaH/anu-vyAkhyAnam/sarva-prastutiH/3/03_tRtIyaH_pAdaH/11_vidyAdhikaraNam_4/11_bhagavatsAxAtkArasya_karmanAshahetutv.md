@@ -64,4 +64,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9515/975/sharam/sathha
 
 दर्शनविणस्येति । दृष्ट इति दर्शनेन विणस्येत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

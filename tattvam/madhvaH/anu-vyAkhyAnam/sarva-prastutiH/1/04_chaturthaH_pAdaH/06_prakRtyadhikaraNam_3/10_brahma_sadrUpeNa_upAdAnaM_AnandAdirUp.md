@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6967/975/sharam/sathha
 
 इति ज्ञेयमित्यर्थो बोध्यः ।
 
-[Load More](javaऽcriptःvoid(0))

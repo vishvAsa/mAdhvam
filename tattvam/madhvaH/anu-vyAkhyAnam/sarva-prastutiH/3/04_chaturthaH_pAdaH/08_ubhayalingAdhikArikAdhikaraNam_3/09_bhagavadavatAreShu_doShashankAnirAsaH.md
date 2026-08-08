@@ -28,4 +28,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9641/975/sharam/sathha
 
 तस्मादुक्तादित्यादिपूर्वोत्तरविरोधचोद्यस्योत्तरं स्फुटीकरोति एतदुक्तं भवतीति ।
 
-[Load More](javaऽcriptःvoid(0))

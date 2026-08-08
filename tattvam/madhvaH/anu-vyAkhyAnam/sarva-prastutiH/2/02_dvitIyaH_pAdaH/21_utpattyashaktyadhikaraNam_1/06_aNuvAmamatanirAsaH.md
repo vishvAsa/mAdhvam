@@ -32,4 +32,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7935/975/sharam/sathha
 
 स्वाभाविकेति अजन्येत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9660/975/sharam/sathha
 
 तत्वनिर्णयादीति ॥ तत्रहि स्थले तदुभयप्रतिपादनादिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

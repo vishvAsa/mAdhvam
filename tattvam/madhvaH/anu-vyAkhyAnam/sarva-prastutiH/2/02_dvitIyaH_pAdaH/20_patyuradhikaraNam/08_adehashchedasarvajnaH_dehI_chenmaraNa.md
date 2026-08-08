@@ -44,4 +44,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7923/975/sharam/sathha
 
 इहेदं जातमित्यादिव्यवहारस्त्विति मूलवाक्यं शोध्यमस्ति ।
 
-[Load More](javaऽcriptःvoid(0))

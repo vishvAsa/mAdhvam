@@ -88,4 +88,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9624/975/sharam/sathha
 
 प्रायिकत्वेन व्याख्यातत्वादिति ॥ एतच्च तत्वनिर्णयटीकानुसारेण । वस्तुतश् छान्दसत्वमेवात्र वाच्यम् ।
 
-[Load More](javaऽcriptःvoid(0))

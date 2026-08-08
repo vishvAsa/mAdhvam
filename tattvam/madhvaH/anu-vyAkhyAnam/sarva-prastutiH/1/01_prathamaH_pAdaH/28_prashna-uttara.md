@@ -22,4 +22,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14912/975/sharam/sathh
 11. गायत्र्यधिकरणम् 1499  
 12. पादान्त्यप्राणाधिकरणम् 1512
 
-[Load More](javaऽcriptःvoid(0))

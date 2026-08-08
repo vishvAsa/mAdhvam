@@ -36,4 +36,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9479/975/sharam/sathha
 
 न स्वरूपेणेति । सुखदुःखावाप्तिहान्योरन्यतरत्वाभावादिति भावः । उपकुर्वन्ति द्रव्यदानादिना ।
 
-[Load More](javaऽcriptःvoid(0))

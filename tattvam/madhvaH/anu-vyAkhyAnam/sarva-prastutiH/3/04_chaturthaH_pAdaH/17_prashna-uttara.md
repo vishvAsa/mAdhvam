@@ -463,4 +463,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5348/975/sharam/sathha
 
 **॥ इति अनाविष्करणाधिकरणम्** **॥**
 
-[Load More](javaऽcriptःvoid(0))

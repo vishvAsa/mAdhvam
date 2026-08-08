@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9513/975/sharam/sathha
 
 पूर्वोत्तरपदेति । कणादाक्षपादरूपपदद्वयेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

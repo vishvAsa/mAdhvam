@@ -148,4 +148,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7981/975/sharam/sathha
 
 अथवेत्यादिनोक्तयोजनायामित्यर्थ इति । तत्र किं वाज्ञानद्वयमेवैतदित्यादिना । तप्तक्षस्वीकारादिति भावः ।
 
-[Load More](javaऽcriptःvoid(0))

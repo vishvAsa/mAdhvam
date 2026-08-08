@@ -21,4 +21,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/14909/975/sharam/sathh
 
 **॥ इति पादप्रतिपाद्यं संगतिश्च** **॥**
 
-[Load More](javaऽcriptःvoid(0))

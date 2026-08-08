@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9665/975/sharam/sathha
 
 संवृत्ताः सञ्जाताः ।
 
-[Load More](javaऽcriptःvoid(0))

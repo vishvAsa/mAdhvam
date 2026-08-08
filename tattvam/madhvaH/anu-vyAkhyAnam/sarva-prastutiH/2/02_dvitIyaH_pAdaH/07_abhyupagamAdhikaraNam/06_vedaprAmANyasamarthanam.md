@@ -66,4 +66,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7786/975/sharam/sathha
 
 न चेत्यादिमूलमवतारयति नन्वित्यादिना ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9555/975/sharam/sathha
 
 समे विकल्प एव स्यात्पूर्वानुज्ञेति समगुरुस्वीकार एव पूर्वानुज्ञायाः स्पष्टं प्रतीयमानत्वान्मन्देत्युक्तम् ।
 
-[Load More](javaऽcriptःvoid(0))

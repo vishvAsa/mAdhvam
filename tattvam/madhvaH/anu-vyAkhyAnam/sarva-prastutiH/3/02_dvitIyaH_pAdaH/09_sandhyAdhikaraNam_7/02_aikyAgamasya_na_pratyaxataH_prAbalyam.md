@@ -32,4 +32,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9279/975/sharam/sathha
 
 उभयेति । प्रत्यक्षागमेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

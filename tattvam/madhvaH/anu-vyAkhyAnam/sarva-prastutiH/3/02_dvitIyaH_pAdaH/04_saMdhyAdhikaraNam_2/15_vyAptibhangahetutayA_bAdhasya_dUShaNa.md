@@ -36,4 +36,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9217/975/sharam/sathha
 
 अन्यत्रेति । यथार्थज्ञानजनकत्वस्यानुमानवेद्यत्वादित्यादिजिज्ञासाधिकरणीयमूले प्रामाण्यवादीयपद्धतितत्वनिर्णयटीकयोश्चेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

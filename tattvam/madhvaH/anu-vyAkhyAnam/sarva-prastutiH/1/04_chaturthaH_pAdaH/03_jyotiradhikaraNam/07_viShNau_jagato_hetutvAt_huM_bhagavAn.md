@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6905/975/sharam/sathha
 
 
 
-[Load More](javaऽcriptःvoid(0))

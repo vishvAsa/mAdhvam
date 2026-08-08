@@ -56,4 +56,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5095/975/sharam/sathha
 
 निवर्तत इति ॥ तथा च भाष्यकारीयं तन्निकारणं व्यर्थमिति भावः ॥
 
-[Load More](javaऽcriptःvoid(0))

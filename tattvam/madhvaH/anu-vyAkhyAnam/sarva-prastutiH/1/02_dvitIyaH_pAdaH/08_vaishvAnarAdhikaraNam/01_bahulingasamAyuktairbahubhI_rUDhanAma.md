@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6871/975/sharam/sathha
 
 प्रथमाध्यायस्य द्वितीयः पादः ॥ १-२ ॥
 
-[Load More](javaऽcriptःvoid(0))

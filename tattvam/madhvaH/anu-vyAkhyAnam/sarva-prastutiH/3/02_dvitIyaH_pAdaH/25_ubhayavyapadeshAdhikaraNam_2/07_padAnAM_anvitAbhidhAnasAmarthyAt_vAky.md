@@ -74,4 +74,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9383/975/sharam/sathha
 
 पदशक्तिरूपत्वेनेति । पदे विद्यमानो यः शक्तयाख्योऽनागन्तुको धर्मस्तद्रूपत्वेनेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

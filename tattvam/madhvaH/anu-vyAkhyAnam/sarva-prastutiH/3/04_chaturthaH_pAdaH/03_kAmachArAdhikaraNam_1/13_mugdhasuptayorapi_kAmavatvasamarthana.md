@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9581/975/sharam/sathha
 
 विणोपादानमिति । पूर्वत्राविणोपादानमित्यर्थ इत्याशयेनाह । सुप्तं सुप्तिरितीति । भावेक्तमाश्रित्याहेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

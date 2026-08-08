@@ -46,4 +46,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6861/975/sharam/sathha
 
 ॥ ॐ अन्तर उपपत्तेः ॐ ॥ ॥ ॐ सुखविशिष्टाभिधानादेव च ॐ ॥ ॐ अनवस्थितेरसम्भवाच्य नेतरः ॐ ॥ यो हीश्वरेण यस्येत्यत्र, पदार्थस्य यो धर्म इत्यर्थः ॥
 
-[Load More](javaऽcriptःvoid(0))

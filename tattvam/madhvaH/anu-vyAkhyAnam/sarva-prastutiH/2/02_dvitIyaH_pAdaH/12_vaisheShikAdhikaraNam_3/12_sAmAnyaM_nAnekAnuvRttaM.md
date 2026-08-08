@@ -228,4 +228,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7833/975/sharam/sathha
 
 साध्याप्रसिद्धिरिति । नष्टनरत्वस्यैवाभावेन तद्भेदस्याप्रसिद्धिरित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -18,4 +18,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5292/975/sharam/sathha
 
 4\) साधका इति प्रयोगस्य साधुत्वं कथम्‌ । 4275-76
 
-[Load More](javaऽcriptःvoid(0))

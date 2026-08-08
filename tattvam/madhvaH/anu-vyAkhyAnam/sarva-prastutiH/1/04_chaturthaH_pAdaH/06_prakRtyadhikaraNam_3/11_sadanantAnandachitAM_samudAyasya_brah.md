@@ -42,4 +42,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/6968/975/sharam/sathha
 
 ल्लक्षणवाक्यार्थेत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

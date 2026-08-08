@@ -166,4 +166,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7835/975/sharam/sathha
 
 अन्वयव्यतिरेकेति । व्याप्तीत्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -104,4 +104,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/5207/975/sharam/sathha
 
 च संप्रदायशब्दार्थानुगुण्यादिविचारोऽस्माभिः कृतोऽस्ति । तदनुसारेणोपपाद्यम् । अत्रापि लेख्यमस्ति ॥
 
-[Load More](javaऽcriptःvoid(0))

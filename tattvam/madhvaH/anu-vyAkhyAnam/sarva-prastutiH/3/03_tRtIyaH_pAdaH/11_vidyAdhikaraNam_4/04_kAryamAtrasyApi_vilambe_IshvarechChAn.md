@@ -42,4 +42,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9509/975/sharam/sathha
 
 अदृष्टवैकल्यकल्पनयावेति पाठः । ईशेच्छारूपादृष्टातिरिक्तदृष्टान्तवैकल्यकल्पनयेत्यर्थः । तत्र च कार्यकरणं नास्तीत्यस्येति । मूलकोशानुसारिपाठः ।
 
-[Load More](javaऽcriptःvoid(0))

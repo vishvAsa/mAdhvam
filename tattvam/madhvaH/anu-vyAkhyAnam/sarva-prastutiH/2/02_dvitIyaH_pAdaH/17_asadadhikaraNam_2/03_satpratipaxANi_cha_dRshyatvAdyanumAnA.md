@@ -68,4 +68,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/7892/975/sharam/sathha
 
 स्वविषयस्य कदाचिद्बाध्यत्वस्येति । एते च षष्ट्यौ समानाधिकरणे । अथ स्वस्मिन्नपि व्यभिचारमाह । तथा दृश्यत्वस्येति ।
 
-[Load More](javaऽcriptःvoid(0))

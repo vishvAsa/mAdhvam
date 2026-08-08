@@ -66,4 +66,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/9728/975/sharam/sathha
 
 अनैकांत्येनेतीति प्रतीकोपादानम् । प्रसङ्गपदं लेखकप्रसादात् । अनैकान्त्यपरिहार इति नानेकान्त्यमितीति च पाठः ।
 
-[Load More](javaऽcriptःvoid(0))
