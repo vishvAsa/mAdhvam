@@ -4,7 +4,7 @@ upstream_url = "https://dvaitavedanta.in/category-details/17575/17436/sharam/yak
 +++
 ## यस्यर्चो मध्वनामाङ्काश्श्लोकानेकादशागृणन्
 
-  
+    
 
 
 

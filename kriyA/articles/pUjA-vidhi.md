@@ -3,7 +3,7 @@ title = "पूजा-विधिः (kn)"
 +++
 
 
-This is for people who have intense desire to do traditional devapuja according to Madhva Sampradaya and do not have time and are in a hurry.  Following this method will guide one to complete the puja in thirty minutes or less.
+This is for people who have intense desire to do traditional devapuja according to Madhva Sampradaya and do not have time and are in a hurry. Following this method will guide one to complete the puja in thirty minutes or less.
 
 The following are the important aspects of puja kainkarya and consists of the following stages:
 
@@ -43,7 +43,7 @@ Chant the following Agni Mantra and light the lamps.
 OM agninAgniH sanidhyatE kavirgRuha patiryuvA havyavAD juhvAsyaH
 
 ಓಂ ಅಗ್ನಿನಾಗ್ನಿಃ ಸನಿಧ್ಯತೇ ಕವಿರ್ಗೃಹ ಪತಿರ್ಯುವಾ ಹವ್ಯವಾಡ್ ಜುಹ್ವಾಸ್ಯಃ
-Achamana  (24 Keshavadi Nama’s)
+Achamana (24 Keshavadi Nama’s)
 Perform achamane
 
 OM shrii keshavaaya svaaH
@@ -128,9 +128,9 @@ vikhyata: paMcagaMgA prakirtita: kalashOdakENa pujA dravayAni samprokshya, dEvaM
 Shanka Puja
 Take the water from the kalasha and pour it in Shanka
 
-paaMchajanyaya  vidmahE pAvamAnAya theemahI,  tanau: shaMka: prachOdayAt
+paaMchajanyaya vidmahE pAvamAnAya theemahI, tanau: shaMka: prachOdayAt
 
-ಪಾಂಚಜನ್ಯಯ  ವಿದ್ಮಹೇ ಪಾವಮಾನಾಯ ಥೀಮಹೀ,  ತನೌ: ಶಂಕ: ಪ್ರಚೋದಯಾತ್
+ಪಾಂಚಜನ್ಯಯ ವಿದ್ಮಹೇ ಪಾವಮಾನಾಯ ಥೀಮಹೀ, ತನೌ: ಶಂಕ: ಪ್ರಚೋದಯಾತ್
 Nirmalya Puja
 Take out the former day’s flowers and gandha from the deity (Saligrama). As you remove start chanting ambrani suktam, place the deity in an abhisekha plate, and pour water from the kalasha.
 
@@ -143,7 +143,7 @@ ahaM dadhami draviNaM haviShma tE suprAvyE ye ye yajamAnAya sunchatE|
 ahaM raShTrIsaMgamanI vasunAM cIkituShI prathamA yaj~jIyAnAM|
 tAM mA dEvA vyadadhu: purutRABUrisdhAtrAM BUryAvESayaMtim||
 maYAsO annamattiyOvipashyati ya: prANitiya IMshRuNOtyuktam|
-amaMtavOmAMta upakShIyaMti shRUdhi shruddivaMtE  vadAmi||
+amaMtavOmAMta upakShIyaMti shRUdhi shruddivaMtE vadAmi||
 ahamEva svayamidaM vadAmi juShTaM dEvEBiruta mAnuShEBi:|
 yaM kAmayE taMtamugraM kRuNOmi taM brahmANaM tamRuShiM taM sumEdhAm || 1||
 
@@ -164,7 +164,7 @@ ityaMBRuNIsUktaM saMpUrNam
 ಅಹಂ ರಷ್ಟ್ರೀಸಂಗಮನೀ ವಸುನಾಂ ಚೀಕಿತುಷೀ ಪ್ರಥಮಾ ಯಜ್ಞೀಯಾನಾಂ|
 ತಾಂ ಮಾ ದೇವಾ ವ್ಯದಧು: ಪುರುತ್ರ‍ಾಭೂರಿಸ್ಧಾತ್ರಾಂ ಭೂರ್ಯಾವೇಶಯಂತಿಮ್||
 ಮಯಾಸೋ ಅನ್ನಮತ್ತಿಯೋವಿಪಶ್ಯತಿ ಯ: ಪ್ರಾಣಿತಿಯ ಈಂಶೃಣೋತ್ಯುಕ್ತಮ್|
-ಅಮಂತವೋಮಾಂತ ಉಪಕ್ಷೀಯಂತಿ ಶೄಧಿ ಶ್ರುದ್ದಿವಂತೇ  ವದಾಮಿ||
+ಅಮಂತವೋಮಾಂತ ಉಪಕ್ಷೀಯಂತಿ ಶೄಧಿ ಶ್ರುದ್ದಿವಂತೇ ವದಾಮಿ||
 ಅಹಮೇವ ಸ್ವಯಮಿದಂ ವದಾಮಿ ಜುಷ್ಟಂ ದೇವೇಭಿರುತ ಮಾನುಷೇಭಿ:|
 ಯಂ ಕಾಮಯೇ ತಂತಮುಗ್ರಂ ಕೃಣೋಮಿ ತಂ ಬ್ರಹ್ಮಾಣಂ ತಮೃಷಿಂ ತಂ ಸುಮೇಧಾಮ್ || ೧||
 ಅಹಂ ರುದ್ರಾಯ ಧನುರಾತನೋಮಿ ಬ್ರಹ್ಮದ್ವಿಷೆ ಶರವೇ ಹಂತವಾ ಉ|
@@ -298,10 +298,10 @@ OM shAMtiH shAMtiH shAMtiH
 ಶಂ ನೋ ಅಸ್ತುದ್ವಿಪದೇ|
 ಶಂ ಚತುಷ್ಪದೇ|
 ಓಂ ಶಾಂತಿಃ ಶಾಂತಿಃ ಶಾಂತಿಃ
-Take out the deities, clean them and place the deities on the tray for Alankara.  Keep the water as Theertha in 2 cups.
+Take out the deities, clean them and place the deities on the tray for Alankara. Keep the water as Theertha in 2 cups.
 
 Alankara
-Do alankara to deities with chanting Keshava Naama (24) and do archana with flowers, akshata, and thulasi.  If time permits you can chant, Vishnu Sahasra Naama, Krishnastaka, Venkatesha Sthotra.
+Do alankara to deities with chanting Keshava Naama (24) and do archana with flowers, akshata, and thulasi. If time permits you can chant, Vishnu Sahasra Naama, Krishnastaka, Venkatesha Sthotra.
 
 Dhoopam Aagrapayami
 vanaspatyudbhavoM divyO gaMdhADhyOgaMdha Uttama|
@@ -419,7 +419,7 @@ shrIkRushNarpaNmastu.||
 ಕರೋಮಿ ಯದ್ಯತ್ ಸಕಲಂ ಪರಸ್ಮೈ ನಾರಾಯಣಯೇತಿಸಮರ್ಪಯಾಮಿ||
 ಅನಯಾ ಪೂಜಯಾ ಶ್ರೀ ಭರತೀರಮಣ ಮುಖ್ಯಪ್ರಾಣಂತರ್ಗತ ಶ್ರೀ ಲಕ್ಷ್ಮೀವೆಂಕಟೇಶಾತ್ಮಕ ಶ್ರೀ ನರಸಿಂಹಾತ್ಮಕ ಶ್ರೀ ಲಕ್ಷ್ಮಿನಾರಾಯಣಃ ಪ್ರೀಯ ತಾಂ ಪ್ರಿತೋಭವತು
 ಶ್ರೀಕೃಶ್ಣರ್ಪಣ್ಮಸ್ತು.||
-take  thualsi dala, akshate, and water dedicate the puja at the feet of lord
+take thualsi dala, akshate, and water dedicate the puja at the feet of lord
 
 Take teertha, gandha, akshate, angara, and thulasi dala as gods prasada. With this the puja ends.
 
@@ -435,9 +435,9 @@ Madhuni (Honey) Madhusudhanam Aavahayami
 Sarkarayam (Sugar) Achyutham Aavahayami
 Paleshu (Fruits) Narayanam Aavahayami
 Ksheera (Milk) abhisheka:
-OM ApyAyasva sametutE viSwataH sOma vRuShNyaM|  bhavaavaajasya saMgathE|
+OM ApyAyasva sametutE viSwataH sOma vRuShNyaM| bhavaavaajasya saMgathE|
 
-ಓಂ ಆಪ್ಯಾಯಸ್ವ ಸಮೆತುತೇ ವಿಶ್ವತಃ ಸೋಮ ವೃಷ್ಣ್ಯಂ|  ಭವಾವಾಜಸ್ಯ ಸಂಗಥೇ|
+ಓಂ ಆಪ್ಯಾಯಸ್ವ ಸಮೆತುತೇ ವಿಶ್ವತಃ ಸೋಮ ವೃಷ್ಣ್ಯಂ| ಭವಾವಾಜಸ್ಯ ಸಂಗಥೇ|
 Note: During the periods when milk is prohibited, (KSHEERA VRUTHA) milk abhishekam should be omitted.
 
 DHADHI (CURD) ABHISHEKAM:
@@ -446,7 +446,7 @@ surabhinO muKA karatpraNa AyUMShitAri Shat ||
 
 ಓಂ ಧದಿಕ್ರಾವ್ಣೋ ಅಕಾರಿಷಂ ಜಿಷ್ಣೋರಶ್ವಸ್ಯ ವಾಜಿನಃ|
 ಸುರಭಿನೋ ಮುಖಾ ಕರತ್ಪ್ರಣ ಆಯೂಂಷಿತಾರಿ ಷತ್ ||
-Note:  During the periods when curd is prohibited (Dhadhi vratha) curd abhisheka should be omitted.
+Note: During the periods when curd is prohibited (Dhadhi vratha) curd abhisheka should be omitted.
 
 GRUTHA (GHEE) ABHISHEKAM:
 OM GRutaM mImikShE GRutamasya YOniHGrutE shritOGRutamasyadhaama |
@@ -471,10 +471,10 @@ swAdurmitrAya varuNAya vAyavE brahaspatayE madhumaM adAByaH ||
 ಸ್ವಾದುರ್ಮಿತ್ರಾಯ ವರುಣಾಯ ವಾಯವೇ ಬ್ರಹಸ್ಪತಯೇ ಮಧುಮಂ ಅದಾಭ್ಯಃ ||
 
 FRUITS & COCONUT WATER ABHISHEKAM:
-OM yaaH PalinIryA  aphalA   apuShpAyaaScha puShpiNiH|
+OM yaaH PalinIryA aphalA apuShpAyaaScha puShpiNiH|
 bRuhaspati prasUtaastaanO muMcatvaMhasaH ||
 
-ಓಂ ಯಾಃ ಫಲಿನೀರ್ಯಾ  ಅಫಲಾ   ಅಪುಷ್ಪಾಯಾಶ್ಚ ಪುಷ್ಪಿಣಿಃ|
+ಓಂ ಯಾಃ ಫಲಿನೀರ್ಯಾ ಅಫಲಾ ಅಪುಷ್ಪಾಯಾಶ್ಚ ಪುಷ್ಪಿಣಿಃ|
 ಬೃಹಸ್ಪತಿ ಪ್ರಸೂತಾಸ್ತಾನೋ ಮುಂಚತ್ವಂಹಸಃ ||
 
 Shuodaka Snanam karishye

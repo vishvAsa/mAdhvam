@@ -58,7 +58,7 @@ On Tue, May 26, 2020 at 12:51 PM lakshminarayanan harikumar
 > Dear Sriman Krishna,
 > Please accept my pranams. Many thanks for the wonderful article on Lord Sri Rama. I have a question here. I think Sri Vijayindra Tirtha is the first dvaita acharya to quote the Rama Tapaniya Upanishad. Also is Rama tapaniya an accepted upanishad in all vedantic schools? i.e. anyone has quoted this before Sri Vijayindra in any other sampradaya?
 >
-> I have seen Sri Madhvacharya quoting the Narasimha Tapaniya Upanishad. in his anu vyakhyana  But
+> I have seen Sri Madhvacharya quoting the Narasimha Tapaniya Upanishad. in his anu vyakhyana But
 >
 > Kindly request for your views here.
 >
@@ -81,8 +81,8 @@ On Tue, May 26, 2020 at 12:51 PM lakshminarayanan harikumar
 >
 > Shri Rama gives this boon to Rudra:
 >
->   अविमुक्ते तव क्षेत्रे सर्वेषां मुक्तिसिद्धये |
->   अहं सन्निहितः तत्र पाषाणप्रतिमादिषु ||
+> अविमुक्ते तव क्षेत्रे सर्वेषां मुक्तिसिद्धये |
+> अहं सन्निहितः तत्र पाषाणप्रतिमादिषु ||
 >
 > In your Kshetra called Avimukta (another name for Kashi), I will
 > reside in all objects - stones to idols - to enable people get mokSha.
@@ -101,10 +101,10 @@ On Tue, May 26, 2020 at 12:51 PM lakshminarayanan harikumar
 > which is further detailed in the RamopaniShat. Towards the end, Shri
 > Rama instructs Rudra:
 >
->   त्वत्तो वा ब्रह्मणो वापि ये लभन्ते षडक्षरं
->   जीवन्तो मन्त्रसिद्धाः स्युः मुक्ता मां प्राप्नुवन्ति ते ||
->   मुमूर्षोर्दक्षिणे कर्णे यस्य कस्यापि वा स्वयम् |
->   उपदेक्ष्यसि मन्मन्त्रं स मुक्तः भविता शिव ||
+> त्वत्तो वा ब्रह्मणो वापि ये लभन्ते षडक्षरं
+> जीवन्तो मन्त्रसिद्धाः स्युः मुक्ता मां प्राप्नुवन्ति ते ||
+> मुमूर्षोर्दक्षिणे कर्णे यस्य कस्यापि वा स्वयम् |
+> उपदेक्ष्यसि मन्मन्त्रं स मुक्तः भविता शिव ||
 >
 > Those who, when alive, get the 6-syllable-mantra from you or
 > Chaturmukha Brahma, and accomplish the powers of that mantra (i.e. get
@@ -122,7 +122,7 @@ On Tue, May 26, 2020 at 12:51 PM lakshminarayanan harikumar
 > if Rudra gives the upadesha of Rama mantra, one gets mokSha.
 >
 > 3. Shrimad Anandatirtha Bhagavatpadacharya says in his Gitabhashya
-> 3.20 -  if any verse refers to any means to liberation without jnaana
+> 3.20 - if any verse refers to any means to liberation without jnaana
 > or aparoxa, such as dying in Prayaga, the scope of such liberation
 > would be limited to liberation from sins (not from samsaara). Or such
 > is the means to getting knowledge - which will eventually lead to

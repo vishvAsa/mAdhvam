@@ -4,7 +4,7 @@ upstream_url = "https://dvaitavedanta.in/category-details/9354/975/sharam/sathha
 +++
 ## जीवांशाः सर्व एव च
 
-**असिद्धोंऽशत्वहेतुः**
+**असिद्धोऽंशत्वहेतुः**
 
 **जीवांशाः सर्व एव च**
 

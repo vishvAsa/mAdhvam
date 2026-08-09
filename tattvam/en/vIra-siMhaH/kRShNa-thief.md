@@ -38,30 +38,30 @@ Yes in Madhwa philosophy,
 because this is not any type of regretting lord Narayana .  
 This is the most grateful thing about Narayana. 
 
-Also there are  three major differences between a normal thief and lord Narayana. 
+Also there are three major differences between a normal thief and lord Narayana. 
 
 First major different thing is,  
-Normal thieves steal only the biggest worthy and  valuable items in general, like silver, gold, etc.   
+Normal thieves steal only the biggest worthy and valuable items in general, like silver, gold, etc.   
 Not any vegetable waste or wastes of garbage .  
 I mean he stills the only biggest items. not at all the small things.
 
 but lord Narayana is not like this. He will not count the numbers of sins, the smallest and biggest quantity of papa Karmas. Which are done by his devotees.
 
 without any partiality,  
-He steels  every papakarmas  
+He steels every papakarmas  
 From smallest things to bigger ones , ..
 
 so because of this he became the biggest thief..
 
 The second one is,
 
-A normal  thief can steal those items which are earned only in this janma .  
+A normal thief can steal those items which are earned only in this janma .  
 but lord Narayana,  
  steals all papakarmas which are earned in previous infinities of janma.
 
  This is also another reason for calling Narayana as the biggest thief.
 
- So now we came to the  last stage of this discussion ,  
+ So now we came to the last stage of this discussion ,  
 Which is the most important thing.  
   the third reason for calling Narayana the biggest thief.
 
@@ -82,5 +82,5 @@ At anytime he steels
 which are not earned in only this janma.  
 Also which are not even felt as robbed after the robbery.
 
-So we can  say proudly and also loudly ,  
-that our lord Narayana is the one of  biggest thiefs in the world.
+So we can say proudly and also loudly ,  
+that our lord Narayana is the one of biggest thiefs in the world.

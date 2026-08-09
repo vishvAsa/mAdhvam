@@ -125,7 +125,7 @@ jīva is the body. By such an argument a person who is inside the house should b
 6. Sri Krishna says in Gīta   
 —   
 avajānanti māṁ mūḍhā mānuṣīṁ tanumāśritam | paraṁ bhāvamajānanto mama bhūtamaheśvaram   
-अवजानन्ति माम् मूढा मानुषीम् तनुमाश्रितम् ।   
+अवजानन्ति माम् मूढा मानुषीं तनुमाश्रितम् ।   
 परम् भावमजानन्तो मम भूतमहेश्वरम् ॥   
 Gītā - 9-11   
 गीता -९-११   
@@ -157,7 +157,7 @@ It is wrong to think that two entities, which are absolutely different cannot ha
 It is wrong to think that Sri Madhvācārya "could not tolerate even the inseparability.". That can result only from serious   
 misunderstanding of not only Dvaita philosophy, but of the śāstras in general. The inseparability has been stressed ad nauseum and our Acharya has stressed that ad nauseum.   
 "dravyam karma ca kālaśca svabhāvo jīva eva ca yadanugrahataḥ santi na santi yadupekṣayā|"   
-"द्रव्यम् कर्म च कालश्च स्वभावो जीव एव च ।   
+"द्रव्यं कर्म च कालश्च स्वभावो जीव एव च ।   
 यदनुग्रहतः सन्ति न सन्ति यदुपेक्षया ॥"   
 —   
 Bhāgavata – 2-10-12   
@@ -196,14 +196,14 @@ agniryathaiko bhuvanam pratiṣṭho rūpam rūpam prati rūpo babhūva | ekasta
 Kathopaniṣat - 2-2-9   
 —   
 —   
-अग्निर्यथैको भुवनम् प्रतिष्ठो रूपम् रूपम् प्रतिरूपो बभूव ।   
-एकस्तथा सर्व-भूतान्तरात्मा रूपम् रूपम् प्रतिरूपो बहिश्च ॥   
+अग्निर्यथैको भुवनम् प्रतिष्ठो रूपं रूपम् प्रतिरूपो बभूव ।   
+एकस्तथा सर्व-भूतान्तरात्मा रूपं रूपम् प्रतिरूपो बहिश्च ॥   
 -   
 कठोपनिषत् - २-२-९   
 vāyuryathaiko bhuvanam pratiṣṭho rūpam rūpam pratirūpo babhūva | ekastathā sarva-bhūtāntarātmā rūpam rūpam pratirūpo bahiśca || Kathopaniṣat 2-2-10   
 —   
-—वायुर्यथैको भुवनम् प्रतिष्ठो रूपम् रूपम् प्रतिरूपो बभूव ।   
-एकस्तथा सर्व-भूतान्तरात्मा रूपम् रूपम् प्रतिरूपो बहिश्च ॥   
+—वायुर्यथैको भुवनम् प्रतिष्ठो रूपं रूपम् प्रतिरूपो बभूव ।   
+एकस्तथा सर्व-भूतान्तरात्मा रूपं रूपम् प्रतिरूपो बहिश्च ॥   
 - कठोपनिषत् - २-२-१०   
 "The deity Agni enters all the worlds and performs all activities of the fire. All the inert fires are but reflections of this unique sentient God of fire, Agni. Likewise, the Supreme Lord is the unique sentient being that pervades as the indwelling independent force of all the Jivas. Hence the jivas are different from Lord.   
 The deity Vayu enters all the worlds and performs all activities of the fire. All the inert Life-forces are but reflections of this unique sentient God of Life, Vayu. Likewise, the Supreme Lord is the unique sentient being that pervades as the indwelling independent force of all the Jivas. Hence the jivas are different from Lord."   
@@ -214,9 +214,9 @@ janmadyasya yatonvayāditarataścartheṣvabhijñas svarāț tene brahma hṛdā
 dhāmnā svena sadā nirasta-kuhakam satyam param dhimahi Bhāgavata 1-1-   
 1   
 जन्माद्यस्य यतोन्वयादितरतश्चर्थेष्वभिज्ञस्स्वराट्   
-तेने ब्रह्म हृदा य आदिकवये मुह्यन्ति यम् सूरयः ।   
-तेजो वारि मृदाम् यथा विनिमयो यत्र त्रिसर्गो मृषा   
-धाम्ना स्वेन सदा निरस्त-कुहकम् सत्यम् परम् धीमहि ॥   
+तेने ब्रह्म हृदा य आदिकवये मुह्यन्ति यं सूरयः ।   
+तेजो वारि मृदां यथा विनिमयो यत्र त्रिसर्गो मृषा   
+धाम्ना स्वेन सदा निरस्त-कुहकं सत्यम् परं धीमहि ॥   
 -   
 भागवत - १-१-१   
 Here three kinds of creation are mentioned.   
@@ -246,8 +246,8 @@ The varāha purāna ( वराहपुराण) says
 Varāha purāṇa   
 प्रतिबिम्बत्वमायाति मध्योच्चादिविशेषत ॥   
 "brahmādīnām ca muktānām sukham viṣṇusukhasya tu | pratibimbastu vipluṭko viṣṇoreva param sukham ||"   
-ब्रह्मादीनाम् च मुक्तानाम् सुखम् विष्णुसुखस्य तु ।   
-प्रतिबिमबस्तु विप्लुट्को विष्णोरेव परम् सुखम्॥   
+ब्रह्मादीनां च मुक्तानां सुखं विष्णुसुखस्य तु ।   
+प्रतिबिमबस्तु विप्लुट्को विष्णोरेव परं सुखम्॥   
 वराह पुराण   
 Varāha purāṇa   
 वराह पुराण   
@@ -274,8 +274,8 @@ The Visiṣṭādvaitins themselves would not like to equate themselves with the
 2. Agamasiddha:   
 trividhā bhavati śraddhā dehināṁ sā svabhāvajā | sāttvikī rājasī caiva tāmasī ceti tāṁ śṛņu ||   
 Gītā - 17-2   
-त्रिविधा भवति श्रद्धा देहिनाम् सा स्वभावजा।   
-सात्त्विकी राजसी चैव तामसी चेति ताम् शृणु ॥   
+त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा।   
+सात्त्विकी राजसी चैव तामसी चेति तां शृणु ॥   
 गीता - १७-२   
 sattvānurūpā sarvasya śraddha bhavati bhārata |   
 śraddhāmayo'yaṁ puruṣo yo yacchraddhaḥ sa eva saḥ || Gītā – 17-3   
@@ -283,7 +283,7 @@ sattvānurūpā sarvasya śraddha bhavati bhārata |
 श्रद्धामयोऽयम् पुरुषो यो यच्छ्रद्धः स एव सः ॥   
 daivī saṁpadvimokṣāya nibandhāyāsurī matā | mā śucaḥ sampadaṁ daivīmabhijāto'si pāṇḍava ||   
 दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।   
-मा शुचः सम्पदम् दैवीमभिजातोऽसि पाण्डव ॥   
+मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ॥   
 dvau bhūtasargau loke'smindaiva asura eva ca | daivo vistaraśaḥ prokta āsuraṁ pārtha me śṛņu ||   
 द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च।   
 दैवो विस्तरशः प्रोक्त आसुरम् पार्थ मे शृणु ॥   
@@ -328,25 +328,25 @@ Ofcourse. And not just these verses, there are many verses, which describe the v
 The following verses mention eternal hell and mokṣa and instructs what to do to get to mokṣa.   
 tānahaṁ dviṣataḥ krūrān saṁsāreṣu narādhamān | kṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||   
 Gītā - 16-19   
-तानहम् द्विषतः क्रूरान् संसारेषु नराधमान्।   
+तानहं द्विषतः क्रूरान् संसारेषु नराधमान्।   
 क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ॥   
 āsurīṁ yonimāpannā mūḍhā janmanijanmani | māmaprāpyaiva kaunteya tato yāntyadhamāṁ gatim ||   
-आसुरीम् योनिमापन्ना मूढा जन्मनि जन्मनि ।   
-मामप्राप्यैव कौन्तेय ततो यान्त्यधमाम् गतिम् ॥   
+आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।   
+मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ॥   
 trividhaṁ narakasyedaṁ dvāraṁ nāśanamātmanaḥ |   
 गीता - १६-१९   
 Gītā - 16-20   
 गीता - १६-२०   
 kāmah krodhastathā lobhastasmādetattrayam tyajet || Gītā - 16-21   
-त्रिविधम् नरकस्येदम् द्वारम् नाशनमात्मनः।   
-कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयम् त्यजेत्॥   
+त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।   
+कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥   
 etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ | ācaratyātmanaḥ śreyastato yāti parāṁ gatim ||   
 एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः।   
-आचरत्यात्मनः श्रेयस्ततो याति पराम् गतिम्॥   
+आचरत्यात्मनः श्रेयस्ततो याति परां गतिम्॥   
 yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ |   
 na sa siddhimavāpnoti na sukhaṁ na parāṁ gatim ||   
 यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।   
-न स सिद्धिमवाप्नोति न सुखम् न पराम् गतिम्॥   
+न स सिद्धिमवाप्नोति न सुखं न परां गतिम्॥   
 गीता - १६-२१   
 Gītā - 16-22   
 गीता - १६-२२   
@@ -366,8 +366,8 @@ Acharya Madhva never said that all the men become women in their next birth. If 
 born as women.   
 If one likes to see the enormous difference between the glorious interpretation given by Acharya Madhva and other Acharyas for the Gita verse 9,32, here it goes. When others gave with the apparent meaning, which is not only ridiculous, but brings down the stature of the women of our tradition, the true purport is brought out by our Acharya.   
 māṁ hi pārtha vyapāśritya ye'pi syuḥ pāpayonayaḥ | striyo vaiśyāstathā sūdrās te'pi yānti parāṁ gatim ||   
-माम् हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।   
-स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति पराम् गतिम् ॥   
+मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।   
+स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥   
 Sri Shankara gave following commentary   
 —   
 Gītā - 9-32   
@@ -375,8 +375,8 @@ Gītā - 9-32
 "mām hi yasmāt pārtha vyapāśritya mām āśrayatvena gṛhītvā ye'pi syuḥ bhaveyuḥ pāpayonayaḥ pāpā yoniḥ yeṣāṁ te pāpayonayaḥ pāpajanmānaḥ – ke te ityāha striyaḥ vaiśyāḥ tathā śūdrāḥ te api yānti gacchanti parāṁ prakṛṣṭām gatim |   
 - śankarabhāṣya   
 "   
-माम् हि यस्मात् पार्थ व्यपाश्रित्य माम् आश्रयत्वेन गृहीत्वा येऽपि स्युः भवेयुः पापयोनयः पापा योनिः येषाम्   
-ते पापयोनयः पापजन्मानः - के ते इत्याह स्त्रियः वैश्याः तथा शूद्राः ते अपि यान्ति गच्छन्ति पराम् प्रकृष्टाम्   
+मां हि यस्मात् पार्थ व्यपाश्रित्य माम् आश्रयत्वेन गृहीत्वा येऽपि स्युः भवेयुः पापयोनयः पापा योनिः येषां   
+ते पापयोनयः पापजन्मानः - के ते इत्याह स्त्रियः वैश्याः तथा शूद्राः ते अपि यान्ति गच्छन्ति पराम् प्रकृष्टां   
 गतिम्।   
 -   
 शन्करभाष्य   
@@ -384,7 +384,7 @@ Gītā - 9-32
 Sri Rāmānuja's is not very different and has the following commentary   
 striyaḥ vaiśyāḥ śūdrāḥ ca pāpayonayaḥ api mām vyapāśritya parām gatim yānti |   
 Rāmānujabhāṣya   
-स्त्रियः वैश्याः शूद्राः च पापयोनयः अपि माम् व्यपाश्रित्य पराम् गतिम् यान्ति ।   
+स्त्रियः वैश्याः शूद्राः च पापयोनयः अपि मां व्यपाश्रित्य परां गतिं यान्ति ।   
 -   
 रामानुजभाष्य   
 —   
@@ -394,7 +394,7 @@ Both of them in the next verse
 kiṁ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā | anityamasukhaṁ lokamimaṁ prāpya bhajasva mām ||   
 किम् पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा ।   
 Gītā - 9-33   
-अनित्यमसुखम् लोकमिमम् प्राप्य भजस्व माम्॥   
+अनित्यमसुखं लोकमिमम् प्राप्य भजस्व माम्॥   
 गीता - ९-३३   
 indicate that Brāhmaṇas and others are punyayonayaḥ (born meritorious) .   
 That means both of them indicated that the women and śūdras can never be punyayoni ones.   
@@ -404,10 +404,10 @@ Quite magnificently Achārya explains these two verses by simply quoting the Bha
 vipratvādyāstatra puṇyāḥ svābhāvyā eva muktigāḥ || yānti strītvam pumāmso'pi pāpatah kāmato'pivā |   
 na striyo yānti puṁstvaṁ tu svabhāvādeva yāḥ striyaḥ || puṁsā sahaiva puṁdehe sthitiḥ syād varadānataḥ | tajjanmani varāḥ pāpajātābhyo nijasatstriyaḥ || sarveṣāmapi jīvānāmantyadeho yathā nijaḥ | muktau ca nijabhāvaḥ syāt karmabhogāṁstato'pi ca   
 iti Bhaviṣyatparvavacanāt pāpayonayaḥ puṇyā iti viśeṣaṇam   
-पापादिकारिताश्चैव पुंसाम् स्वाभाविका अपि ।   
+पापादिकारिताश्चैव पुंसां स्वाभाविका अपि ।   
 विप्रत्वाद्यास्तत्र पुण्याः स्वाभाव्या एव मुक्तिगाः ॥   
 यान्ति स्त्रीत्वम् पुमांसोऽपि पापतः कामतोऽपिवा ।   
-न स्त्रियो यान्ति पुंस्त्वम् तु स्वभावादेव याः स्त्रियः ॥ पुंसा सहैव पुंदेहे स्थितिः स्याद् वरदानतः।   
+न स्त्रियो यान्ति पुंस्त्वं तु स्वभावादेव याः स्त्रियः ॥ पुंसा सहैव पुन्देहे स्थितिः स्याद् वरदानतः।   
 —   
 Madhvabhāşhya for 9-32   
 तज्जन्मनि वराः पापजाताभ्यो निजसत्स्त्रियः ॥   
@@ -423,11 +423,11 @@ Note the following information from Mūla Mahābhārata itself.
 Bhiṣma narrates to Duryodhana the episode of śikhaṇḍi.   
 "strīlingam dhārayāmāsa sthūņo yakṣo'tha bhārata |   
 yakṣarūpam ca taddīptam sikhaṇḍī pratyapadyata || Mahābhārata   
-स्त्रीलिङ्गम् धारयामास स्थूणो यक्षोऽथ भारत।   
-यक्षरूपम् च तद्दीप्तम् शिखण्डी प्रत्यपद्यत ॥   
+स्त्रीलिङ्गं धारयामास स्थूणो यक्षोऽथ भारत।   
+यक्षरूपं च तद्दीप्तं शिखण्डी प्रत्यपद्यत ॥   
 tataḥ śikhaṇḍī pāṁcālyaḥ puṁsamāsādya pārthiva | viveśa nagaram hṛṣṭaḥ pitaram ca samāsadat ||   
-ततः शिखण्डी पांचाल्यः पुंसमासाद्य पार्थिव।   
-विवेश नगरम् हृष्टः पितरम् च समासदत् ॥   
+ततः शिखण्डी पाञ्चाल्यः पुंसमासाद्य पार्थिव।   
+विवेश नगरं हृष्टः पितरं च समासदत् ॥   
 महाभारत- ५-१९२-९   
 —   
 5-192-9   
@@ -439,12 +439,12 @@ Mahābhārata
 Thereupon the Pānchāla prince śikhaṇḍi, acquiring the manhood, entered his city with great joy and went to his father."   
 "tataḥ sa rājā drupadasya śrutvā vimarśayukto yuvatīrvariṣṭā | sampreṣayāmāsa sucārurūpāḥ śikhaṇḍiņam strīpumānveti vettum ||   
 Mahābhārata   
-ततः स राजा द्रुपदस्य श्रुत्वा विमर्शयुक्तो युवतीर्वरिष्टा। सम्प्रेषयामास सुचारुरूपाः शिखण्डिणम् स्त्रीपुमान्वेति वेत्तुम्॥   
+ततः स राजा द्रुपदस्य श्रुत्वा विमर्शयुक्तो युवतीर्वरिष्टा। सम्प्रेषयामास सुचारुरूपाः शिखण्डिणं स्त्रीपुमान्वेति वेत्तुम्॥   
 —   
 5-192-28   
 - महाभारत - ५-१९२-२८   
 tāḥ preṣitāstattvabhāvam viditvā prītyā rājñe tacchaśaMsurhi sarvam | śikhaṇḍinam puruşam kauravendra dāśārṇarājāya mahānubhāvam ||"   
-ताः प्रेषितास्तत्त्वभावम् विदित्वा प्रीत्या राज्ञे तच्चशंसुर्हि सर्वम् । शिखण्डिनम् पुरुषम् कौरवेन्द्र दाशार्णराजाय महानुभावम्॥   
+ताः प्रेषितास्तत्त्वभावं विदित्वा प्रीत्या राज्ञे तच्चशंसुर्हि सर्वम् । शिखण्डिनम् पुरुषं कौरवेन्द्र दाशार्णराजाय महानुभावम्॥   
 Mahābhārata   
 —   
 5-192-29   
@@ -715,7 +715,7 @@ Further in an eagerness to reject "Madhva theory", an absurd, inconsistent, and 
 tadvāva vijijñāsitavyamiti|"   
 —   
 Chandogya 8-1-1   
-ॐ अथ यदिदमस्मिन् ब्रह्मपुरे दहरम् पुण्डरीकम् वेश्म। दहरोऽस्मिन्नन्तराकाशः। तस्मिन् यदन्तः तदन्वेष्टव्यम्।   
+ॐ अथ यदिदमस्मिन् ब्रह्मपुरे दहरम् पुण्डरीकं वेश्म। दहरोऽस्मिन्नन्तराकाशः। तस्मिन् यदन्तः तदन्वेष्टव्यम्।   
 तद्वाव विजिज्ञासितव्यमिति ।   
 छान्दोग्य ८-१-१   
 "A small abode in the form of the Lotus-heart takes refuge in the All-pervading, Ever-auspicious and Ever-full Lord, pervading this body. In this abode resides a small dahara-ākāśa. In that one must seek that - that alone which is to be sought and known."   
@@ -734,7 +734,7 @@ ubhāvagniśca vāyuśca sūryācandramasāvubhau vidyunnakśatrāṇi yaccāsye
 tadasminsamāhitamiti |"   
 स ब्रूयात् यावान्वा अयमाकाशस्तावानेषोऽन्तर्हृदय अकाश उभे अस्मिन्द्यावापृथिवी अन्तरेव समाहिते   
 उभावग्निश्च वायुश्च सूर्याचन्द्रमसावुभौ   
-विद्युन्नक्शत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वम्   
+विद्युन्नक्शत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वं   
 तदस्मिन्समाहितमिति।   
 —   
 —   
@@ -770,8 +770,8 @@ Scriptures mention Brahman is bliss and Brahman's bliss - both such usages can b
 Visiṣṭādvaita is also wrong in saying that the guṇa-s are different from His essential nature. See the following from Kaṭhopaniṣat.   
 yathodakaṁ durge vṛṣṭaṁ parvateṣu vidhāvati |   
 evaṁ dharmān pṛthak paśyaṁstānevānuvidhāvati || - Kaṭhopaniṣat - 2-1-14   
-यथोदकम् दुर्गे वृष्टम् पर्वतेषु विधावति ।   
-एवम् धर्मान् पृथक् पश्यंस्तानेवानुविधावति॥   
+यथोदकं दुर्गे वृष्टम् पर्वतेषु विधावति ।   
+एवं धर्मान् पृथक् पश्यंस्तानेवानुविधावति॥   
 - कठोपनिषत् - २-१-१४   
 "On the mountains, in hard-to-reach peak places, when the rain falls, slides down fast; just like that one, who sees difference between God and His guṇa-s and one guna and another guna of the Lord goes to the nether worlds, flowing down fast."   
 Hence one must not see any diference between the Lord and His guņas. The right knowledge that there is no difference between the Lord and His guna-s/dharmas will rule out their DBJ concept.   
@@ -834,7 +834,7 @@ Siddhanta:
 That is an empty claim. There is nothing that differentiates Brahman and its body. That is attributing flaws to the Brahman. And also that goes against the scriptures, as will be shown later on.   
 Further, the quotes from Viṣņu purāṇa that they use go against their own claims.   
 viṣṇoḥ sakāśādudbhūtaṁ jagat-tatraiva ca sthitaṁ stithisamyamakartā'sau jagato'sya jagacca saḥ   
-विष्णोः सकाशादुद्भूतम् जगत्-तत्रैव च स्थितम् ।   
+विष्णोः सकाशादुद्भूतं जगत्-तत्रैव च स्थितम् ।   
 स्तिथिसंयमकर्ताऽसौ जगतोऽस्य जगच्च सः ॥   
 where 'jagat cha saḥ'( :) directly equates Viṣṇu with the world.   
 Isn't that the self-destructive position of Visiṣṭādvaita?   
@@ -872,8 +872,8 @@ paramārthasthvamevaiko nānyo asti jagatapateḥ tavaiṣā mahimā yena vyāpt
 There is no indication that the universe is described as His body. In fact the two attributes - Lord of the universe and One who pervades this entire universe of moving and non-moving entities indicate that the Universe is not described as His body.   
 eka samastaṁ yadihāsti kiñcittadacyuto nāsti paraṁ tatho'nyat sohaṁ sa ca tvaṁ sa ca sarvametadātmasvarūpaṁ tyaja bhedamoham|   
 Vi Pu 2.16.23,   
-एक समस्तम् यदिहास्ति किञ्चित्तदच्युतो नास्ति परम् तथोऽन्यत्   
-सोहम् स च त्वम् स च सर्वमेतदात्मस्वरूपम् त्यज भेदमोहम्।   
+एक समस्तं यदिहास्ति किञ्चित्तदच्युतो नास्ति परं तथोऽन्यत्   
+सोहं स च त्वं स च सर्वमेतदात्मस्वरूपं त्यज भेदमोहम्।   
 वि पु २-१६-२३   
 which they mistake as an identity connecting Brahman, selves and jagat.   
 "All this is One. What ever exists here, every tiny bit is that Achyuta. Nothing is more important than that. I am Him. You are that. All of this is Atmasvarūpa. Give up the illusory difference."   
@@ -897,7 +897,7 @@ tadbhāvabhāvamāpannastatho'sau paramātmanā bhavatyabhedi bhedasca tasyājñ
 "Just as the Lord is His full, the mukta reaches his full potency and from the grace of the Lord gives up his anyathārūpatva. This anyathārūpatva is due to the beginningless ajñāna."   
 jyotimṣi Viṣṇurbhuvanāni Viṣṇurvanāni Viṣṇurgirayordiśaśca nadyaḥ samudrāśca sa eva sarvaṁ yadasti yannāsti ca vipravarya |   
 ज्योतीम्षि विष्णुर्भुवनानि विष्णुर्वनानि विष्णुर्गिरयोर्दिशश्च ।   
-नद्यः समुद्राश्च स एव सर्वम् यदस्ति यन्नास्ति च विप्रवर्य ॥   
+नद्यः समुद्राश्च स एव सर्वं यदस्ति यन्नास्ति च विप्रवर्य ॥   
 Vi Pu 2.12.38   
 वि पु २-१२-३८   
 jñānasvarūpo bhagavānyato'sāvaśeṣamūrtirna to vastubhūtaḥ | tato hi śailābdhidharādibhedān jānīhi vjñānavijṛmbhitāni | Pu 2.12.39   
@@ -907,15 +907,15 @@ Vi
 वि पु २-१२-३९   
 yadā tu śuddhaṁ nijarūpi sarvaṁ karmakṣaye jñānamapāstadoṣam |   
 tadā hi saṁkalpataroḥ phalani bhavanti no vastuşu vastubhedāḥ | Vi Pu 2.12.40   
-यदा तु शुद्धम् निजरूपि सर्वम् कर्मक्षये ज्ञानमपास्तदोषम् ।   
-तदा हि सम्कल्पतरोः फलानि भवन्ति नो वस्तुषु वस्तुभेदाः ॥   
+यदा तु शुद्धं निजरूपि सर्वं कर्मक्षये ज्ञानमपास्तदोषम् ।   
+तदा हि सङ्कल्पतरोः फलानि भवन्ति नो वस्तुषु वस्तुभेदाः ॥   
 वि पु २-१२-४०   
 vastvasti kim kutracidādimadhyaparyantahīnam satataikarūpam | yaccānyathātvaṁ dvija yāti bhūyo na tattathā tatra kuto hi tattvam | Vi Pu 2.12.41   
-वस्त्वस्ति किम् कुत्रचिदादिमध्यपर्यन्तहीनम् सततैकरूपम्।   
-यच्चान्यथात्वम् द्विज याति भूयो न तत्तथा तत्र कुतो हि तत्त्वम्।   
+वस्त्वस्ति किं कुत्रचिदादिमध्यपर्यन्तहीनं सततैकरूपम्।   
+यच्चान्यथात्वं द्विज याति भूयो न तत्तथा तत्र कुतो हि तत्त्वम्।   
 विपु २-१२-४१   
 mahī ghaṭatvam ghaṭataḥ kapālikā kapālikā cūrṇa rajastato'ņuḥ | janaiḥ svakarmastimitātmaniścayairālakṣyate brūhi kimatra vastu | Vi Pu 2.12.42   
-मही घटत्वम् घटतः कपालिका कपालिका चूर्ण रजस्ततोऽणुः।   
+मही घटत्वं घटतः कपालिका कपालिका चूर्ण रजस्ततोऽणुः।   
 जनैः स्वकर्मस्तिमितात्मनिश्चयैरालक्ष्यते ब्रूहि किमत्र वस्तु ॥   
 विपु २-१२-४२   
 Some of the apparent meanings are like "Viṣṇu is jyotirmandalas, Viṣṇu is the worlds, Viṣṇu is the forests/gardens, Viṣṇu is the mountains, Viṣṇu is the directions, Visnu is every thing that exists and every thing that does not..."   
@@ -925,14 +925,14 @@ brahmārpaṇam brahma havirbrhmāgnau brahmaṇā hutaḥ | brahmaiva tena gant
 ब्रह्मार्पणम् ब्रह्म हविब्र्ह्मग्नौ ब्रह्मणा हुतः ।   
 ब्रह्मैव तेन गन्तव्यम् ब्रह्म कर्म समाधिना ॥   
 Itihāsapurāṇābhyām vedam samupabṛmhayet |   
-इतिहासपुराणाभ्याम् वेदम् समुपबृम्हयेत्।   
+इतिहासपुराणाभ्यां वेदं समुपबृम्हयेत्।   
 The following vedic (śruti) statement   
 "sarvam khalvidam brahma"   
 —   
 Chāndogya Upanisat -3-14-1   
 गीत - ४-२४   
 Gītā - 4-   
-"सर्वम् खल्विदम् ब्रह्म "   
+"सर्वं खल्विदम् ब्रह्म "   
 -   
 छान्दोग्य उपनिषत् - ३-१४-१   
 is elaborated by statements like the above Gita verse and the above Viṣṇupurāṇa   
@@ -944,7 +944,7 @@ sarvagatvādanantasya sa evāhamavasthitaḥ
 mattaḥ sarvamahaṁ sarvaṁ mayi sarvaṁ sanātane |   
 सर्वगत्वादनन्तस्य स एवाहमवस्थितः ।   
 Vi Pu 1.19.85   
-मत्तः सर्वमहम् सर्वम् मयि सर्वम् सनातने ॥   
+मत्तः सर्वमहं सर्वम् मयि सर्वं सनातने ॥   
 वि पु १-१९-८५   
 The apparent meaning is   
 "Due to the all-pervasiveness of the endless one, I exist as that only, Everything springs from me. I am every thing. Every thing is in me, the ancient one."   
@@ -961,7 +961,7 @@ There are no assumptions. That is śāstra-siddha.
 Look what Sri Krishna says in Gīta   
 —   
 avajānanti māṁ mūḍhā mānuṣīṁ tanumāśritam | paraṁ bhāvamajānanto mama bhūtamaheśvaram   
-अवजानन्ति माम् मूढा मानुषीम् तनुमाश्रितम् ।   
+अवजानन्ति माम् मूढा मानुषीं तनुमाश्रितम् ।   
 परम् भावमजानन्तो मम भूतमहेश्वरम्॥   
 Gitā 9-11   
 गीता ९-११   
@@ -973,7 +973,7 @@ pūrṇamadaḥ pūrṇamidam pūrṇātpūrṇamudacyate | pūrṇasya pūrṇa
 पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥   
 "The Lord is all Full and all-infinite in His mūlarūpa (not needing a physical body) and in all His incarnations also He is infinite and Full of all auspicious attributes (not needing any physical body)."   
 Taittiriya Upaniṣat says -   
-"satyam jñānam anantam brahmā"(सत्यम् ज्ञानम् अनन्तम् ब्रह्मा)   
+"satyam jñānam anantam brahmā"(सत्यं ज्ञानम् अनन्तम् ब्रह्मा)   
 "The Lord is an embodiment of satya, jñāna and He is limitless".   
 Thus His having a body or confined by a body is meaningless.   
 More explanation and reasons for rejecting their idea of Archāvatara can be found further down.   
@@ -1009,10 +1009,10 @@ how can the prākṛitik vigraha get transformed into aprākṛtik śuddha satva
 7. How come the Lord, with śuddha satva body does not even move around. Even the ordinary jīvas like all kinds of animals, humans and birds are able to move around with prākṛtik bodies, but the Lord with aprākṛtik body does not move around?   
 8. Mahāvarāhapurāṇa says the following -   
 anityatvam dehahāniḥ duḥkhaprāptirapūrṇatā | nāśaścaturvidhaḥ proktaḥ tadabhāvo hareḥ sadā | tadanyeṣāṁ tu sarveṣāṁ nāśāḥ kecidbhavanti hi ||   
-अनित्यत्वम् देहहानिः दुःखप्राप्तिरपूर्णता ।   
+अनित्यत्वं देहहानिः दुःखप्राप्तिरपूर्णता ।   
 Mahāvarāhapurāṇa   
 नाशश्चतुर्विधः प्रोक्तः तदभावो हरेः सदा ।   
-तदन्येषाम् तु सर्वेषाम् नाशाः केचिद्भवन्ति हि॥   
+तदन्येषां तु सर्वेषां नाशाः केचिद्भवन्ति हि॥   
 -   
 महावराहपुराण   
 "Destruction of self, Destruction of body, acqusition of sorrow, incompleteness are four kinds of destruction. Sri Hari does not have any of these. All the others have some kind of destruction."   
@@ -1034,7 +1034,7 @@ Pūrvapakṣa:
 Vijayindra ParAjayA - Refutation of Ananda TAratamya   
 MAdhvas believe that having entered into the supreme nature of Brahman, the liberated AtmA enjoys its bliss through themselves, as "mere attempts of intelligence".   
 Siddhānta:   
-That is wrong understanding. Madhvas believe "svatantram asvatantram cha dvividham tatvamiṣyate | svatantro bhagavān viṣṇuḥ"(स्वतन्त्रम् अस्वतन्त्रम् च द्विविधम् तत्वमिष्यते । स्वतन्त्रो भगवान् विष्णुः)   
+That is wrong understanding. Madhvas believe "svatantram asvatantram cha dvividham tatvamiṣyate | svatantro bhagavān viṣṇuḥ"(स्वतन्त्रम् अस्वतन्त्रं च द्विविधं तत्वमिष्यते । स्वतन्त्रो भगवान् विष्णुः)   
 Only Viṣṇu is independent. The liberated ātma enjoys its bliss through Bhagavān Viṣṇu, but as per its own yogyata only. There is no question of enjoying themselves.   
 Pūrvapaksa:   
 Hence, they attempt to refute Vishishtadvaita as follows: The MuktAs do not have all the bliss that the Lord has. Each individual Self gets AnandA based on its own capacities. The MAdhvA provides the following example: just as by performing different sacrifices, different fruits are obtained, similarly, the JivAs, by performing different sAdhanAs, attain different types of pleasures in mokṣa. If Sri Rāmānuja admits Prapatti as an easier alternative to Bhakti, then the individuals attaining mokṣa by Bhakti would have greater anandA as compared to prapannas.   
@@ -1052,7 +1052,7 @@ jñānatāratamya (ज्ञानतारतम्य) is indicative of yogyat
 .   
 jñānatāratamya leads to bhaktitäratamya (HR), which in turn leads to   
 Anandatāratamya (आनन्दतारतम्य).   
-"tadbhaktitāratamyena tāratamyam vimuktigam | " (तद्भक्तितारतम्येन तारतम्यम् विमुक्तिगम् । )   
+"tadbhaktitāratamyena tāratamyam vimuktigam | " (तद्भक्तितारतम्येन तारतम्यं विमुक्तिगम् । )   
 No other way out.   
 Pūrvapaksa:   
 MAdhvAs further assert that if the Vishishtadvaita view of equal AnandA is followed, then it means the JivA has equal status to Brahman. This is against the ShAstrAs.   
@@ -1107,13 +1107,13 @@ Having reached Parabrahman, the jñāni, without leaving Him (the Lord), by His 
 —   
 —   
 muktirhitvā anyathā rūpam svarūpena vyavasthitiḥ | Bhāgavata 2-10-6   
-मुक्तिर्हित्वा अन्यथा रूपम् स्वरूपेन व्यवस्थितिः।   
+मुक्तिर्हित्वा अन्यथा रूपं स्वरूपेन व्यवस्थितिः।   
 -   
 - भागवत २ -१०-६   
 The mukti is nothing but forsaking what is not inherent and enjoying one's own inherent nature (without forsaking the Lord).   
 tadyathaitanyamuṣmādākāśātsamutthāya paraṁ jyotirupasampadya svena rūpeṇābhiniṣpadyante ||   
 Chāndogya - 8-12-2   
-तद्यथैतान्यमुष्मादाकाशात्समुत्थाय परम् ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यन्ते॥   
+तद्यथैतान्यमुष्मादाकाशात्समुत्थाय परं ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यन्ते॥   
 छान्दोग्य - ८-१२-२   
 "Just like the four Vayu, Brahma, Bhārati and Sarasvati, the jīva forsakes his body by the grace of the Lord, reaches the Paramjyoti Paramātma and attains svarūpAnanda āvirbhāva".   
 Note that when it is said that the jīva enjoys its own inherent bliss, even that svarūpa ānanda āvirbhāva happens only from the grace of the Lord. Kaivalya or Self-realization is "Realization of the Supreme self". The mukta jīva revels in the darśana ānanda of the Supreme Lord. That itself is inherent to the mukta jīva.   
@@ -1156,17 +1156,17 @@ te ye śatam mānuṣā ānandāḥ | sa eko manuṣyagandharvāṇāmānandaḥ
 te ye śataṁ manuṣyagandharvāṇāmānandāḥ | sa eko devagandharvāṇāmānandaḥ | śrotriyasya cākāmahatasya ||   
 ते ये शतम् मनुष्यगन्धर्वाणामानन्दाः। स एको देवगन्धर्वाणामानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ devagandharvāṇāmānandāḥ | sa ekaḥ pitṛṇāṁ ciralokalokānāmānandaḥ | śrotriyasya cākāmahatasya ||   
-ते ये शतम् देवगन्धर्वाणामानन्दाः। स एकः पितृणाम् चिरलोकलोकानामानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
+ते ये शतं देवगन्धर्वाणामानन्दाः। स एकः पितृणां चिरलोकलोकानामानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ pitṛṇāṁ ciralokalokānāmānandāḥ | sa eka ājānajānāṁ devānāmānandaḥ | śrotriyasya cākāmahatasya ||   
-ते ये शतम् पितृणाम् चिरलोकलोकानामानन्दाः। स एक आजानजानाम् देवानामानन्दः।   
+ते ये शतम् पितृणां चिरलोकलोकानामानन्दाः। स एक आजानजानां देवानामानन्दः।   
 श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ ājānajānāṁ devānāmānandāḥ | sa ekaḥ karmadevānāṁ devānāmānandaḥ| ye karmaṇā devānapiyanti | śrotriyasya cākāmahatasya ||   
-ते ये शतम् आजानजानाम् देवानामानन्दाः। स एकः कर्मदेवानाम् देवानामानन्दः। ये कर्मणा देवानपियन्ति।   
+ते ये शतम् आजानजानां देवानामानन्दाः। स एकः कर्मदेवानां देवानामानन्दः। ये कर्मणा देवानपियन्ति।   
 श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ karmadevānāṁ devānāmānandāḥ | sa eko devānāmānandaḥ | śrotriyasya cākāmahatasya ||   
-ते ये शतम् कर्मदेवानाम् देवानामानन्दाः। स एको देवानामानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
+ते ये शतं कर्मदेवानां देवानामानन्दाः। स एको देवानामानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ devānāmānandāḥ | sa ekaḥ indrasyā''nandaḥ | śrotriyasya cākāmahatasya ||   
-ते ये शतम् देवानामानन्दाः । स एक इन्द्रस्याऽऽनन्दः । श्रोत्रियस्य चाकामहतस्य ॥   
+ते ये शतं देवानामानन्दाः । स एक इन्द्रस्याऽऽनन्दः । श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śatamindrasyā''nandāḥ | sa ekaḥ bṛhaspaterānandaḥ | śrotriyasya cākāmahatasya ||   
 ते ये शतमिन्द्रस्याऽऽनन्दाः । स एको बृहस्पतेरानन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
 te ye śataṁ bṛhaspaterānandāḥ | sa ekaḥ prajāpaterānandaḥ | śrotriyasya cākāmahatasya ||   
@@ -1174,7 +1174,7 @@ te ye śataṁ bṛhaspaterānandāḥ | sa ekaḥ prajāpaterānandaḥ | śrot
 te ye śataṁ prajāpaterānandāḥ | sa ekaḥ brahmaṇa ānandaḥ | śrotriyasya cākāmahatasya ||   
 ते ये शतम् प्रजापतेरानन्दाः। स एको ब्रह्मण आनन्दः। श्रोत्रियस्य चाकामहतस्य ॥   
 If one sees the prior "rk", it is obvious that the stage is set to describe the gradation of bliss in liberation. It is said earlier on   
-"atha_so.abhayam gato bhavati |" (अथ सोऽभयम् गतो भवति । ) ( Now he acquires   
+"atha_so.abhayam gato bhavati |" (अथ सोऽभयं गतो भवति । ) ( Now he acquires   
 a kind of fearless state and reaches the fearless Lord). If there is still confusion in the minds of the readers, that is expelled in the above "xk".   
 One hundred bliss units of Mukta chakravartis = one bliss unit of mukta Manuşya Gandharvas, who are śrotriyas (obtained the full śravaṇa phala and also devoid of kāmajanita upadravas, meaning they have become āptakāmas).   
 One hundred bliss units of Mukta Manuṣya Gandharvas = one bliss unit   
@@ -1186,7 +1186,7 @@ and then it continues from Mukta Karmaja devatas to Mukta devatas, etc. upto Cha
 Note that in each case, the two words "śrotriyasya" and "akāmahatasya" are repeated tirelessly to avoid any confusion and to emphasize that this is "ānanda mīmāMsa of mukta jīvas only, not amukta jīvas.   
 A similar account is given in BrhadāranyakopaniŞat (बृहदारण्यकोपनिषत् )   
 sa yo manuṣyāṇām rāddhaḥ samṛddho bhavatyanyeṣāmadhipatiḥ sarvairmānuṣyakairbhogaiḥ sampannatamaḥ sa manuṣyāṇāṁ parama ānandaḥ |   
-स यो मनुष्याणाम् राद्धः समृद्धो भवत्यन्येषामधिपतिः सर्वैर्मानुष्यकैर्भोगैः सम्पन्नतमः स मनुष्याणाम्   
+स यो मनुष्याणां राद्धः समृद्धो भवत्यन्येषामधिपतिः सर्वैर्मानुष्यकैर्भोगैः सम्पन्नतमः स मनुष्याणाम्   
 परम आनन्दः ।   
 atha ye śataṁ manuṣyāṇāmānandāḥ sa ekaḥ pitṛṇāṁ jitalokānāmānandaḥ |   
 अथ ये शतम् मनुष्याणामानन्दाः स एकः पितॄणां जितलोकानामानन्दः ।   
@@ -1194,10 +1194,10 @@ atha ye śataṁ manuṣyāṇāmānandāḥ sa ekaḥ pitṛṇāṁ jitalokān
 atha ye śataṁ pitṛṇāṁ jitalokānāmānandāḥ sa ekaḥ gandharvaloka ānandaḥ |   
 अथ ये शतम् पितॄणां जितलोकानामानन्दाः स एकः गन्धर्वलोक आनन्दः ।   
 atha ye sataṁ gandharvaloka ānandāḥ sa ekaḥ karmadevānāmānandaḥ | ye karmaṇā devatvamabhisampadyante |   
-अथ ये शतम् गन्धर्वलोक आनन्दाः स एकः कर्मदेवानामानन्दः । ये कर्मणा देवत्वमभिसम्पद्यन्ते ।   
+अथ ये शतं गन्धर्वलोक आनन्दाः स एकः कर्मदेवानामानन्दः । ये कर्मणा देवत्वमभिसम्पद्यन्ते ।   
 atha ye śataṁ karmadevānāmānandāḥ sa ekaḥ ājānadevānāmānandaḥ | yaśca   
 śrotriyo'vṛjino'kāmahataḥ |   
-अथ ये शतम् कर्मदेवानामानन्दाः स एकः आजानदेवानामानन्दः । यश्च श्रोत्रियोऽवृजिनोऽकामहतः।   
+अथ ये शतं कर्मदेवानामानन्दाः स एकः आजानदेवानामानन्दः । यश्च श्रोत्रियोऽवृजिनोऽकामहतः।   
 atha ye śatamājānadevānāmānandāḥ sa ekaḥ prajāpatiloka ānandaḥ | yaśca   
 śrotriyo'vṛjino'kāmahataḥ |   
 अथ ये शतमाजानदेवानामानन्दाः स एकः प्रजापतिलोक आनन्दः । यश्च श्रोत्रियोऽवृजिनोऽकामहतः।   
@@ -1247,7 +1247,7 @@ Siddhānta:
 The light of this gem will not exceed the light of the Sun. (note   
 that even the light of the Sun is not infinite and it relies on the Lord)   
 yadādityagataṁ tejo jagadbhāsayate'khilam | yaccandramasi yaccāgnau tattejo viddhi māmakam ||   
-यदादित्यगतम् तेजो जगद्भासयतेऽखिलम् ।   
+यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।   
 यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्॥   
 Gītā 15-12   
 गीता १५-१२   
@@ -1272,7 +1272,7 @@ guhagraṁthibhyo vimukto'mřuto bhavati ||
 ब्रह्मैव भवति नास्याब्रह्मवित् कुले भवति ।   
 —   
 Muṇḍakopaniśat - 3-2-9   
-तरति षोकम् तरति पाप्मानम्   
+तरति षोकं तरति पाप्मानं   
 गुहाग्रन्थिभ्यो विमुक्तोऽम्उतो भवति ॥   
 - मुण्डकोपनिषत् - ३-२-९   
 The meaning hidden there has to be understood properly. While Advaitins interpreted this to mean that jīva becomes Brahman, Viśiṣṭādvaitins interpreted that to mean that jīva becomes equal to   
@@ -1281,22 +1281,22 @@ One can get proper meaning from skaṁdapurāṇa () words (as quoted by Acharya
 paraṁ brama viditvā tu bṛṁhitaḥ syāt svayogyataḥ | nāyogyaṁ kiṁcidāpnoti kuta eva harerguṇān |   
 परम् ब्रम विदित्वा तु बृंहितः स्यात् स्वयोग्यतः।   
 - iti ca   
-नायोग्यम् किंचिदाप्नोति कुत एव हरेर्गुणान्।   
+नायोग्यं किञ्चिदाप्नोति कुत एव हरेर्गुणान्।   
 brahmatvaṁ bṛmhitatvaṁ syājjīvānāṁ na parātmatā | asvataṁtrasya jivasya kuto nityasvataṁtratā |   
-ब्रह्मत्वम् बृंहितत्वम् स्याज्जीवानाम् न परात्मता ।   
+ब्रह्मत्वम् बृंहितत्वं स्याज्जीवानां न परात्मता ।   
 अस्वतम्त्रस्य जीवस्य कुतो नित्यस्वतन्त्रता ।   
 - इति च   
 —   
 iti skāṁde   
 -   
-इति स्कांदे   
+इति स्कान्दे   
 "One who knows Parabrahma, becomes full of jñāna ānanda, etc as per one's own yogyata. He cannot acquire even a tiny bit more than his own yogyata. Then where is the question of his acquiring Sri Hari's guṇa-s? Jīvas acquiring Brahmatva or Bṛṁhitatva means as per their yogyata, they become full; it does not mean that they become paramātma or equal to Paramātma. Paramātma is always solely all- independent. How can the ever-dependent jīva acquire independence?   
 Look at what Sri Rāmānuja says while commenting on verses 16-18 of 15th Adhyāya of Gīta   
 akṣaraśabdanirdiṣṭaḥ kūṭasthaḥ acitsaṁsargaviyuktaḥ svena rūpeņa avasthito muktātmā |...uttamaḥ puruṣaḥ tu tābhyāṁ kṣarākṣarāśabdanirdiṣṭābhyāṁ baddhamuktapuruṣābyām anyaḥ arthāntarabhūtaḥ paramātmā iti udāhṛtaḥ   
 |...evam uktaiḥ svabhāvaiḥ kṣaraṁ purușam atītaḥ aham akṣarāt muktādapi uktaiḥ hetubhiḥ utkṛṣṭatamaḥ ataḥ loke vede ca puruṣottamaḥ iti prathitaḥ asmi |   
 Rāmānujabhāsya for 15-16, 15-17, 15-18   
 —   
-अक्षरशब्दनिर्दिष्टः कूटस्थः अचित्संसर्गवियुक्तः स्वेन रूपेण अवस्थितो मुक्तात्मा । ... उत्तमः पुरुषः तु ताभ्याम् क्षराक्षराशब्दनिर्दिष्टाभ्याम् बद्धमुक्तपुरुषाभ्याम् अन्यः अर्थान्तरभूतः परमात्मा इति उदाहृतः।... एवम् उक्तैः   
+अक्षरशब्दनिर्दिष्टः कूटस्थः अचित्संसर्गवियुक्तः स्वेन रूपेण अवस्थितो मुक्तात्मा । ... उत्तमः पुरुषः तु ताभ्यां क्षराक्षराशब्दनिर्दिष्टाभ्याम् बद्धमुक्तपुरुषाभ्याम् अन्यः अर्थान्तरभूतः परमात्मा इति उदाहृतः।... एवम् उक्तैः   
 स्वभावैः क्षरम् पुरुषम् अतीतः अहम् अक्षरात् मुक्तादपि उक्तैः हेतुभिः उत्कृष्टतमः अतः लोके वेदे च पुरुषोत्तमः   
 इति प्रथितः अस्मि।   
 -   
@@ -1399,18 +1399,18 @@ Where is it mentioned that every mukta jīva gets knows every thing about every 
 If ānanda-sāmya were true, then in addition to the following   
 expressions   
 satyam jñānamamantam brahma |   
-सत्यम् ज्ञानममन्तम् ब्रह्म ।   
+सत्यं ज्ञानममन्तम् ब्रह्म ।   
 vijñānamānandam brahma |   
 विज्ञानमानन्दम् ब्रह्म।yaḥ sarvajñaḥ sarvavid yasya jñānamayam tapaḥ | (for Brahman)   
-यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयम् तपः ।   
+यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः ।   
 there should also be following expressions   
 satyam jñānamamantam muktaḥ |   
-सत्यम् ज्ञानममन्तम् मुक्तः ।   
+सत्यं ज्ञानममन्तम् मुक्तः ।   
 vijñānamānandam muktaḥ |   
 विज्ञानमानन्दम् मुक्तः।   
 —   
 yaḥ sarvajñaḥ sarvavid yasya jñānamayam tapaḥ | (for mukta)   
-यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयम् तपः ।   
+यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः ।   
 They are just not there,   
 Pūrvapaksa:   
 (Special Note: This also refutes the MAdhvA's view that Vishishtadvaita believe in equal 'status' of JivA with Brahman in   
@@ -1426,9 +1426,9 @@ This is another wild conjecture the śruti vākya goes
 yadā paśyaḥ paśyate rukmavarṇaṁ kartāramīśam puruşaṁ brahmayonim | tadā vidvān puṇyapāpe vidhūya nirañjanaḥ paramaṁ sāmyamupaiti ||   
 Taittiriya 3-1-3||   
 —   
-यदा पश्यः पश्यते रुक्मवर्णम् कर्तारमीशम् पुरुषम् ब्रह्मयोनिम्।   
+यदा पश्यः पश्यते रुक्मवर्णं कर्तारमीशम् पुरुषम् ब्रह्मयोनिम्।   
 तदा विद्वान् पुण्यपापे विधूय   
-निरंजनः परमम् साम्यमुपैति ॥   
+निरञ्जनः परमं साम्यमुपैति ॥   
 तैत्तिरीय ३-१-३   
 "   
 "When the jīva sees the golden effulgent Paramātma, the creator of the universe, ever-full in all guṇa-s, father of Chaturmukha Brahma, that aparokṣa jñāni gets rid of aniṣṭa aprārabdha punya and aprārabdha pāpa, untouched by future sins, similar to the Brahman, obtains svarūpa-sukha abhivyakti (manifestation of inherent bliss).'   
@@ -1468,8 +1468,8 @@ The śruti vākyas that speak of gradation of bliss pertains to muktas only, but
 Sri Parakālayati's statements have to be discarded based on following Chandogya Upaniṣat statements.   
 aśarīro vāyurabhraṁ vidyutstanayitnuraśarīrāṇyetāni tadyathaitanyamuṣmādākāśātsamutthāya paraṁ jyotirupasampadya   
 svena rūpeṇābhiniṣpadyante ||   
-अशरीरो वायुरभ्रम् विद्युत्स्तनयित्नुरशरीराण्येतानि   
-तद्यथैतान्यमुष्मादाकाशात्समुत्थाय परम् ज्योतिरुपसम्पद्य   
+अशरीरो वायुरभ्रं विद्युत्स्तनयित्नुरशरीराण्येतानि   
+तद्यथैतान्यमुष्मादाकाशात्समुत्थाय परं ज्योतिरुपसम्पद्य   
 Chandogya   
 —   
 8-12-2   
@@ -1477,7 +1477,7 @@ Chandogya
 छान्दोग्य - ८-१२-२   
 evamevaișa saṁprasādo'smāccharīrātsamutthāya paraṁ jyotirupasaṁpadya svena rūpeṇābhiniṣpadyate sa uttamapuruṣaḥ sa tatra paryeti jakśatkrīḍanramamāṇaḥ strībhirvā yānairvā jñātibhirvā'jñātibirvā nopajanam smarannidam śarīram sa yathā prayogya acaraṇe yukta evamevāyamasmiñcharīre prāņo yuktaḥ ||   
 Chandogya - 8-12-3   
-एवमेवैष सम्प्रसादोऽस्माच्छरीरात्समुत्थाय परम् ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते स उत्तमपुरुषः स तत्र पर्येति जक्षन् क्रीडन् रममाणः स्त्रीभिर्वा यानैर्वा ज्ञातिभिर्वाऽज्ञातिभिर्वा नोपजनम् स्मरन्निदम् शरीरम् स यथा   
+एवमेवैष सम्प्रसादोऽस्माच्छरीरात्समुत्थाय परं ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते स उत्तमपुरुषः स तत्र पर्येति जक्षन् क्रीडन् रममाणः स्त्रीभिर्वा यानैर्वा ज्ञातिभिर्वाऽज्ञातिभिर्वा नोपजनं स्मरन्निदं शरीरं स यथा   
 प्रायोग्य आचरणे युक्त एवमेवायमस्मिन् शरीरे प्राणो युक्तः॥   
 छान्दोग्य - ८-१२-३   
 "Vāyu, Brahma, Bharati and Sarasvathi have no śarira abhimāna. Just like these four forsake their bodies by the grace of the Lord, reach Paramjyoti Paramātma and attain svarūpa ānanda āvirbhāva, the jīva also by the grace of the Lord, forsakes the body, reaches Paramjyoti Paramātma and attains svarūpa ānanda āvirbhāva. These liberated ones, by the grace of the Lord, in there (Vaikuntha), they eat, do Vihāra, move about with their women, move in vehicles with those who got mukti along with them and also those who got mukti earlier on.   
@@ -1514,10 +1514,10 @@ aśraddadhānāḥ puruṣā dharmasyāsya parantapa | aprāpya māṁ nivartant
 अश्रद्धधानाः पुरुषा धर्मस्यास्य परन्तप ।   
 39141 414 faadrà HeyrizuracĤfa ||   
 tānahaṁ dviṣataḥ krurānsaṁsāreṣu narādhamān | kṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||   
-तानहम् द्विषतः क्रूरान्संसारेषु नराधमान्।   
+तानहं द्विषतः क्रूरान्संसारेषु नराधमान्।   
 क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ॥   
 āsurīṁ yonimāpannā mūḍhā janmanijanmani | māmaprāpyaiva kaunteya tato yāntyadhamāṁ gatim ||   
-आसुरीम् योनिमापन्ना मूढा जन्मनि जन्मनि ।   
+आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।   
 Gītā - 9-3   
 गीता - ९-३   
 Gītā - 16-19   
@@ -1525,7 +1525,7 @@ Gītā - 16-19
 Gītā   
 -   
 16-20   
-मामप्राप्यैव कौन्तेय ततो यान्त्यधमाम् गतिम् ॥   
+मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ॥   
 गीता - १६-२०   
 "Oh tormentor of the enemies, those who do not trust this knowledge,   
 will not attain me and struggle in the ways of the mrutyu rūpa saMsāra."   
@@ -1539,7 +1539,7 @@ These general statements have no bearing what so ever on their wild claims.
 Further the gradation of bliss in mokṣa is also clearly stated in Brahma sutra   
 —   
 "OM vṛddhihrāsabhāktvamantarbhāvādubhayasāmañjasyādevam OM"   
-ॐ वृद्धिह्रासभाक्त्वमन्तर्भावादुभयसामंजस्यादेवम् ॐ   
+ॐ वृद्धिह्रासभाक्त्वमन्तर्भावादुभयसामञ्जस्यादेवम् ॐ   
 
 
 Brahmasūtra - 3-2-20   
@@ -1603,12 +1603,12 @@ We hear very conflicting statements like
 3. There are two paths   
 —   
 - loke-asmin dvividhā niṣṭhā ...   
-(jñānayogena sāMkhyānām karmayogena yoginām) ( ज्ञानयोगेन सांख्यानाम् कर्मयोगेन योगिनाम्)   
+(jñānayogena sāMkhyānām karmayogena yoginām) ( ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्)   
 3. Bhakti alone is needed for attaining liberation. (nāhamvedairna tapasā...bhaktyā tvananyayā śakya...)   
-(नाहम् वेदैर्न तपसा...भक्त्या त्वनन्यया शक्य....)   
+(नाहं वेदैर्न तपसा...भक्त्या त्वनन्यया शक्य....)   
 4. Prapatti alone is needed for attaining liberation.   
-(sarva dharmān parityajya māmekam śaranam vraja ) ( सर्व धर्मान् परित्यज्य मामेकम्   
-शरणम् व्रज)   
+(sarva dharmān parityajya māmekam śaranam vraja ) ( सर्व धर्मान् परित्यज्य मामेकं   
+शरणं व्रज)   
 If one goes thru all the commentaries, it becomes self-evident, how other schools just got lost and gave very inconsistent replies that dont even hold water and how Acharya Madhva gave brilliant   
 interpretation.A true Prapatti is not possible without proper Bhakti. A true Bhakti is not possible without proper jñāna. Proper karma is not possible without proper jñāna.   
 jñāna mārga and karmamārga that were mentioned is based on prāchurya and so on.   
@@ -1700,7 +1700,7 @@ antaryāmitva).
 This is in Antaryāmi brāhmana (अन्तर्यामि ब्राह्मण ) .   
 yaḥ pṛthivyām tiṣṭhan pṛthivyā antaro, yam pṛthivī na veda, yasya pṛthivī śarīram, yaḥ pṛthivīmantaro yamayati eșa te ātmā antaryāmyamṛtam |   
 - Bṛhadāraṇyakopani şat 3-7-2   
-यः पृथिव्याम् तिष्ठन् पृथिव्या अन्तरो यम् पृथिवी न वेद यस्य पृथिवी शरीरम् यः पृथिवीमन्तरो यमयति एष ते आत्मा अन्तर्याम्यमृतम् ।   
+यः पृथिव्यां तिष्ठन् पृथिव्या अन्तरो यम् पृथिवी न वेद यस्य पृथिवी शरीरं यः पृथिवीमन्तरो यमयति एष ते आत्मा अन्तर्याम्यमृतम् ।   
 - बृहदारण्यकोपनिषत् - ३-७-२   
 (One who stays inside Pṛthivi, One who is different from Pṛthivi, Whom Pṛthivi did not comprehend, in Whose control they exist like a body, One Who is inside as Antaryami or Inner-controller, He is also your Inner-controller and Eternal Inner-controller of all).   
 The Upaniṣat goes on describing the similar thought wrt Water, Fire, Antarikṣa, Vāyu, Dyu, vijñāna etc. Note that we have to take infact the abhimāni devats for these tatvas.   
@@ -1710,7 +1710,7 @@ vijñānam śarīram, yaḥ vijñānamantaro yamayati eșa te ātmā antaryāmya
 | "   
 —   
 · Bṛhadāraṇyakopaniṣat 3-7-22   
-यो विज्ञाने तिष्ठन् विज्ञानादन्तरो यम् विज्ञानम् न वेद यस्य विज्ञानम् शरीरम् यः विज्ञानमन्तरो यमयति एष ते   
+यो विज्ञाने तिष्ठन् विज्ञानादन्तरो यं विज्ञानं न वेद यस्य विज्ञानं शरीरं यः विज्ञानमन्तरो यमयति एष ते   
 आत्मा अन्तर्याम्यमृतम् ।   
 -   
 बृहदारण्यकोपनिषत् - ३-७-२२   
@@ -1757,7 +1757,7 @@ Pūrvapaksa:
 (Sa vaa yEsha yEthEna dhivyEna chakshushA manasaithAn kaamAn pasyan RAMATHE, ya yEthE Brahma 10kE:CU 8.12.5).   
 Siddhānta:   
 It is shocking that they think that this statement refers to jīva. How could they ignore the very next statement ?   
-tam vā etam devā ātmānamupāsate | (तम् वा एतम् देवा आत्मानमुपासते । ) ( The gods   
+tam vā etam devā ātmānamupāsate | (तं वा एतं देवा आत्मानमुपासते । ) ( The gods   
 worship such Lord as the controller of all indriyas).   
 If their interpretation means that it is jīva, that would imply that   
 the next statement indicates that all the gods worship the jīva. That is terrible.   
@@ -1797,14 +1797,14 @@ Chandogya 7-24-1
 —   
 यत्र नान्यत्पश्यति नान्यच्छृणोति नान्यद्विजानाति स   
 भूमा। अथ यत्रान्यत्पश्यत्यन्यच्छृणोत्यन्यद्विजानाति   
-तदल्पम् । यो वै भूमा तदमृतम् । अथ यदल्पम् तन्मर्त्यम् । स   
+तदल्पम् । यो वै भूमा तदमृतम् । अथ यदल्पं तन्मर्त्यम् । स   
 भगवः कस्मिन् प्रतिष्ठित इति । स्वे महिनि यदि वा   
 न महिनि इति ॥   
 छान्दोग्य - ७-२४-१   
 Beyond Whom, one does not see any one else, one does not hear any one else, one does not know any one else, He is bhūma or Infinite one. (Meaning He is the only Independent one). Then, beyond whom, one sees some one else, one hears some one else, one knows some one else, He is alpa or finite one.   
 (Meaning he is dependent one). pūrṇasvarūpa Brahman is nityamukta. Then the alpaguņa jīvas are maraṇaśīlas. (Even the great gods, who become mukta jīvas, they have maraṇaśīlatva before reaching mukti). Then Narada asked "Oh venerable one, such where does that Paramātman take refuge in?" Sanatkumara replied "He takes refuge in His own glorious prosperity, or else it can be said in no oe else's prosperity.".   
 go aśvamiha mahimetyācakśate hastihiraṇyaṁ dāsabhāryaṁ kśetrāṇyāyatanāni iti | nāhamevaṁ bravīmi bravīmīti hovāca | anyo hyanyasmin pratiṣṭhita iti ||   
-गो अश्वमिह महिमेत्याचक्शते हस्तिहिरण्यम् दासभार्यम्   
+गो अश्वमिह महिमेत्याचक्शते हस्तिहिरण्यं दासभार्यं   
 क्शेत्राण्यायतनानि इति । नाहमेवम् ब्रवीमि ब्रवीमीति   
 Chāndogya -7-24-2होवाच। अन्यो ह्यन्यस्मिन् प्रतिष्ठित इति ॥   
 छान्दोग्य - ७-२४-२   
@@ -1812,9 +1812,9 @@ Chāndogya -7-24-2होवाच। अन्यो ह्यन्यस्म
 sa evādhastāt| sa upariṣṭāt | sa paścāt| sa purastāt | sa dakśiṇataḥ | sa uttarataḥ | sa evedam sarvam iti |   
 athāto 'hamkārādeśa eva | ahamevādhastāt | ahamuparistāt | aham paścāt | aham purastāt | ahaṁ dakšiņataḥ | hamuttarataḥ | ahamevedam sarvam iti ||   
 Chāndogya - 7-25-1   
-स एवाधस्तात्। स उपरिष्टात्। स पश्चात्। स पुरस्तात्। स दक्षिणतः। स उत्तरतः। स एवेदम् सर्वम् इति।   
-अथातोऽहंकारादेश एव। अहमेवाधस्तात्। अहमुपरिष्टात्। अहम् पश्चात्। अहम् पुरस्तात्। अहम् दक्षिणतः।   
-अहमुत्तरतः। अहमेवेदम् सर्वम् इति ॥   
+स एवाधस्तात्। स उपरिष्टात्। स पश्चात्। स पुरस्तात्। स दक्षिणतः। स उत्तरतः। स एवेदं सर्वम् इति।   
+अथातोऽहङ्कारादेश एव। अहमेवाधस्तात्। अहमुपरिष्टात्। अहम् पश्चात्। अहम् पुरस्तात्। अहं दक्षिणतः।   
+अहमुत्तरतः। अहमेवेदं सर्वम् इति ॥   
 छान्दोग्य - ७-२५-१   
 —   
 "This is the attribute of Nārāyaṇa nāmaka Paramātma He pervades downward, upward, backward, frontward, leftward, rightward and allover. All are dependent on Him and He alone is independent.   
@@ -1824,10 +1824,10 @@ tadeṣa ślokaḥ
 na paśyo mṛtyum paśyati na rogam nota duḥkhatām |   
 sarvam ha paśyaḥ paśyati sarvamāpnoti sarvaśa iti |   
 sa ekadha bhavati tridhā bhavati pañcadhā saptadhā navadhā caiva punaścai kādaśaḥ smṛtaḥ |   
-śataṁ ca daśa caikaśca sahasrāṇi ca vimśatiḥ | .... Chāndogya – 7-26-2|| तदेष श्लोकः - न पश्यो मृत्युम् पश्यति न रोगम् नोत दुःखताम्।   
-सर्वम् ह पश्यः पश्यति सर्वमाप्नोति सर्वश इति।   
+śataṁ ca daśa caikaśca sahasrāṇi ca vimśatiḥ | .... Chāndogya – 7-26-2|| तदेष श्लोकः - न पश्यो मृत्युम् पश्यति न रोगं नोत दुःखताम्।   
+सर्वं ह पश्यः पश्यति सर्वमाप्नोति सर्वश इति।   
 स एकधा भवति त्रिधा भवति पञ्चधा सप्तधा नवधा चैव पुनश्चैकादशः स्मृतः ।   
-शतम् च दश चैकश्च सहस्राणि च विंशतिः।   
+शतं च दश चैकश्च सहस्राणि च विंशतिः।   
 "As support for the above, this sloka goes   
 छान्दोग्य - ७-२६-२   
 The mukta does not see the anarthas like death, disease, and despair. He sees the activities of the Lord, he obtains the sarva nāmaka Paramātma. He fulfills all of his own deires. He takes one, three, five, seven, nine, eleven, hundred and eleven, thousand and twenty, etc forms."   
@@ -1914,7 +1914,7 @@ Especially since the the intent and the words of the Shruti are both very clear 
 Also note the following statements from Bṛhadāraṇyakopaniṣat   
 eṣā'sya paramā gatiḥ | eṣā'sya paramā saṁpat | eşo'sya paramo lokaḥ | eṣo'sya parama ānandaḥ | etasyaivā''nandasyānyāni bhūtāni mātrāmupajīvanti ||   
 - Bṛhadāraņṇyakopaniṣat   
-एषाऽस्य परमा गतिः। एषाऽस्य परमा संपत् ।   
+एषाऽस्य परमा गतिः। एषाऽस्य परमा सम्पत् ।   
 —   
 4-32   
 —   
@@ -1922,7 +1922,7 @@ eṣā'sya paramā gatiḥ | eṣā'sya paramā saṁpat | eşo'sya paramo loka�
 एतस्यैवाऽऽनन्दस्यान्यानि भूतनि मात्रामुपजीवन्ति ॥   
 
 बृहदारण्यकोपनिषत् - ४-३२   
- 
+  
 "Lord Viṣņu pervades the entire universe. His sampat is infinitely complete. His jñāna is all complete. His bliss is infinitely complete. Other muktas experience an infinitesimal amount of His bliss."   
 
 Pūrvapaksa:   
@@ -2041,16 +2041,16 @@ te ha nāsikyaṁ prāṇamudgīthamupāsāṁcakrire
 छान्दोग्य - १-२-१   
 tam hāsurāḥ pāpmanā vividhustasmāttenobhayaṁ jighrati   
 surabhi ca durgandhi ca pāpmanā hyeṣa viddhaḥ || Chandogya 1-2-2   
-ते ह नासिक्यम् प्राणमुद्गीथमुपासांचक्रिरे   
-तम् हासुराः पाप्मना विविधुस्तस्मात्तेनोभयम् जिघ्रति   
+ते ह नासिक्यम् प्राणमुद्गीथमुपासाञ्चक्रिरे   
+तं हासुराः पाप्मना विविधुस्तस्मात्तेनोभयं जिघ्रति   
 सुरभि च दुर्गन्धि च पाप्मना ह्येष विद्धः ॥   
 छान्दोग्य - १-२-२   
 atha ha vācamudgīthamupāsāṁcakrire tām hāsurāḥ pāpmanā vividhuḥ | tasmāttayobhayaṁ vadati satyaṁ cānṛtaṁ ca pāpmanā hyeṣā viddhā   
-अथ ह वाचमुद्गीथमुपासांचक्रिरे ताम् हासुराः पाप्मना विविधुः ।   
-तस्मात्तयोभयम् वदति सत्यम् चानृतम् च पाप्मना ह्येषा विद्धा ॥   
+अथ ह वाचमुद्गीथमुपासाञ्चक्रिरे तां हासुराः पाप्मना विविधुः ।   
+तस्मात्तयोभयं वदति सत्यं चानृतं च पाप्मना ह्येषा विद्धा ॥   
 —   
 atha ha cakśurudgīthamupāsāṁcakrire taddhāsurāḥ pāpmanā vividhustasmāttenobhayaṁ paśyati darśanīyaṁ cādarśaniyaṁ ca pāpmanā hyetadviddham ||   
-अथ ह चक्षुरुद्गीथमुपासांचक्रिरे तद्धासुराः   
+अथ ह चक्षुरुद्गीथमुपासाञ्चक्रिरे तद्धासुराः   
 पाप्मना विविधुस्तस्मात्तेनोभयम् पश्यति दर्शनीयम्   
 —   
 | |   
@@ -2059,34 +2059,34 @@ Chāndogya - 1-2-3
 Chandogya   
 —   
 1-2-4   
-चादर्शनीयम् च पाप्मना ह्येतद्विद्धम् ॥   
+चादर्शनीयं च पाप्मना ह्येतद्विद्धम् ॥   
 छान्दोग्य - १-२-४   
 atha ha śrotramudgīthamupāsāṁcakrire taddhāsurāḥ pāpmanā vividhustasmāttenobhayam śṛṇoti śravaṇīyaṁ cāśravaṇīyaṁ ca pāpmanā hyetadviddham   
 | |   
 —   
 Chāndogya - 1-2-5   
 —   
-अथ ह श्रोत्रमुद्गीथमुपासांचक्रिरे तद्धासुराः   
-पाप्मना विविधुस्तस्मात्तेनोभयम् शृणोति श्रवणीयम्   
-चाश्रवणीयम् च पाप्मना ह्येतद्विद्धम् ॥   
+अथ ह श्रोत्रमुद्गीथमुपासाञ्चक्रिरे तद्धासुराः   
+पाप्मना विविधुस्तस्मात्तेनोभयं शृणोति श्रवणीयं   
+चाश्रवणीयं च पाप्मना ह्येतद्विद्धम् ॥   
 छान्दोग्य - १-२-५   
 atha ha mana udgīthamupāsāṁcakrire taddhāsurāḥ pāpmanā vividhustasmāttenobhayam saṁkalpate saṁkalpanīyaṁ cāsaṁkalpanīyaṁ ca pāpmanā hyetadviddham   
 | |   
 —   
 Chāndogya - 1-2-6   
-अथ ह मन उद्गीथमुपासांचक्रिरे तद्धासुराः   
-पाप्मना विविधुस्तस्मात्तेनोभयम् संकल्पते संकल्पनीयम्   
-चासंकल्पनीयम् च पाप्मना ह्येतद्विद्धम् ॥   
+अथ ह मन उद्गीथमुपासाञ्चक्रिरे तद्धासुराः   
+पाप्मना विविधुस्तस्मात्तेनोभयं सङ्कल्पते सङ्कल्पनीयं   
+चासङ्कल्पनीयं च पाप्मना ह्येतद्विद्धम् ॥   
 छान्दोग्य - १-२-६   
 atha ha ya evāyaṁ mukhyaḥ prāṇastamudgīthamupāsāṁcakrire tam hāsurā ṛtvā vidadhvaṁsuryathāśmānamākhaṇamṛtvā vidhvaMsetaivam ||   
-अथ ह य एवायम् मुख्यः प्राणस्तमुद्गीथमुपासांचक्रिरे तम् हासुरा ऋत्वा विदध्वंसुर्यथाश्मानमाखणमृत्वा विध्वंसेतैवम् ॥   
+अथ ह य एवायम् मुख्यः प्राणस्तमुद्गीथमुपासाञ्चक्रिरे तं हासुरा ऋत्वा विदध्वंसुर्यथाश्मानमाखणमृत्वा विध्वंसेतैवम् ॥   
 —   
 Chāndogya - 1-2-7   
 —   
 छान्दोग्य - १-२-७   
 yathāśmānamākhaṇamṛtvā vidhvaMsata evam haiva sa vidhvaMsate ya evaṁvidi pāpaṁ kāmayate yaścainamabhidāsati sa eṣo'śmākhaṇaḥ | |   
-यथाश्मानमाखणमृत्वा विध्वंसत एवम् हैव   
-स विध्वंसते य एवंविदि पापम् कामयते   
+यथाश्मानमाखणमृत्वा विध्वंसत एवं हैव   
+स विध्वंसते य एवंविदि पापं कामयते   
 Chandogya - 1-2-8   
 यश्चैनमभिदासति स एषोऽश्माखणः ॥   
 छान्दोग्य - १-२-८   
@@ -2105,7 +2105,7 @@ Again much further down it is said
 yo ha vai jyeṣṭhaṁ ca śreṣṭhaṁ ca veda jyeṣṭhaśca ha vai   
 -   
 śreṣṭhaśca bhavati prāṇo vāva jyeṣṭhaśca śreṣṭhaśca || Chāndogya 5-1-1   
-यो ह वै ज्येष्ठम् च श्रेष्ठम् च वेद ज्येष्ठश्च ह वै   
+यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै   
 श्रेष्ठश्च भवति प्राणो वाव ज्येष्ठश्च श्रेष्ठश्च ॥   
 छान्दोग्य - ५-१-१   
 (one who realizes that Mukhyaprāṇa is jyeṣṭha ans śreṣṭha among all the gods, will get liberated and gets jyeṣṭhatva and shreṣṭhatva among his peers.)   

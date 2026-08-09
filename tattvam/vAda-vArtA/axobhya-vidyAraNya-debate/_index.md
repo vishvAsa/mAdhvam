@@ -16,7 +16,7 @@ Some advaitin sources argue that there was no debate. That may be ignored. For e
 
 ## vidyAraNya's identity
 
-Some mAdhva texts (राघवेन्द्र-विजय) say the prativAdI was avaidika. Some mAdhva texts classify advaita as a vaidika mata; while others like madhva-vijaya calls shAnkara-s avaidikas. Further, it is said explained by commenters as applicable to shAnkaras. A commentator clarifies  - "मायि-भिक्षुम्"। 
+Some mAdhva texts (राघवेन्द्र-विजय) say the prativAdI was avaidika. Some mAdhva texts classify advaita as a vaidika mata; while others like madhva-vijaya calls shAnkara-s avaidikas. Further, it is said explained by commenters as applicable to shAnkaras. A commentator clarifies - "मायि-भिक्षुम्"। 
 
 shRngeri confusion - see [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/misc-gurus).
 
@@ -39,14 +39,14 @@ However, mAdhva sources supposedly agree with vedAnta deshika's role in the deba
 याधार्ध्यत्तै अऱिन्दुहॊळ्ळ वेणुम् ऎऩ्ऱु अनुप्पिवैक्क,  
 वेदान्तदॆशिकरुं 
 > 
->>  "असिना तत्-त्वम्-असिना  
+>> "असिना तत्-त्वम्-असिना  
 परजीव-प्रभेधिना।  
 विद्यारण्य-महारण्यम्  
 अक्षोभ्य-मुनिर् अच्छिनत्॥" 
 > 
 > ऎऱ् ऐऴदि अनुप्पिय् अरुळ,  
 राजावुं वेदान्तदेशिकर् तिरुवडिहळिल्के प्रवणनाय् इरुक्क,  
-विद्यारण्यनुं अत्तैनहियामल्  
+विद्यारण्यनुम् अत्तैनहियामल्  
 शत-दूषिणियै दूषिक्किऱोम् ऎऩ्ऱु शॊल्लिय् अनुप्प,  
 देशिकरुं शतदूषिणियै अनुप्पिय् अरुळ,  
 विद्यारण्यनुम् पार्त्तु ऒरु च-कारत्तिल् मेले कुत्त् इट्टु वरविड,  
@@ -62,11 +62,11 @@ doDDayAchArya -
 > कदाचिद् अक्ष्योभ्य-मुनेश् च विद्या-  
 रण्यस्य जातं बहुलं विवादम्।  
 विलिख्य भूपो विबुधाय यस्मै  
-संप्रेषयाम् आस तम् आश्रयेहं॥७६॥  
+सम्प्रेषयाम् आस तम् आश्रयेहम्॥७६॥  
 तत्-त्वम्-असिना ऽसिना  
 तं विद्यारण्यम् मुनिस् तदा अक्ष्योभ्यः।  
 अच्छिनद् इत्य् अवदद् यस् तं  
-सेवे तत्त्व-निर्णये चतुरं॥७७॥
+सेवे तत्त्व-निर्णये चतुरम्॥७७॥
 
 
 

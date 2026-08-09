@@ -6,7 +6,7 @@ Source: अश्विनीकुमारः, supposedly not from AI, but sus
 
 Kṛṣṇa Dvaipāyana Vyāsa is not an āveśa avatāra; rather, he is a svāṁśa avatāra. You may ask What is the pramāṇa to consider Kṛṣṇa Dvaipāyana as not a jīva, but Viṣṇu-tattva?
 
-This question does not arise, because only his birth is glorified as svāṁśa avatāra, and there is no statement specifying him as a jīva. कृष्णद्वैपायनं व्यासं विद्धि नारायणं प्रभुम् । Instead, Scriptures do not mention others like Bṛhaspati or aswathama as swayam Narayana. Only Satyavatī-Pārāśara-suta and Hari is glorified as Svayam Nārāyaṇa. Also, there are statements in the śāstras which describe how Kṛṣṇa Dvaipāyana deluded the demons and made them think of him as a jīva with doshas. You do not find this for others. Neither Bṛhaspati nor Aśvatthāmā will be reborn as Vyāsa. They are Chirañjīvi.  Instead, they are empowered by Vyāsa-rūpa Bhagavān to act on his behalf.  Also, the śāstras do not mention Kṛṣṇa Dvaipāyana, Hari as a common jīva without āveśa before becoming Vyasa, unlike Aśvatthāmā and Bṛhaspati. In contrast, others have different stories explaining how they were elevated to Vyāsa-pada.
+This question does not arise, because only his birth is glorified as svāṁśa avatāra, and there is no statement specifying him as a jīva. कृष्णद्वैपायनं व्यासं विद्धि नारायणं प्रभुम् । Instead, Scriptures do not mention others like Bṛhaspati or aswathama as swayam Narayana. Only Satyavatī-Pārāśara-suta and Hari is glorified as Svayam Nārāyaṇa. Also, there are statements in the śāstras which describe how Kṛṣṇa Dvaipāyana deluded the demons and made them think of him as a jīva with doshas. You do not find this for others. Neither Bṛhaspati nor Aśvatthāmā will be reborn as Vyāsa. They are Chirañjīvi. Instead, they are empowered by Vyāsa-rūpa Bhagavān to act on his behalf. Also, the śāstras do not mention Kṛṣṇa Dvaipāyana, Hari as a common jīva without āveśa before becoming Vyasa, unlike Aśvatthāmā and Bṛhaspati. In contrast, others have different stories explaining how they were elevated to Vyāsa-pada.
 
 Śrī Madhvācārya’s doctrine of Vyāsa-traya refers to three distinct manifestations associated with “Vyāsa”, each with a different ontological status (tattva-bheda). This is a standard and important point in Tattvavāda (Dvaita Vedānta).
 
@@ -50,16 +50,16 @@ Always, only Kṛṣṇa Dvaipāyana Vyāsa, Hari are to be worshipped through t
 ## 28 Vyāsas
 28 Vyāsas — Manvantara-wise Table from Vāyu Purāṇa,Brahmāṇḍa Purāṇa,Matsya Purāṇa
 
-| # | Manvantara  | Name of Vyāsa           | Ontological note        |
+| # | Manvantara | Name of Vyāsa | Ontological note |
 | - | ----------- | ----------------------- | ----------------------- |
-| 1 | Svāyambhuva | Prajāpati (Brahmā)  | Empowered manifestation |
-| 2 | Svāyambhuva | Prācetasa           | Ṛṣi, aṁśa               |
-| 3 | Svāyambhuva | Uśanas (Śukrācārya) | Deva-guru, empowered    |
-| 4 | Svāyambhuva | Bṛhaspati           | Deva-guru, empowered    |
-| 5 | Svāyambhuva | Savitr̥             | Deity-form              |
-| 6 | Svāyambhuva | Mṛtyu               | Deity-form              |
-| 7 | Svāyambhuva | Indra               | Deva-form               |
-| 8 | Svāyambhuva | Vasiṣṭha            | Ṛṣi, aṁśa               |
+| 1 | Svāyambhuva | Prajāpati (Brahmā) | Empowered manifestation |
+| 2 | Svāyambhuva | Prācetasa | Ṛṣi, aṁśa |
+| 3 | Svāyambhuva | Uśanas (Śukrācārya) | Deva-guru, empowered |
+| 4 | Svāyambhuva | Bṛhaspati | Deva-guru, empowered |
+| 5 | Svāyambhuva | Savitr̥ | Deity-form |
+| 6 | Svāyambhuva | Mṛtyu | Deity-form |
+| 7 | Svāyambhuva | Indra | Deva-form |
+| 8 | Svāyambhuva | Vasiṣṭha | Ṛṣi, aṁśa |
 | 9 | Svārociṣa | Sarasvata | Ṛṣi |
 |10 | Svārociṣa | Tridhāman | Ṛṣi |
 |11 | Svārociṣa | Trivṛt | Ṛṣi |
